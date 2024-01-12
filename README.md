@@ -8,14 +8,20 @@ In Oct 2022, I created a basic bird identification game using Streamlit. Thereâ€
 
 ## Set Up
 
-Prerequisites, install streamlit by running:
+Prerequisites, you'll need docker installed. Either head to [this link](https://docs.docker.com/get-docker/) or if you have home brew run:
 ```zsh
-pip3 install streamlit
+brew install docker
 ```
 
 To play, run:
 ```zsh
-streamlit run game.py
+auto/twitch
+```
+
+or
+
+```zsh
+docker compose up
 ```
 
 ## The Game

@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+docker build -t my-game-image .
+docker run -p 8501:8501 my-game-image

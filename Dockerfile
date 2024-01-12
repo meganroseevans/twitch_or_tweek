@@ -1,9 +1,13 @@
-FROM python:3.10
+FROM python:3.9-slim
 
-WORKDIR /jup
+WORKDIR /app
 
-RUN pip install jupyter -U && pip install jupyterlab
+COPY . .
 
-EXPOSE 8888
+RUN pip3 install -r requirements.txt
 
-ENTRYPOINT ["jupyter", "lab","--ip=0.0.0.0","--allow-root"]
+EXPOSE 8501
+
+HEALTHCHECK CMD curl --fail http://localhost:8501/_stcore/health
+
+ENTRYPOINT ["streamlit", "run", "game.py", "--server.port=8501", "--server.address=0.0.0.0"]
