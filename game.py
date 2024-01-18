@@ -31,15 +31,10 @@ if "selection_made" not in st.session_state:
 if "current_bird" not in st.session_state:
     st.session_state.current_bird, st.session_state.current_bird_image, st.session_state.buttons, st.session_state.correct_bird_index = pick_new_birds(st.session_state.bird_images, mode)
 
-# st.components.v1.html(f"""
-#                       <iframe src="https://macaulaylibrary.org/asset/496551851/embed" height="383" width="640" frameborder="0" allowfullscreen></iframe>
-#                       """)
-
 col_image, col_buttons_1 = st.columns([2,1])
 
 with col_image:
     st.image(f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{st.session_state.current_bird_image}/1200')
-    # for audio clips
 
     if not st.session_state.selection_made:
         with col_buttons_1:
