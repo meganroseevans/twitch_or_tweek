@@ -23,13 +23,9 @@ mode = st.sidebar.radio('Difficulty',['hard mode','easy mode'])
 st.subheader('Name that bird!')
 
 if "bird_images" not in st.session_state:
-    st.session_state.bird_images = pd.read_csv('ebird_images.csv') #streamlit runs from the main directory rather than the subdirectory the python file is in
+    st.session_state.bird_images = pd.read_csv('data/ebird_images.csv') #streamlit runs from the main directory rather than the subdirectory the python file is in
 if "score" not in st.session_state:
     st.session_state.score = 0
-if "time_to_guess" not in st.session_state:
-    st.session_state.time_to_guess = True
-if "time_to_refresh" not in st.session_state:
-    st.session_state.time_to_refresh = False
 if "selection_made" not in st.session_state:
     st.session_state.selection_made = False
 if "current_bird" not in st.session_state:
@@ -45,21 +41,24 @@ with col_image:
     st.image(f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{st.session_state.current_bird_image}/1200')
     # for audio clips
 
-with col_buttons_1:
     if not st.session_state.selection_made:
-        for i in range(len(st.session_state.buttons)):
-            buttons = st.button(f'{st.session_state.buttons[i]}')
-            if buttons and st.session_state.correct_bird_index == i:
-                st.balloons()
-                st.session_state.score +=1
-                st.session_state.selection_made = True
-            elif buttons and st.session_state.correct_bird_index != i:
-                st.snow()
-                st.session_state.score -=1
-                st.session_state.selection_made = True
-    if st.session_state.selection_made:
-        st.session_state.current_bird, st.session_state.current_bird_image, st.session_state.buttons, st.session_state.correct_bird_index = pick_new_birds(st.session_state.bird_images ,mode)
-        st.session_state.selection_made = False
+        with col_buttons_1:
+            for i in range(len(st.session_state.buttons)):
+                buttons = st.button(f'{st.session_state.buttons[i]}')
+                if buttons and st.session_state.correct_bird_index == i:
+                    st.balloons()
+                    st.session_state.score +=1
+                    st.session_state.selection_made = True
+                elif buttons and st.session_state.correct_bird_index != i:
+                    st.snow()
+                    st.session_state.score -=1
+                    st.session_state.selection_made = True
+
+if st.session_state.selection_made:
+    st.write(f'This is a {st.session_state.current_bird}')
+    st.button('Next')
+    st.session_state.current_bird, st.session_state.current_bird_image, st.session_state.buttons, st.session_state.correct_bird_index = pick_new_birds(st.session_state.bird_images ,mode)
+    st.session_state.selection_made = False
         
 st.sidebar.subheader("Your Score")
 st.sidebar.metric("score",st.session_state.score,label_visibility='collapsed')
