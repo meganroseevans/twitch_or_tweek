@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bird Guessing Game</title>
+    <style>
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bird Guessing Game</h1>
+    <p>Score: <span id="userScore">{{ user_score }}</span></p>
+    <img id="birdImage" src="{{ bird_image_url }}" alt="Bird Image">
+    <form id="guessForm">
+        {% for bird in bird_names %}
+            <label>
+                <input type="radio" name="selected_bird" value="{{ bird }}">
+                {{ bird }}
+            </label><br>
+        {% endfor %}
+        <input type="hidden" id="correctBird" name="correct_bird" value="{{ bird_name }}">
+        <br>
+        <button type="button" onclick="checkAnswer()">Submit Answer</button>
+    </form>
+
+    <script>
+        function checkAnswer() {
+            const formData = new FormData(document.getElementById('guessForm'));
+            fetch('/check_answer', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('userScore').innerText = data.score;
+                document.getElementById('birdImage').src = data.bird_image_url;
+
+                if (!data.correct) {
+                    alert(`Incorrect! The correct bird is ${data.correct_bird}`);
+                }
+            })
+            .catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>
