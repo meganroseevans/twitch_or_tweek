@@ -7,15 +7,11 @@ def pick_new_birds(bird_images_df, mode):
     selected_bird = bird_images_df.sample().iloc[0]
     bird_name, bird_image, bird_category = selected_bird['name'], selected_bird['image_id'], selected_bird['category']
 
-    # Retrieve list of unique birds. Both across all birds and within the selected bird's category. For use in finding multichoice birds to display.
-    birds_in_category = bird_images_df[bird_images_df.category == bird_category].name.unique().tolist()
-    all_other_birds = bird_images_df.name.unique().tolist()
-
     # Determine other birds to display based on the game mode
     if mode == 'easy mode':
-        other_birds = [x for x in all_other_birds if x != bird_name]
+        other_birds = [x for x in bird_images_df.name.unique().tolist() if x != bird_name]
     elif mode == 'hard mode':
-        other_birds = [x for x in birds_in_category if x != bird_name]
+        other_birds = [x for x in bird_images_df[bird_images_df.category == bird_category].name.unique().tolist() if x != bird_name]
 
     # Determine the number of buttons to display and shuffle the order
     num_buttons = min(5, len(other_birds))
