@@ -10,7 +10,7 @@ SELECT
     WHEN REGEXP_CONTAINS(LOWER(name),r'(catbird|bower)') THEN 'bower'
     WHEN REGEXP_CONTAINS(LOWER(name),r'robin') THEN 'robins'
     WHEN REGEXP_CONTAINS(LOWER(name),r'(owl|nightjar|boobook|frogmouth)') THEN 'owl'
-    WHEN REGEXP_CONTAINS(LOWER(name),r'(finch|firetail|mannikin)') THEN 'finches'
+    WHEN REGEXP_CONTAINS(LOWER(name),r'(finch|firetail|mannikin|munia)') THEN 'finches'
     WHEN REGEXP_CONTAINS(LOWER(name),r'(rifle|koel|coucal|pratincole|tropicbird|channel|friarbird)') THEN 'misc'
     WHEN REGEXP_CONTAINS(LOWER(name),r'(parrot|lorikeet|budgerigar|cockatiel|ringneck)') THEN 'parrots'
     WHEN REGEXP_CONTAINS(LOWER(name),r'(cockatoo|corella|galah)') THEN 'cockatoos'
@@ -36,4 +36,4 @@ SELECT
     WHEN REGEXP_CONTAINS(LOWER(name),r'(tern|skua|petrel|shearwater|albatross|gull|gannet|noddy)') THEN 'seabirds'
   ELSE NULL
   END AS category
-FROM `rea-gcp-aud-datascience-sbox.megan.bird_images`
+FROM images

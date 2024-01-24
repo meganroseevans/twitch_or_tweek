@@ -1,12 +1,12 @@
 # My Bird Game
 
-In Oct 2022, I created a basic bird identification game using Streamlit. There’s a few changes I’d like to make to it, including: deploying as a real website, ironing out glitches and bugs, convert it from streamlit to a pure python program.
+Head to www.twitch-or-tweek.streamlit.app to play 🎉
 
 <video width="400" height="240" controls>
-  <source src="twitch_or_tweek_clip.mov" type="video/mp4">
+  <source src="assets/twitch_or_tweek_clip.mov" type="video/mp4">
 </video>
 
-## Set Up
+## To run locally
 
 Prerequisites, you'll need docker installed. Either head to [this link](https://docs.docker.com/get-docker/) or if you have home brew run:
 ```zsh
@@ -15,29 +15,33 @@ brew install docker
 
 To play, run:
 ```zsh
-auto/twitch
-```
-
-or
-
-```zsh
-docker compose up
+$ auto/twitch
 ```
 
 ## The Game
 
 Twitch or Tweek is a bird naming game to help me (and fellow twitchers) practise their bird identification. Guess the bird shown in the image.
 
-There are two modes which change the options presented in the multi-choice buttons:
-- `easy`: Multi-choice is made up of a random selection of ALL birds in Australia
-- `hard`: Multi-choice is made up of ONLY similar birds to the one shown in the image
+There are four modes which change the options presented in the multi-choice buttons:
+- `🥚 beginner`: Three (3) multi-choice options randomly selected from ALL birds in Australia
+- `🐣 intermediate`: Four (4) multi-choice options randomly selected from ALL birds in Australia
+- `🦆 advanced`: Five (5) multi-choice options randomly selected from similar birds to the one shown in the image
+- `🦅 twitcher`: Six (6) multi-choice options randomly selected from similar birds to the one shown in the image
 
 ## To Do
 
-1. Dockerize
-1. Fix bug: double click to reload
-1. Instant easy-hard mode switch
-1. Connect to a continuous data source, e.g. a bird image API if one exists
+- [x] Dockerize (see [Dockerfile](./Dockerfile), [docker-compose.yaml](./docker-compose.yaml) and [auto/twitch](./auto/twitch))
+- [x] Fix bug: Double click to reload
+- [x] Fix bug: Instant easy-hard mode switch (post-mortem: streamlit `on_click` function runs prior to variable assigment, fix: check for mode change)
+- [x] Find way to collect bird data without click ops (see [get_bird_images.js](./data/get_bird_images.js))
+- [ ] Audio clips
+- [ ] Better categorisation, e.g. grouping by bird colours and genus
+- [ ] Make bird data script automated with Lambda & S3
+- [ ] Work out a way to do a Delta of new and existing data
+- [ ] Consider doing enrichment within S3
+- [ ] Look into JSON rather than CSV - wider use format, faster to read(?)
+- [ ] Try to run bird grouping SQL locally
+- [ ] Add tests - 1) UI app so build tests to check user interactions 2) Test backend for things exposed to user or shared internally
 
 ## Data Sources
 
