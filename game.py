@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import random
 import requests
+import re
 
 class BirdGame:
     def __init__(self, bird_images_df):
@@ -9,7 +10,7 @@ class BirdGame:
         self.bird_images_df = bird_images_df
         self.score = 0
         self.region = 'AU'
-        self.mode = ' intermediate'
+        self.mode = '2 :duck: intermediate'
         self.selection = None
         self.target_bird_name, self.target_bird_image, self.multichoice_options, self.correct_bird_index = self.start_new_round()
         self.buttons = [self.multichoice_options]
@@ -22,19 +23,22 @@ class BirdGame:
     def get_multichoice_options(self, target_bird_category):
         """Return list of bird names for multichoice button labels, based on game difficulty."""
 
+        full_bird_list = [re.sub('\s\(.+\)','',x) for x in self.bird_images_df.name]
+        full_bird_list = [re.sub('\s\(.+\)','',x) for x in self.bird_images_df.name[self.bird_images_df.category == target_bird_category]]
+
         # Set multichoice options based on game difficulty
-        if self.mode == ':hatching_chick: beginner':
+        if self.mode == '1 :hatching_chick: beginner':
             num_options = 2
-            non_target_birds = [x for x in self.bird_images_df.name.unique().tolist() if self.target_bird_name not in x]            
-        elif self.mode == ':eagle: advanced':
+            non_target_birds = [x for x in set(full_bird_list) if self.target_bird_name not in x]            
+        elif self.mode == '3 :eagle: advanced':
             num_options = 4
-            non_target_birds = [x for x in self.bird_images_df[self.bird_images_df.category == target_bird_category].name.unique().tolist() if x != self.target_bird_name]
-        elif self.mode == ':owl: twitcher':
+            non_target_birds = [x for x in set(full_bird_list) if x != self.target_bird_name]
+        elif self.mode == '4 :owl: twitcher':
             num_options = 5
-            non_target_birds = [x for x in self.bird_images_df[self.bird_images_df.category == target_bird_category].name.unique().tolist() if x != self.target_bird_name]
+            non_target_birds = [x for x in set(full_bird_list) if x != self.target_bird_name]
         else:
             num_options = 3
-            non_target_birds = [x for x in self.bird_images_df.name.unique().tolist() if self.target_bird_name not in x]
+            non_target_birds = [x for x in set(full_bird_list) if self.target_bird_name not in x]
 
         # Select random sample of bird names for button labels
         multichoice_options = [self.target_bird_name] + random.sample(non_target_birds, min(num_options, len(non_target_birds)))
@@ -42,10 +46,6 @@ class BirdGame:
 
         # Register button index containing target bird
         correct_bird_index = multichoice_options.index(self.target_bird_name)
-
-        if len(non_target_birds) < num_options - 1:
-            self.start_new_round()
-            st.write(non_target_birds)
 
         return multichoice_options, correct_bird_index
 
@@ -60,6 +60,9 @@ class BirdGame:
         """
         self.target_bird_name, self.target_bird_image, self.target_bird_category = self.get_target_bird()
         self.multichoice_options, self.correct_bird_index = self.get_multichoice_options(self.target_bird_category)
+
+        if len(self.multichoice_options) < int(float(self.mode.split(' ')[0])) + 1:
+            self.start_new_round()
 
         return self.target_bird_name, self.target_bird_image, self.multichoice_options, self.correct_bird_index
 
@@ -122,7 +125,7 @@ def play_game(bird_game):
 
     # Display game difficulty selection
     mode_previous = bird_game.mode
-    bird_game.mode = st.sidebar.radio('Difficulty', [':hatching_chick: beginner',':duck: intermediate',':eagle: advanced',':owl: twitcher'], 1)
+    bird_game.mode = st.sidebar.radio('Difficulty', ['1 :hatching_chick: beginner','2 :duck: intermediate','3 :eagle: advanced','4 :owl: twitcher'], 1)
     
     # If difficulty is changed, update the multichoice options
     if mode_previous != bird_game.mode:
