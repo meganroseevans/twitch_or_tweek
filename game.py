@@ -35,13 +35,17 @@ class BirdGame:
         else:
             num_options = 3
             non_target_birds = [x for x in self.bird_images_df.name.unique().tolist() if self.target_bird_name not in x]
-        
+
         # Select random sample of bird names for button labels
         multichoice_options = [self.target_bird_name] + random.sample(non_target_birds, min(num_options, len(non_target_birds)))
         random.shuffle(multichoice_options)
 
         # Register button index containing target bird
         correct_bird_index = multichoice_options.index(self.target_bird_name)
+
+        if len(non_target_birds) < num_options - 1:
+            self.start_new_round()
+            st.write(non_target_birds)
 
         return multichoice_options, correct_bird_index
 
