@@ -25,7 +25,7 @@ class BirdGame:
         # Set multichoice options based on game difficulty
         if self.mode == ':hatching_chick: beginner':
             num_options = 2
-            non_target_birds = [x for x in self.bird_images_df.name.unique().tolist() if x != self.target_bird_name]            
+            non_target_birds = [x for x in self.bird_images_df.name.unique().tolist() if self.target_bird_name not in x]            
         elif self.mode == ':eagle: advanced':
             num_options = 4
             non_target_birds = [x for x in self.bird_images_df[self.bird_images_df.category == target_bird_category].name.unique().tolist() if x != self.target_bird_name]
@@ -34,7 +34,7 @@ class BirdGame:
             non_target_birds = [x for x in self.bird_images_df[self.bird_images_df.category == target_bird_category].name.unique().tolist() if x != self.target_bird_name]
         else:
             num_options = 3
-            non_target_birds = [x for x in self.bird_images_df.name.unique().tolist() if x != self.target_bird_name]
+            non_target_birds = [x for x in self.bird_images_df.name.unique().tolist() if self.target_bird_name not in x]
         
         # Select random sample of bird names for button labels
         multichoice_options = [self.target_bird_name] + random.sample(non_target_birds, min(num_options, len(non_target_birds)))

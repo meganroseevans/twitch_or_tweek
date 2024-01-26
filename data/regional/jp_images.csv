@@ -1,485 +1,486 @@
 name,image_id,category
-Brown Booby (Forster's),255247461,seabirds
-Steller's Sea-Eagle,20060851,raptors
-Daurian Redstart,388744171,robins
-Warbling White-eye,173309281,lbb
-Blakiston's Fish-Owl,26859651,owl
-Whooper Swan,65426221,geese
-Siberian Thrush,579413791,ground_mbb
-White-tailed Eagle,65433481,raptors
-Blakiston's Fish-Owl,33106641,owl
-Warbling White-eye,317165211,lbb
-Okinawa Rail,266992571,rail_crake
-Steller's Sea-Eagle,26859521,raptors
-Harlequin Duck,26860111,ducks
-White-naped Crane,65591651,egrets
-Brown Booby (Forster's),265791501,seabirds
-Radde's Warbler,609495566,lbb
-Black Kite (Black-eared),65441931,raptors
-Common Merganser,509781661,funky_ducks
-Ural Owl,198773431,owl
-Little Tern,241113041,seabirds
-Whooper Swan,65426261,geese
-Blakiston's Fish-Owl,33106581,owl
-Glaucous-winged Gull,65437781,seabirds
-Brown Dipper,386907341,mbb
-Okinawa Rail,103438221,rail_crake
-Baer's Pochard,261516871,ducks
-Blakiston's Fish-Owl,26859641,owl
-Eurasian Wren (Eurasian),559165571,lbb
-Blakiston's Fish-Owl,26859631,owl
-Baikal Teal,245258841,ducks
-Hooded Crane,65590231,egrets
-Green-winged Teal (Eurasian),219925031,ducks
-Taiga Bean-Goose,81255571,geese
-Black-tailed Gull,76326981,seabirds
-Steller's Sea-Eagle,26859531,raptors
-Red-crowned Crane,76323701,egrets
-Slaty-backed Gull,26862221,seabirds
-Eurasian Wigeon,203849601,ducks
-Large-billed Crow,26860351,black_white
-Brown-eared Bulbul,65428321,ground_mbb
-Ijima's Leaf Warbler,93917941,lbb
-Blakiston's Fish-Owl,33106601,owl
-Swinhoe's Snipe,266995821,wader
-Hooded Crane,65590161,egrets
-Ryukyu Robin,26854261,robins
-Streaked Shearwater,265781311,seabirds
-Meadow Bunting,176478141,lbb
-Brown Dipper,386907321,mbb
-Hooded Crane,65590151,egrets
-Daurian Redstart,388744241,robins
-Brown Booby (Forster's),255247371,seabirds
-Glaucous-winged Gull,65426371,seabirds
-Whooper Swan,65426191,geese
-Steller's Sea-Eagle,65433001,raptors
-Siberian Thrush,579562001,ground_mbb
-Dusky Thrush,543548051,ground_mbb
-Red-crowned Crane,65328921,egrets
-Long-tailed Rosefinch,532745661,finches
-Ruddy Turnstone,382855671,wader
-Eurasian Tree Sparrow,550943601,lbb
-Brown Dipper,386907311,mbb
-Bonin White-eye,206017701,lbb
-Black Scoter,65541771,funky_ducks
-Crested Serpent-Eagle (Ryukyu),288136051,raptors
+name,image_id,
+"Brown Booby (Forster's)",255247461,seabirds
+"Steller's Sea-Eagle",20060851,raptors
+"Daurian Redstart",388744171,robins
+"Warbling White-eye",173309281,lbb
+"Blakiston's Fish-Owl",26859651,owl
+"Whooper Swan",65426221,geese
+"Siberian Thrush",579413791,ground_mbb
+"White-tailed Eagle",65433481,raptors
+"Blakiston's Fish-Owl",33106641,owl
+"Warbling White-eye",317165211,lbb
+"Okinawa Rail",266992571,rail_crake
+"Steller's Sea-Eagle",26859521,raptors
+"Harlequin Duck",26860111,ducks
+"White-naped Crane",65591651,egrets
+"Brown Booby (Forster's)",265791501,seabirds
+"Radde's Warbler",609495566,lbb
+"Black Kite (Black-eared)",65441931,raptors
+"Common Merganser",509781661,funky_ducks
+"Ural Owl",198773431,owl
+"Little Tern",241113041,seabirds
+"Whooper Swan",65426261,geese
+"Blakiston's Fish-Owl",33106581,owl
+"Glaucous-winged Gull",65437781,seabirds
+"Brown Dipper",386907341,mbb
+"Okinawa Rail",103438221,rail_crake
+"Baer's Pochard",261516871,ducks
+"Blakiston's Fish-Owl",26859641,owl
+"Eurasian Wren (Eurasian)",559165571,lbb
+"Blakiston's Fish-Owl",26859631,owl
+"Baikal Teal",245258841,ducks
+"Hooded Crane",65590231,egrets
+"Green-winged Teal (Eurasian)",219925031,ducks
+"Taiga Bean-Goose",81255571,geese
+"Black-tailed Gull",76326981,seabirds
+"Steller's Sea-Eagle",26859531,raptors
+"Red-crowned Crane",76323701,egrets
+"Slaty-backed Gull",26862221,seabirds
+"Eurasian Wigeon",203849601,ducks
+"Large-billed Crow",26860351,black_white
+"Brown-eared Bulbul",65428321,ground_mbb
+"Ijima's Leaf Warbler",93917941,lbb
+"Blakiston's Fish-Owl",33106601,owl
+"Swinhoe's Snipe",266995821,wader
+"Hooded Crane",65590161,egrets
+"Ryukyu Robin",26854261,robins
+"Streaked Shearwater",265781311,seabirds
+"Meadow Bunting",176478141,lbb
+"Brown Dipper",386907321,mbb
+"Hooded Crane",65590151,egrets
+"Daurian Redstart",388744241,robins
+"Brown Booby (Forster's)",255247371,seabirds
+"Glaucous-winged Gull",65426371,seabirds
+"Whooper Swan",65426191,geese
+"Steller's Sea-Eagle",65433001,raptors
+"Siberian Thrush",579562001,ground_mbb
+"Dusky Thrush",543548051,ground_mbb
+"Red-crowned Crane",65328921,egrets
+"Long-tailed Rosefinch",532745661,finches
+"Ruddy Turnstone",382855671,wader
+"Eurasian Tree Sparrow",550943601,lbb
+"Brown Dipper",386907311,mbb
+"Bonin White-eye",206017701,lbb
+"Black Scoter",65541771,funky_ducks
+"Crested Serpent-Eagle (Ryukyu)",288136051,raptors
 Smew,26861921,funky_ducks
-White-naped Crane,65592291,egrets
-Steller's Sea-Eagle,20060861,raptors
-Blakiston's Fish-Owl,81647601,owl
-Black Kite (Black-eared),65441891,raptors
-Iriomote Tit,245302571,tit
-Hooded Crane,65590241,egrets
-Red-crowned Crane,65328951,egrets
-Common Sandpiper,26858351,wader
-Harlequin Duck,26860081,ducks
-Glaucous-winged Gull,65437741,seabirds
-Japanese Pygmy Woodpecker,24366071,woodpecker
-Hooded Crane,65590251,egrets
-Whooper Swan,65426121,geese
-Swinhoe's Snipe,266995811,wader
-Fairy Pitta,241821561,ground_birds
-Green Pheasant,146183081,walking_birds
-Little Tern,241113021,seabirds
-White-tailed Eagle,65433401,raptors
-Brown Booby (Forster's),255412581,seabirds
-White's Thrush,65592931,ground_mbb
-Daurian Redstart,388744181,robins
-Copper Pheasant,613258384,walking_birds
-Long-toed Stint,50677161,wader
-Dusky Thrush,81484741,ground_mbb
-Eastern Spot-billed Duck,26854871,ducks
-Black Kite (Black-eared),65441791,raptors
-White-tailed Eagle,65432981,raptors
-Japanese Bush Warbler,24366041,lbb
-Long-tailed Duck,26860151,ducks
+"White-naped Crane",65592291,egrets
+"Steller's Sea-Eagle",20060861,raptors
+"Blakiston's Fish-Owl",81647601,owl
+"Black Kite (Black-eared)",65441891,raptors
+"Iriomote Tit",245302571,tit
+"Hooded Crane",65590241,egrets
+"Red-crowned Crane",65328951,egrets
+"Common Sandpiper",26858351,wader
+"Harlequin Duck",26860081,ducks
+"Glaucous-winged Gull",65437741,seabirds
+"Japanese Pygmy Woodpecker",24366071,woodpecker
+"Hooded Crane",65590251,egrets
+"Whooper Swan",65426121,geese
+"Swinhoe's Snipe",266995811,wader
+"Fairy Pitta",241821561,ground_birds
+"Green Pheasant",146183081,walking_birds
+"Little Tern",241113021,seabirds
+"White-tailed Eagle",65433401,raptors
+"Brown Booby (Forster's)",255412581,seabirds
+"White's Thrush",65592931,ground_mbb
+"Daurian Redstart",388744181,robins
+"Copper Pheasant",613258384,walking_birds
+"Long-toed Stint",50677161,wader
+"Dusky Thrush",81484741,ground_mbb
+"Eastern Spot-billed Duck",26854871,ducks
+"Black Kite (Black-eared)",65441791,raptors
+"White-tailed Eagle",65432981,raptors
+"Japanese Bush Warbler",24366041,lbb
+"Long-tailed Duck",26860151,ducks
 Hawfinch,65428411,finches
-Bonin White-eye,206019261,lbb
-White-naped Crane,41541231,egrets
-Brown-eared Bulbul,65592981,ground_mbb
-Hooded Crane,65590141,egrets
-Daurian Redstart,388744231,robins
-Radde's Warbler,609495563,lbb
-Black Kite (Black-eared),65441321,raptors
-Bonin White-eye,255404721,lbb
-Daurian Redstart,388744271,robins
-Okinawa Woodpecker,204331991,woodpecker
-Red-crowned Crane,129914281,egrets
-Taiga Bean-Goose,81255561,geese
-White-naped Crane,65591701,egrets
-Little Tern,241113031,seabirds
-Bull-headed Shrike,26855281,songbird
-Black-faced Spoonbill,26854581,egrets
-Black-tailed Gull,76327001,seabirds
-Bonin White-eye,354718241,lbb
-Asian Rosy-Finch,219931451,finches
-Wedge-tailed Shearwater,52877951,seabirds
-Dusky Thrush,65426281,ground_mbb
-Pin-tailed Snipe,266995551,wader
+"Bonin White-eye",206019261,lbb
+"White-naped Crane",41541231,egrets
+"Brown-eared Bulbul",65592981,ground_mbb
+"Hooded Crane",65590141,egrets
+"Daurian Redstart",388744231,robins
+"Radde's Warbler",609495563,lbb
+"Black Kite (Black-eared)",65441321,raptors
+"Bonin White-eye",255404721,lbb
+"Daurian Redstart",388744271,robins
+"Okinawa Woodpecker",204331991,woodpecker
+"Red-crowned Crane",129914281,egrets
+"Taiga Bean-Goose",81255561,geese
+"White-naped Crane",65591701,egrets
+"Little Tern",241113031,seabirds
+"Bull-headed Shrike",26855281,songbird
+"Black-faced Spoonbill",26854581,egrets
+"Black-tailed Gull",76327001,seabirds
+"Bonin White-eye",354718241,lbb
+"Asian Rosy-Finch",219931451,finches
+"Wedge-tailed Shearwater",52877951,seabirds
+"Dusky Thrush",65426281,ground_mbb
+"Pin-tailed Snipe",266995551,wader
 Smew,26861931,funky_ducks
-Eurasian Wren,597740221,lbb
-Japanese Waxwing,202169031,little_colourful_birds
-Okinawa Rail,129292791,rail_crake
-Rough-legged Hawk,517363471,raptors
-Northern Boobook,384822791,owl
-Gray Bunting,610942991,lbb
-Pallas's Rosefinch,208475171,finches
-Bonin White-eye,206019271,lbb
-Whooper Swan,65426271,geese
-Ross's Gull,198560531,seabirds
-Long-tailed Tit (caudatus),198780631,tit
-Steller's Sea-Eagle,26859541,raptors
-Brown-eared Bulbul,24366031,ground_mbb
-White-tailed Eagle,20060821,raptors
-Siberian Thrush,579562021,ground_mbb
-Blakiston's Fish-Owl,40856261,owl
-Black-tailed Gull,76326961,seabirds
-Izu Robin,93918071,robins
-Oriental Turtle-Dove,227260081,pigeons_doves
-Long-tailed Duck,26860171,ducks
-Long-tailed Duck,26860161,ducks
-Mandarin Duck,609005716,ducks
-Daurian Redstart,388744281,robins
-Desert Wheatear,524989661,mbb
-Malayan Night Heron,288144591,herons
-Japanese Scops-Owl,266992341,owl
-Ryukyu Robin,41406911,robins
-Common Gull,26860261,seabirds
-Okinawa Rail,206010611,rail_crake
-Ross's Gull,198560471,seabirds
-Red-flanked Bluetail,529330031,robins
-Eurasian Kestrel,520876441,raptors
-Black-faced Spoonbill,26854611,egrets
-Ijima's Leaf Warbler,353430581,lbb
-Japanese Bush Warbler,255404871,lbb
-Common Gull,26860271,seabirds
-Common Snipe,26854421,wader
-Okinawa Woodpecker,206012181,woodpecker
-White-tailed Eagle,26861351,raptors
-White-naped Crane,26856841,egrets
-White-tailed Eagle,26861381,raptors
-Blue Rock-Thrush,608993256,ground_mbb
-Pale Thrush,271371311,ground_mbb
-Taiga Bean-Goose,50677111,geese
-White-naped Crane,65591681,egrets
-Okinawa Rail,204331981,rail_crake
-Red-crowned Crane,26861441,egrets
-Eastern Spot-billed Duck,146665251,ducks
-White-tailed Eagle,65433291,raptors
-Warbling White-eye,543220491,lbb
-Red-faced Cormorant,41541701,cormorant
-Little Grebe,597974791,water_birds
-Ryukyu Minivet,24366061,robins
-Oriental Turtle-Dove,547545241,pigeons_doves
-Izu Robin,353430231,robins
-Japanese Bush Warbler,255404881,lbb
-Pleske's Grasshopper Warbler,206021201,lbb
-Amami Woodcock,206010441,wader
-Dusky Thrush,205715821,ground_mbb
-Black Kite (Black-eared),65441641,raptors
-Steller's Sea-Eagle,26859551,raptors
-Black Wood-Pigeon,255411141,pigeons_doves
-Okinawa Rail,206135801,rail_crake
-Northern Hawk-Cuckoo,139102791,raptors
-Black Kite (Black-eared),65441251,raptors
-Long-tailed Duck,26860311,ducks
-Long-tailed Duck,26860181,ducks
-Slaty-backed Gull,26858861,seabirds
-Varied Tit,291923901,tit
-Red-throated Thrush,94791591,ground_mbb
-White-naped Crane,65591721,egrets
-Slaty-backed Gull,26862281,seabirds
-White-naped Crane,537125201,egrets
-Asian Rosy-Finch,76326871,finches
-Asian House-Martin,36470921,swallows
-White-tailed Eagle,26861391,raptors
-Long-tailed Duck,26860191,ducks
-Japanese Woodpecker,546003541,woodpecker
-Slaty-backed Gull,26859891,seabirds
-Hooded Crane,65590181,egrets
-Glaucous Gull,65433741,seabirds
-Eurasian Siskin,275214471,little_colourful_birds
-Okinawa Woodpecker,206010631,woodpecker
-Japanese Tit,26854281,tit
-Ross's Gull,198560521,seabirds
-Bonin White-eye,206019161,lbb
-Large-billed Crow,26860411,black_white
-Baikal Teal,245258751,ducks
-Japanese Bush Warbler,206019281,lbb
-Oriental Pratincole,206019231,misc
-Black Scoter,26860101,funky_ducks
-Eurasian Hobby,352326071,raptors
-Baikal Teal,556466301,ducks
-Japanese Pygmy Woodpecker,510860431,woodpecker
-Tufted Duck,382846591,ducks
-Black-tailed Gull,253223951,seabirds
-Eastern Crowned Warbler,206003931,black_white
-Black Kite (Black-eared),65441601,raptors
-Large-billed Crow,26860391,black_white
-Large-billed Crow,26860341,black_white
-Ross's Gull,198560511,seabirds
-Bull-headed Shrike,509798071,songbird
-Owston's Tit,353430511,tit
-Pleske's Grasshopper Warbler,206021191,lbb
-Izu Robin,206021031,robins
-Japanese Pygmy Woodpecker,206012201,woodpecker
-Green Pheasant,206001001,walking_birds
-Crested Serpent-Eagle (Ryukyu),205663841,raptors
-Black Kite (Black-eared),65441361,raptors
-White-tailed Eagle,20060811,raptors
-Red-flanked Bluetail,88736271,robins
-Black Wood-Pigeon,255411181,pigeons_doves
-Tundra Bean-Goose,81255581,geese
-Stejneger's Scoter,110435861,funky_ducks
-American Wigeon,513252971,ducks
-Japanese Murrelet,65587661,puffin_and_co
-Schrenck's Bittern,92897681,herons
-Azure-winged Magpie (Japanese),65592971,black_white
-Amami Woodcock,103440951,wader
-Northern Boobook,114309081,owl
-Pelagic Cormorant,26860401,cormorant
-Ryukyu Scops-Owl,129292441,owl
-Willow Tit (Willow),559165461,tit
-Bonin White-eye,206017691,lbb
-Oriental Stork,609345279,egrets
-Eurasian Wren (Eurasian),516006991,lbb
-Swinhoe's Snipe,266995791,wader
-Japanese Wagtail,206024921,wagfantail
-American Wigeon,205669831,ducks
-Green Pheasant,176760271,walking_birds
-Great Crested Grebe,20060661,water_birds
-Rock Ptarmigan,589032781,quails
-Masked Bunting,65592811,lbb
-Black Wood-Pigeon,206019301,pigeons_doves
-White Wagtail,595589741,wagfantail
-Eastern Spot-billed Duck,595588831,ducks
-White Wagtail (Black-backed),537549401,wagfantail
-Pleske's Grasshopper Warbler,353430021,lbb
-Amami Woodcock,206010481,wader
-Amami Woodcock,206010471,wader
-Black Paradise-Flycatcher,204333561,wagfantail
-Gray-faced Buzzard,139964381,raptors
-White's Thrush,104005431,ground_mbb
-Daurian Redstart,65591921,robins
-Slaty-backed Gull,26858961,seabirds
-Wedge-tailed Shearwater,52877001,seabirds
-Red-crowned Crane,26861471,egrets
-White-tailed Eagle,26861371,raptors
-Steller's Sea-Eagle,26860611,raptors
-Okinawa Robin,24365641,robins
-Red-crested Pochard,512662231,ducks
-Pleske's Grasshopper Warbler,246586031,lbb
-Copper Pheasant,134247391,walking_birds
-Baikal Teal,125509191,ducks
-Falcated Duck,79984611,ducks
-Greater Scaup,151605871,ducks
-Bull-headed Shrike,65592491,songbird
-Japanese Pygmy Woodpecker,65436521,woodpecker
-Japanese Murrelet,65587911,puffin_and_co
-Bald Eagle,307799481,raptors
-Oriental Stork,65587401,egrets
-Japanese Pygmy Woodpecker,517365421,woodpecker
-White-naped Crane,65591731,egrets
-Oriental Stork,65587461,egrets
-Short-tailed Albatross,205935031,seabirds
-Great Cormorant,92439261,cormorant
-Common Gull,41541671,seabirds
-Ryukyu Robin,33106361,robins
-White-winged Crossbill (bifasciata),611036394,little_colourful_birds
-Brown Dipper,206256921,mbb
-Asian Rosy-Finch,76326901,finches
-Harlequin Duck,41541601,ducks
-Japanese Accentor,22575151,mbb
-Black Kite (Black-eared),65441021,raptors
-Eastern Spot-billed Duck,41407791,ducks
-Steller's Sea-Eagle,26860601,raptors
-Japanese Accentor,206015841,mbb
-Manchurian Bush Warbler,94481191,lbb
-Ryukyu Flycatcher,33105881,wagfantail
-Kentish Plover (Kentish),241117611,wader
-Brown-eared Bulbul,563083851,ground_mbb
-Black Wood-Pigeon,255411811,pigeons_doves
-Japanese Murrelet,205713361,puffin_and_co
-Claudia's Leaf Warbler,139191891,lbb
-Okinawa Rail,582779551,rail_crake
-Dusky Thrush,531311051,ground_mbb
-Crested Serpent-Eagle (Ryukyu),288136021,raptors
-Bonin White-eye,255401651,lbb
-Northern Fulmar (Pacific),253363191,seabirds
-Warbling White-eye,245306581,lbb
-Pale Thrush,206257001,ground_mbb
-Ashy Minivet,206023161,robins
-Japanese Pygmy Woodpecker,206023141,woodpecker
-Hooded Crane,65589901,egrets
-Blakiston's Fish-Owl,26859671,owl
-Glaucous-winged Gull,26859201,seabirds
-Rock Ptarmigan,22574571,quails
-Ancient Murrelet,40216611,puffin_and_co
-Ural Owl,61722011,owl
-Eurasian Bullfinch (Baikal),609113092,finches
-White-naped Crane,88918601,egrets
-Daurian Redstart,135233801,robins
-Eurasian Wren,26855131,lbb
-Copper Pheasant,140233751,walking_birds
-Long-tailed Tit,611748511,tit
-Varied Tit,609005717,tit
-Red-billed Leiothrix,597973411,little_colourful_birds
-Red-billed Leiothrix,597973081,little_colourful_birds
-Red-billed Leiothrix,597972861,little_colourful_birds
-Eastern Spot-billed Duck,595588391,ducks
-Brown Booby,558919031,seabirds
-Crested Myna,543892931,ground_mbb
-Owston's Tit,206021141,tit
-Black Wood-Pigeon,206019291,pigeons_doves
-Japanese Cormorant,41407691,cormorant
-Brown-eared Bulbul,85217081,ground_mbb
+"Eurasian Wren",597740221,lbb
+"Japanese Waxwing",202169031,little_colourful_birds
+"Okinawa Rail",129292791,rail_crake
+"Rough-legged Hawk",517363471,raptors
+"Northern Boobook",384822791,owl
+"Gray Bunting",610942991,lbb
+"Pallas's Rosefinch",208475171,finches
+"Bonin White-eye",206019271,lbb
+"Whooper Swan",65426271,geese
+"Ross's Gull",198560531,seabirds
+"Long-tailed Tit (caudatus)",198780631,tit
+"Steller's Sea-Eagle",26859541,raptors
+"Brown-eared Bulbul",24366031,ground_mbb
+"White-tailed Eagle",20060821,raptors
+"Siberian Thrush",579562021,ground_mbb
+"Blakiston's Fish-Owl",40856261,owl
+"Black-tailed Gull",76326961,seabirds
+"Izu Robin",93918071,robins
+"Oriental Turtle-Dove",227260081,pigeons_doves
+"Long-tailed Duck",26860171,ducks
+"Long-tailed Duck",26860161,ducks
+"Mandarin Duck",609005716,ducks
+"Daurian Redstart",388744281,robins
+"Desert Wheatear",524989661,mbb
+"Malayan Night Heron",288144591,herons
+"Japanese Scops-Owl",266992341,owl
+"Ryukyu Robin",41406911,robins
+"Common Gull",26860261,seabirds
+"Okinawa Rail",206010611,rail_crake
+"Ross's Gull",198560471,seabirds
+"Red-flanked Bluetail",529330031,robins
+"Eurasian Kestrel",520876441,raptors
+"Black-faced Spoonbill",26854611,egrets
+"Ijima's Leaf Warbler",353430581,lbb
+"Japanese Bush Warbler",255404871,lbb
+"Common Gull",26860271,seabirds
+"Common Snipe",26854421,wader
+"Okinawa Woodpecker",206012181,woodpecker
+"White-tailed Eagle",26861351,raptors
+"White-naped Crane",26856841,egrets
+"White-tailed Eagle",26861381,raptors
+"Blue Rock-Thrush",608993256,ground_mbb
+"Pale Thrush",271371311,ground_mbb
+"Taiga Bean-Goose",50677111,geese
+"White-naped Crane",65591681,egrets
+"Okinawa Rail",204331981,rail_crake
+"Red-crowned Crane",26861441,egrets
+"Eastern Spot-billed Duck",146665251,ducks
+"White-tailed Eagle",65433291,raptors
+"Warbling White-eye",543220491,lbb
+"Red-faced Cormorant",41541701,cormorant
+"Little Grebe",597974791,water_birds
+"Ryukyu Minivet",24366061,robins
+"Oriental Turtle-Dove",547545241,pigeons_doves
+"Izu Robin",353430231,robins
+"Japanese Bush Warbler",255404881,lbb
+"Pleske's Grasshopper Warbler",206021201,lbb
+"Amami Woodcock",206010441,wader
+"Dusky Thrush",205715821,ground_mbb
+"Black Kite (Black-eared)",65441641,raptors
+"Steller's Sea-Eagle",26859551,raptors
+"Black Wood-Pigeon",255411141,pigeons_doves
+"Okinawa Rail",206135801,rail_crake
+"Northern Hawk-Cuckoo",139102791,raptors
+"Black Kite (Black-eared)",65441251,raptors
+"Long-tailed Duck",26860311,ducks
+"Long-tailed Duck",26860181,ducks
+"Slaty-backed Gull",26858861,seabirds
+"Varied Tit",291923901,tit
+"Red-throated Thrush",94791591,ground_mbb
+"White-naped Crane",65591721,egrets
+"Slaty-backed Gull",26862281,seabirds
+"White-naped Crane",537125201,egrets
+"Asian Rosy-Finch",76326871,finches
+"Asian House-Martin",36470921,swallows
+"White-tailed Eagle",26861391,raptors
+"Long-tailed Duck",26860191,ducks
+"Japanese Woodpecker",546003541,woodpecker
+"Slaty-backed Gull",26859891,seabirds
+"Hooded Crane",65590181,egrets
+"Glaucous Gull",65433741,seabirds
+"Eurasian Siskin",275214471,little_colourful_birds
+"Okinawa Woodpecker",206010631,woodpecker
+"Japanese Tit",26854281,tit
+"Ross's Gull",198560521,seabirds
+"Bonin White-eye",206019161,lbb
+"Large-billed Crow",26860411,black_white
+"Baikal Teal",245258751,ducks
+"Japanese Bush Warbler",206019281,lbb
+"Oriental Pratincole",206019231,misc
+"Black Scoter",26860101,funky_ducks
+"Eurasian Hobby",352326071,raptors
+"Baikal Teal",556466301,ducks
+"Japanese Pygmy Woodpecker",510860431,woodpecker
+"Tufted Duck",382846591,ducks
+"Black-tailed Gull",253223951,seabirds
+"Eastern Crowned Warbler",206003931,black_white
+"Black Kite (Black-eared)",65441601,raptors
+"Large-billed Crow",26860391,black_white
+"Large-billed Crow",26860341,black_white
+"Ross's Gull",198560511,seabirds
+"Bull-headed Shrike",509798071,songbird
+"Owston's Tit",353430511,tit
+"Pleske's Grasshopper Warbler",206021191,lbb
+"Izu Robin",206021031,robins
+"Japanese Pygmy Woodpecker",206012201,woodpecker
+"Green Pheasant",206001001,walking_birds
+"Crested Serpent-Eagle (Ryukyu)",205663841,raptors
+"Black Kite (Black-eared)",65441361,raptors
+"White-tailed Eagle",20060811,raptors
+"Red-flanked Bluetail",88736271,robins
+"Black Wood-Pigeon",255411181,pigeons_doves
+"Tundra Bean-Goose",81255581,geese
+"Stejneger's Scoter",110435861,funky_ducks
+"American Wigeon",513252971,ducks
+"Japanese Murrelet",65587661,puffin_and_co
+"Schrenck's Bittern",92897681,herons
+"Azure-winged Magpie (Japanese)",65592971,black_white
+"Amami Woodcock",103440951,wader
+"Northern Boobook",114309081,owl
+"Pelagic Cormorant",26860401,cormorant
+"Ryukyu Scops-Owl",129292441,owl
+"Willow Tit (Willow)",559165461,tit
+"Bonin White-eye",206017691,lbb
+"Oriental Stork",609345279,egrets
+"Eurasian Wren (Eurasian)",516006991,lbb
+"Swinhoe's Snipe",266995791,wader
+"Japanese Wagtail",206024921,wagfantail
+"American Wigeon",205669831,ducks
+"Green Pheasant",176760271,walking_birds
+"Great Crested Grebe",20060661,water_birds
+"Rock Ptarmigan",589032781,quails
+"Masked Bunting",65592811,lbb
+"Black Wood-Pigeon",206019301,pigeons_doves
+"White Wagtail",595589741,wagfantail
+"Eastern Spot-billed Duck",595588831,ducks
+"White Wagtail (Black-backed)",537549401,wagfantail
+"Pleske's Grasshopper Warbler",353430021,lbb
+"Amami Woodcock",206010481,wader
+"Amami Woodcock",206010471,wader
+"Black Paradise-Flycatcher",204333561,wagfantail
+"Gray-faced Buzzard",139964381,raptors
+"White's Thrush",104005431,ground_mbb
+"Daurian Redstart",65591921,robins
+"Slaty-backed Gull",26858961,seabirds
+"Wedge-tailed Shearwater",52877001,seabirds
+"Red-crowned Crane",26861471,egrets
+"White-tailed Eagle",26861371,raptors
+"Steller's Sea-Eagle",26860611,raptors
+"Okinawa Robin",24365641,robins
+"Red-crested Pochard",512662231,ducks
+"Pleske's Grasshopper Warbler",246586031,lbb
+"Copper Pheasant",134247391,walking_birds
+"Baikal Teal",125509191,ducks
+"Falcated Duck",79984611,ducks
+"Greater Scaup",151605871,ducks
+"Bull-headed Shrike",65592491,songbird
+"Japanese Pygmy Woodpecker",65436521,woodpecker
+"Japanese Murrelet",65587911,puffin_and_co
+"Bald Eagle",307799481,raptors
+"Oriental Stork",65587401,egrets
+"Japanese Pygmy Woodpecker",517365421,woodpecker
+"White-naped Crane",65591731,egrets
+"Oriental Stork",65587461,egrets
+"Short-tailed Albatross",205935031,seabirds
+"Great Cormorant",92439261,cormorant
+"Common Gull",41541671,seabirds
+"Ryukyu Robin",33106361,robins
+"White-winged Crossbill (bifasciata)",611036394,little_colourful_birds
+"Brown Dipper",206256921,mbb
+"Asian Rosy-Finch",76326901,finches
+"Harlequin Duck",41541601,ducks
+"Japanese Accentor",22575151,mbb
+"Black Kite (Black-eared)",65441021,raptors
+"Eastern Spot-billed Duck",41407791,ducks
+"Steller's Sea-Eagle",26860601,raptors
+"Japanese Accentor",206015841,mbb
+"Manchurian Bush Warbler",94481191,lbb
+"Ryukyu Flycatcher",33105881,wagfantail
+"Kentish Plover (Kentish)",241117611,wader
+"Brown-eared Bulbul",563083851,ground_mbb
+"Black Wood-Pigeon",255411811,pigeons_doves
+"Japanese Murrelet",205713361,puffin_and_co
+"Claudia's Leaf Warbler",139191891,lbb
+"Okinawa Rail",582779551,rail_crake
+"Dusky Thrush",531311051,ground_mbb
+"Crested Serpent-Eagle (Ryukyu)",288136021,raptors
+"Bonin White-eye",255401651,lbb
+"Northern Fulmar (Pacific)",253363191,seabirds
+"Warbling White-eye",245306581,lbb
+"Pale Thrush",206257001,ground_mbb
+"Ashy Minivet",206023161,robins
+"Japanese Pygmy Woodpecker",206023141,woodpecker
+"Hooded Crane",65589901,egrets
+"Blakiston's Fish-Owl",26859671,owl
+"Glaucous-winged Gull",26859201,seabirds
+"Rock Ptarmigan",22574571,quails
+"Ancient Murrelet",40216611,puffin_and_co
+"Ural Owl",61722011,owl
+"Eurasian Bullfinch (Baikal)",609113092,finches
+"White-naped Crane",88918601,egrets
+"Daurian Redstart",135233801,robins
+"Eurasian Wren",26855131,lbb
+"Copper Pheasant",140233751,walking_birds
+"Long-tailed Tit",611748511,tit
+"Varied Tit",609005717,tit
+"Red-billed Leiothrix",597973411,little_colourful_birds
+"Red-billed Leiothrix",597973081,little_colourful_birds
+"Red-billed Leiothrix",597972861,little_colourful_birds
+"Eastern Spot-billed Duck",595588391,ducks
+"Brown Booby",558919031,seabirds
+"Crested Myna",543892931,ground_mbb
+"Owston's Tit",206021141,tit
+"Black Wood-Pigeon",206019291,pigeons_doves
+"Japanese Cormorant",41407691,cormorant
+"Brown-eared Bulbul",85217081,ground_mbb
 Ruff,609612936,wader
 Smew,197359291,funky_ducks
-Red-crowned Crane,65327791,egrets
-Slaty-backed Gull,26859871,seabirds
-Japanese Scops-Owl,490831741,owl
-Red-crowned Crane,141401951,egrets
-Okinawa Rail,206010601,rail_crake
-Red-faced Cormorant,41541711,cormorant
-Okinawa Woodpecker,206012341,woodpecker
-Oriental Honey-buzzard (Northern),609313215,raptors
-Tristram's Storm-Petrel,205935011,seabirds
-Oriental Turtle-Dove,65592821,pigeons_doves
-Japanese Murrelet,65587821,puffin_and_co
-Ross's Gull,198560541,seabirds
-Great Spotted Woodpecker,65436571,woodpecker
-Varied Tit,609200183,tit
-Okinawa Robin,266992491,robins
-Saunders's Gull,104004781,seabirds
-Black Kite (Black-eared),65441201,raptors
-Green Pheasant,554100231,walking_birds
-Kamchatka Leaf Warbler,271377411,little_colourful_birds
-Okinawa Rail,204359071,rail_crake
-Black Kite,41546391,raptors
-Slaty-backed Gull,26858911,seabirds
-Japanese Bush Warbler,26858411,lbb
-Japanese Bush Warbler,24366021,lbb
-Japanese Bush Warbler,152991201,lbb
-Northern Shoveler,79514041,ducks
-Okinawa Woodpecker,33106131,woodpecker
-Bonin White-eye,206017681,lbb
-Warbling White-eye,539177801,lbb
-White's Thrush,531738681,ground_mbb
-White-bellied Green-Pigeon,386494601,pigeons_doves
-Pacific Reef-Heron,382857101,herons
-Black-tailed Gull,253223961,seabirds
-Bull-headed Shrike,206021231,songbird
-Common Gull,26860301,seabirds
-Pin-tailed Snipe,266995561,wader
-Gray Wagtail,206023231,wagfantail
-Eastern Spot-billed Duck,163228071,ducks
-Slaty-backed Gull,43724871,seabirds
-Baikal Teal,82086491,ducks
-Common Gull,26860281,seabirds
-Hooded Crane,65590261,egrets
-Reed Bunting,609772910,lbb
-Black-tailed Gull,609243963,seabirds
-Daurian Redstart,608852592,robins
-Rock Ptarmigan,588765531,quails
-Naumann's Thrush,551668381,ground_mbb
-Yellow-bellied Tit,543105591,tit
-Eurasian Bullfinch,395241031,finches
-Amami Woodcock,206010461,wader
-Black Scoter,65541721,funky_ducks
-Black Scoter,65541691,funky_ducks
-Red-crowned Crane,26861481,egrets
-Common Gull,26860291,seabirds
-Blakiston's Fish-Owl,26859681,owl
-Long-tailed Rosefinch,550910911,finches
-Russet Sparrow,552025921,lbb
-Common Gull (Kamchatka),198562151,little_colourful_birds
-Ancient Murrelet,40216861,puffin_and_co
-Pale Thrush,514114501,ground_mbb
-Japanese Bush Warbler,208752231,lbb
-Northern Boobook,63144871,owl
-Bohemian Waxwing,556766041,little_colourful_birds
-Oriental Stork,217914811,egrets
-Asian Rosy-Finch,41541511,finches
-Japanese Grosbeak,543220581,finches
-Red-flanked Bluetail,526824111,robins
-Chestnut-eared Bunting,599643521,lbb
-Warbling White-eye,539222301,lbb
-Daurian Redstart,539187021,robins
-Red-flanked Bluetail,321829311,robins
-Owston's Tit,206021131,tit
-Oriental Pratincole,206019221,misc
-Japanese Accentor,206015871,mbb
-Green Pheasant,206000991,walking_birds
+"Red-crowned Crane",65327791,egrets
+"Slaty-backed Gull",26859871,seabirds
+"Japanese Scops-Owl",490831741,owl
+"Red-crowned Crane",141401951,egrets
+"Okinawa Rail",206010601,rail_crake
+"Red-faced Cormorant",41541711,cormorant
+"Okinawa Woodpecker",206012341,woodpecker
+"Oriental Honey-buzzard (Northern)",609313215,raptors
+"Tristram's Storm-Petrel",205935011,seabirds
+"Oriental Turtle-Dove",65592821,pigeons_doves
+"Japanese Murrelet",65587821,puffin_and_co
+"Ross's Gull",198560541,seabirds
+"Great Spotted Woodpecker",65436571,woodpecker
+"Varied Tit",609200183,tit
+"Okinawa Robin",266992491,robins
+"Saunders's Gull",104004781,seabirds
+"Black Kite (Black-eared)",65441201,raptors
+"Green Pheasant",554100231,walking_birds
+"Kamchatka Leaf Warbler",271377411,little_colourful_birds
+"Okinawa Rail",204359071,rail_crake
+"Black Kite",41546391,raptors
+"Slaty-backed Gull",26858911,seabirds
+"Japanese Bush Warbler",26858411,lbb
+"Japanese Bush Warbler",24366021,lbb
+"Japanese Bush Warbler",152991201,lbb
+"Northern Shoveler",79514041,ducks
+"Okinawa Woodpecker",33106131,woodpecker
+"Bonin White-eye",206017681,lbb
+"Warbling White-eye",539177801,lbb
+"White's Thrush",531738681,ground_mbb
+"White-bellied Green-Pigeon",386494601,pigeons_doves
+"Pacific Reef-Heron",382857101,herons
+"Black-tailed Gull",253223961,seabirds
+"Bull-headed Shrike",206021231,songbird
+"Common Gull",26860301,seabirds
+"Pin-tailed Snipe",266995561,wader
+"Gray Wagtail",206023231,wagfantail
+"Eastern Spot-billed Duck",163228071,ducks
+"Slaty-backed Gull",43724871,seabirds
+"Baikal Teal",82086491,ducks
+"Common Gull",26860281,seabirds
+"Hooded Crane",65590261,egrets
+"Reed Bunting",609772910,lbb
+"Black-tailed Gull",609243963,seabirds
+"Daurian Redstart",608852592,robins
+"Rock Ptarmigan",588765531,quails
+"Naumann's Thrush",551668381,ground_mbb
+"Yellow-bellied Tit",543105591,tit
+"Eurasian Bullfinch",395241031,finches
+"Amami Woodcock",206010461,wader
+"Black Scoter",65541721,funky_ducks
+"Black Scoter",65541691,funky_ducks
+"Red-crowned Crane",26861481,egrets
+"Common Gull",26860291,seabirds
+"Blakiston's Fish-Owl",26859681,owl
+"Long-tailed Rosefinch",550910911,finches
+"Russet Sparrow",552025921,lbb
+"Common Gull (Kamchatka)",198562151,little_colourful_birds
+"Ancient Murrelet",40216861,puffin_and_co
+"Pale Thrush",514114501,ground_mbb
+"Japanese Bush Warbler",208752231,lbb
+"Northern Boobook",63144871,owl
+"Bohemian Waxwing",556766041,little_colourful_birds
+"Oriental Stork",217914811,egrets
+"Asian Rosy-Finch",41541511,finches
+"Japanese Grosbeak",543220581,finches
+"Red-flanked Bluetail",526824111,robins
+"Chestnut-eared Bunting",599643521,lbb
+"Warbling White-eye",539222301,lbb
+"Daurian Redstart",539187021,robins
+"Red-flanked Bluetail",321829311,robins
+"Owston's Tit",206021131,tit
+"Oriental Pratincole",206019221,misc
+"Japanese Accentor",206015871,mbb
+"Green Pheasant",206000991,walking_birds
 Garganey,205429111,ducks
-Northern Wheatear (Eurasian),152739981,mbb
-Lidth's Jay,101299111,robins
-Black Kite,41546401,raptors
-Okinawa Rail,352475521,rail_crake
-Glaucous Gull,26859221,seabirds
-Black-faced Spoonbill,26854591,egrets
-Ryukyu Scops-Owl,24366191,owl
-Sakhalin Grasshopper Warbler,164596511,lbb
-White-bellied Green-Pigeon,170128911,pigeons_doves
-Red-crowned Crane,76323611,egrets
-Green-winged Teal (Eurasian),219924921,ducks
-Bald Eagle,307799451,raptors
-Yellow-throated Bunting,275214621,lbb
-Long-tailed Rosefinch,542906631,finches
-Northern Pintail,297593301,ducks
-Japanese Murrelet,208258421,puffin_and_co
-Common Gull (Kamchatka),65436951,little_colourful_birds
-Little Tern,241113051,seabirds
-Ruddy Turnstone,608671995,wader
-Red-necked Stint,417185211,wader
-Mugimaki Flycatcher,271357951,wagfantail
-Pallas's Rosefinch,208475201,finches
-Meadow Bunting,206021211,lbb
-Hooded Crane,65590071,egrets
-Japanese Pygmy Woodpecker,58877331,woodpecker
-Slaty-backed Gull,26858951,seabirds
-Japanese Sparrowhawk,123600351,raptors
-Saunders's Gull,85854021,seabirds
-Owston's Tit,93918021,tit
-Scaly-sided Merganser,300117341,funky_ducks
-Chestnut Bunting,143765391,lbb
-Okinawa Woodpecker,129292971,woodpecker
-Chinese Bamboo-Partridge,123599711,quails
-Northern Pintail,511702441,ducks
-Black-footed Albatross,253362421,seabirds
-Oriental Greenfinch,76327691,finches
-Red-necked Stint,521309161,wader
-Ashy Minivet,206023171,robins
-White-cheeked Starling,65592681,ground_mbb
-Spectacled Guillemot,124263761,puffin_and_co
-Eurasian Bullfinch,613124015,finches
-Japanese Pygmy Woodpecker,611298212,woodpecker
-Crested Ibis,553405881,black_white
-Red-necked Phalarope,417196841,wader
-Siberian Rubythroat,384686261,ground_mbb
-Siberian Blue Robin,335517911,robins
-Asian Rosy-Finch,219931411,finches
-Wedge-tailed Shearwater,205935001,seabirds
-European Starling,143164581,ground_mbb
-Oriental Stork,132112021,egrets
-Gray-headed Lapwing,105601371,wader
-Northern Lapwing,88403501,wader
-Common Gull,41541651,seabirds
-Okinawa Woodpecker,206012331,woodpecker
-Greater Scaup,65541751,ducks
-Meadow Bunting,574724951,lbb
-Brown-cheeked Rail,65591141,rail_crake
-Brown Dipper,386907391,mbb
-Steller's Sea-Eagle,65432961,raptors
-Common Kingfisher,26854431,kingfishers
-Japanese Woodpecker,26854991,woodpecker
-White-cheeked Starling,595589131,ground_mbb
-White-cheeked Starling,595588981,ground_mbb
-Gray Heron,595587331,herons
-Brown Booby (Forster's),255414011,seabirds
-Brown Booby (Forster's),255412571,seabirds
-Pacific Swift,206003831,swallows
-Bannerman's Shearwater,598950681,seabirds
-Long-tailed Tit,597739541,tit
-White Wagtail,595590351,wagfantail
-White Wagtail,595590081,wagfantail
-Eurasian Goshawk,588720091,raptors
+"Northern Wheatear (Eurasian)",152739981,mbb
+"Lidth's Jay",101299111,robins
+"Black Kite",41546401,raptors
+"Okinawa Rail",352475521,rail_crake
+"Glaucous Gull",26859221,seabirds
+"Black-faced Spoonbill",26854591,egrets
+"Ryukyu Scops-Owl",24366191,owl
+"Sakhalin Grasshopper Warbler",164596511,lbb
+"White-bellied Green-Pigeon",170128911,pigeons_doves
+"Red-crowned Crane",76323611,egrets
+"Green-winged Teal (Eurasian)",219924921,ducks
+"Bald Eagle",307799451,raptors
+"Yellow-throated Bunting",275214621,lbb
+"Long-tailed Rosefinch",542906631,finches
+"Northern Pintail",297593301,ducks
+"Japanese Murrelet",208258421,puffin_and_co
+"Common Gull (Kamchatka)",65436951,little_colourful_birds
+"Little Tern",241113051,seabirds
+"Ruddy Turnstone",608671995,wader
+"Red-necked Stint",417185211,wader
+"Mugimaki Flycatcher",271357951,wagfantail
+"Pallas's Rosefinch",208475201,finches
+"Meadow Bunting",206021211,lbb
+"Hooded Crane",65590071,egrets
+"Japanese Pygmy Woodpecker",58877331,woodpecker
+"Slaty-backed Gull",26858951,seabirds
+"Japanese Sparrowhawk",123600351,raptors
+"Saunders's Gull",85854021,seabirds
+"Owston's Tit",93918021,tit
+"Scaly-sided Merganser",300117341,funky_ducks
+"Chestnut Bunting",143765391,lbb
+"Okinawa Woodpecker",129292971,woodpecker
+"Chinese Bamboo-Partridge",123599711,quails
+"Northern Pintail",511702441,ducks
+"Black-footed Albatross",253362421,seabirds
+"Oriental Greenfinch",76327691,finches
+"Red-necked Stint",521309161,wader
+"Ashy Minivet",206023171,robins
+"White-cheeked Starling",65592681,ground_mbb
+"Spectacled Guillemot",124263761,puffin_and_co
+"Eurasian Bullfinch",613124015,finches
+"Japanese Pygmy Woodpecker",611298212,woodpecker
+"Crested Ibis",553405881,black_white
+"Red-necked Phalarope",417196841,wader
+"Siberian Rubythroat",384686261,ground_mbb
+"Siberian Blue Robin",335517911,robins
+"Asian Rosy-Finch",219931411,finches
+"Wedge-tailed Shearwater",205935001,seabirds
+"European Starling",143164581,ground_mbb
+"Oriental Stork",132112021,egrets
+"Gray-headed Lapwing",105601371,wader
+"Northern Lapwing",88403501,wader
+"Common Gull",41541651,seabirds
+"Okinawa Woodpecker",206012331,woodpecker
+"Greater Scaup",65541751,ducks
+"Meadow Bunting",574724951,lbb
+"Brown-cheeked Rail",65591141,rail_crake
+"Brown Dipper",386907391,mbb
+"Steller's Sea-Eagle",65432961,raptors
+"Common Kingfisher",26854431,kingfishers
+"Japanese Woodpecker",26854991,woodpecker
+"White-cheeked Starling",595589131,ground_mbb
+"White-cheeked Starling",595588981,ground_mbb
+"Gray Heron",595587331,herons
+"Brown Booby (Forster's)",255414011,seabirds
+"Brown Booby (Forster's)",255412571,seabirds
+"Pacific Swift",206003831,swallows
+"Bannerman's Shearwater",598950681,seabirds
+"Long-tailed Tit",597739541,tit
+"White Wagtail",595590351,wagfantail
+"White Wagtail",595590081,wagfantail
+"Eurasian Goshawk",588720091,raptors

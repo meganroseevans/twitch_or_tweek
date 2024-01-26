@@ -1,733 +1,734 @@
 name,image_id,category
-Cirl Bunting,325708721,lbb
-Little Egret,312541331,egrets
-Common Murre,443098371,puffin_and_co
-European Robin,496144951,robins
-Eurasian Blue Tit,51883101,tit
-Eurasian Blue Tit,611051239,tit
-Common Redshank,311512471,wader
-Eurasian Kestrel,368668751,raptors
-Dartford Warbler,314557661,lbb
+name,image_id,
+"Cirl Bunting",325708721,lbb
+"Little Egret",312541331,egrets
+"Common Murre",443098371,puffin_and_co
+"European Robin",496144951,robins
+"Eurasian Blue Tit",51883101,tit
+"Eurasian Blue Tit",611051239,tit
+"Common Redshank",311512471,wader
+"Eurasian Kestrel",368668751,raptors
+"Dartford Warbler",314557661,lbb
 Razorbill,220026581,puffin_and_co
-Long-tailed Tit,483022741,tit
-Little Bunting,327726651,lbb
-Crested Tit,612194226,tit
-Barn Owl,306170191,owl
-European Stonechat,386811971,little_colourful_birds
-Black-legged Kittiwake,443097911,seabirds
-Northern Fulmar,457449731,seabirds
-Red-breasted Merganser,302505361,funky_ducks
-Cirl Bunting,325708761,lbb
-Great Crested Grebe,301253421,water_birds
-Cirl Bunting,325708691,lbb
-Eurasian Moorhen,308540351,water_birds
-Cirl Bunting,325709881,lbb
-Cirl Bunting,325709871,lbb
-White-throated Sparrow,328134311,lbb
-Desert Wheatear,162001871,mbb
-Common Murre,44829881,puffin_and_co
-Eared Grebe,347952551,water_birds
-Cirl Bunting,325708771,lbb
-Common Pochard,462692491,ducks
-Common Cuckoo,326880221,cuckoos
-White Wagtail (British),332193291,wagfantail
-Rose-ringed Parakeet,273920551,parrots
-Peregrine Falcon,346873751,raptors
-Common Kingfisher,308559381,kingfishers
-Great Crested Grebe,144916421,water_birds
-Common Grasshopper Warbler,226725401,lbb
-Great Crested Grebe,144916411,water_birds
-Mute Swan,104367781,geese
-Common Redstart,326879691,robins
-Barn Owl,309200031,owl
-Common Merganser,310827791,funky_ducks
-Brant (Dark-bellied),314552521,geese
-Little Egret,312077021,egrets
-Great Cormorant,49406991,cormorant
-Eurasian Wren,379898441,lbb
-Black-browed Albatross,443113121,seabirds
-Northern Fulmar,443097651,seabirds
-Great Skua,174175591,seabirds
-European Stonechat,308945831,little_colourful_birds
-Greater Whitethroat,333121331,mbb
-Common Murre,443098521,puffin_and_co
-Eurasian Goshawk,175848971,raptors
-Olive-backed Pipit,332003841,mbb
-Peregrine Falcon,381133771,raptors
-Common Redstart,247685761,robins
-Common Buzzard,62847421,raptors
-Lesser Black-backed Gull,357582421,seabirds
-Tufted Duck,82855401,ducks
-Desert Wheatear,162000261,mbb
-Great Crested Grebe,144916431,water_birds
-Great Crested Grebe,301253331,water_birds
+"Long-tailed Tit",483022741,tit
+"Little Bunting",327726651,lbb
+"Crested Tit",612194226,tit
+"Barn Owl",306170191,owl
+"European Stonechat",386811971,little_colourful_birds
+"Black-legged Kittiwake",443097911,seabirds
+"Northern Fulmar",457449731,seabirds
+"Red-breasted Merganser",302505361,funky_ducks
+"Cirl Bunting",325708761,lbb
+"Great Crested Grebe",301253421,water_birds
+"Cirl Bunting",325708691,lbb
+"Eurasian Moorhen",308540351,water_birds
+"Cirl Bunting",325709881,lbb
+"Cirl Bunting",325709871,lbb
+"White-throated Sparrow",328134311,lbb
+"Desert Wheatear",162001871,mbb
+"Common Murre",44829881,puffin_and_co
+"Eared Grebe",347952551,water_birds
+"Cirl Bunting",325708771,lbb
+"Common Pochard",462692491,ducks
+"Common Cuckoo",326880221,cuckoos
+"White Wagtail (British)",332193291,wagfantail
+"Rose-ringed Parakeet",273920551,parrots
+"Peregrine Falcon",346873751,raptors
+"Common Kingfisher",308559381,kingfishers
+"Great Crested Grebe",144916421,water_birds
+"Common Grasshopper Warbler",226725401,lbb
+"Great Crested Grebe",144916411,water_birds
+"Mute Swan",104367781,geese
+"Common Redstart",326879691,robins
+"Barn Owl",309200031,owl
+"Common Merganser",310827791,funky_ducks
+"Brant (Dark-bellied)",314552521,geese
+"Little Egret",312077021,egrets
+"Great Cormorant",49406991,cormorant
+"Eurasian Wren",379898441,lbb
+"Black-browed Albatross",443113121,seabirds
+"Northern Fulmar",443097651,seabirds
+"Great Skua",174175591,seabirds
+"European Stonechat",308945831,little_colourful_birds
+"Greater Whitethroat",333121331,mbb
+"Common Murre",443098521,puffin_and_co
+"Eurasian Goshawk",175848971,raptors
+"Olive-backed Pipit",332003841,mbb
+"Peregrine Falcon",381133771,raptors
+"Common Redstart",247685761,robins
+"Common Buzzard",62847421,raptors
+"Lesser Black-backed Gull",357582421,seabirds
+"Tufted Duck",82855401,ducks
+"Desert Wheatear",162000261,mbb
+"Great Crested Grebe",144916431,water_birds
+"Great Crested Grebe",301253331,water_birds
 Mallard,611159207,ducks
-Meadow Pipit,373418531,mbb
-Black-browed Albatross,443113081,seabirds
-Eurasian Moorhen,308540251,water_birds
-Red-rumped Swallow,337915761,swallows
-Common Murre,443098411,puffin_and_co
-Black-browed Albatross,443113021,seabirds
-Cirl Bunting,325711141,lbb
-Desert Wheatear,162000251,mbb
-Red-breasted Merganser,302505291,funky_ducks
-Common Grasshopper Warbler,226725471,lbb
-Bohemian Waxwing,183674381,little_colourful_birds
-European Goldfinch,90079171,finches
-Common Firecrest,497444961,little_colourful_birds
-Arctic Tern,50322391,seabirds
-Barn Owl,309199991,owl
-Black Guillemot,54444991,puffin_and_co
-Cirl Bunting,325711081,lbb
-Black-headed Gull,78199751,seabirds
+"Meadow Pipit",373418531,mbb
+"Black-browed Albatross",443113081,seabirds
+"Eurasian Moorhen",308540251,water_birds
+"Red-rumped Swallow",337915761,swallows
+"Common Murre",443098411,puffin_and_co
+"Black-browed Albatross",443113021,seabirds
+"Cirl Bunting",325711141,lbb
+"Desert Wheatear",162000251,mbb
+"Red-breasted Merganser",302505291,funky_ducks
+"Common Grasshopper Warbler",226725471,lbb
+"Bohemian Waxwing",183674381,little_colourful_birds
+"European Goldfinch",90079171,finches
+"Common Firecrest",497444961,little_colourful_birds
+"Arctic Tern",50322391,seabirds
+"Barn Owl",309199991,owl
+"Black Guillemot",54444991,puffin_and_co
+"Cirl Bunting",325711081,lbb
+"Black-headed Gull",78199751,seabirds
 Dunlin,333854291,wader
-Red-billed Chough,439341001,black_white
+"Red-billed Chough",439341001,black_white
 Sanderling,239482161,wader
-Long-tailed Duck,306721001,ducks
-Desert Wheatear,162000241,mbb
-Eared Grebe,348277011,water_birds
-Stock Dove,103889961,pigeons_doves
-Graylag Goose,389167941,geese
-Brant (Dark-bellied),314552461,geese
-Lapland Longspur,261171981,lbb
-Mandarin Duck,87138011,ducks
-Common Cuckoo,326881921,cuckoos
-Dartford Warbler,48034341,lbb
-Common Grasshopper Warbler,226725081,lbb
-Eurasian Blue Tit,103220581,tit
-Velvet Scoter,129448731,funky_ducks
-White-throated Dipper,44823921,mbb
-Black Grouse,54593301,quails
-Great Spotted Woodpecker,112095411,woodpecker
-Little Stint,241238131,wader
-Bearded Vulture,249175291,raptors
-Common Gull,301253881,seabirds
-Eurasian Sparrowhawk,72251391,raptors
+"Long-tailed Duck",306721001,ducks
+"Desert Wheatear",162000241,mbb
+"Eared Grebe",348277011,water_birds
+"Stock Dove",103889961,pigeons_doves
+"Graylag Goose",389167941,geese
+"Brant (Dark-bellied)",314552461,geese
+"Lapland Longspur",261171981,lbb
+"Mandarin Duck",87138011,ducks
+"Common Cuckoo",326881921,cuckoos
+"Dartford Warbler",48034341,lbb
+"Common Grasshopper Warbler",226725081,lbb
+"Eurasian Blue Tit",103220581,tit
+"Velvet Scoter",129448731,funky_ducks
+"White-throated Dipper",44823921,mbb
+"Black Grouse",54593301,quails
+"Great Spotted Woodpecker",112095411,woodpecker
+"Little Stint",241238131,wader
+"Bearded Vulture",249175291,raptors
+"Common Gull",301253881,seabirds
+"Eurasian Sparrowhawk",72251391,raptors
 Razorbill,44829721,puffin_and_co
-Booted Warbler,180192091,lbb
-Eurasian Blackbird,169220291,ground_mbb
-Barn Owl,309200051,owl
-Atlantic Puffin,50322361,puffin_and_co
-Eurasian Oystercatcher,107005301,wader
-Ruddy Shelduck,21038851,ducks
-Rock Pigeon,345309021,pigeons_doves
+"Booted Warbler",180192091,lbb
+"Eurasian Blackbird",169220291,ground_mbb
+"Barn Owl",309200051,owl
+"Atlantic Puffin",50322361,puffin_and_co
+"Eurasian Oystercatcher",107005301,wader
+"Ruddy Shelduck",21038851,ducks
+"Rock Pigeon",345309021,pigeons_doves
 Yellowhammer,78557031,little_colourful_birds
 Goldcrest,106968261,little_colourful_birds
-Corn Crake,107001471,rail_crake
-Red Crossbill,51882961,little_colourful_birds
-Tufted Duck,301253831,ducks
-Eurasian Jackdaw,312833531,black_white
-Common Firecrest,143716871,little_colourful_birds
-Mute Swan,176900691,geese
-Black-throated Thrush,204950091,ground_mbb
-Atlantic Puffin,204720811,puffin_and_co
-Redwing (Eurasian),90081801,ground_mbb
+"Corn Crake",107001471,rail_crake
+"Red Crossbill",51882961,little_colourful_birds
+"Tufted Duck",301253831,ducks
+"Eurasian Jackdaw",312833531,black_white
+"Common Firecrest",143716871,little_colourful_birds
+"Mute Swan",176900691,geese
+"Black-throated Thrush",204950091,ground_mbb
+"Atlantic Puffin",204720811,puffin_and_co
+"Redwing (Eurasian)",90081801,ground_mbb
 Ruff,255722841,wader
-Great Spotted Woodpecker,79904931,woodpecker
-Little Egret,312077111,egrets
-Parrot Crossbill,109632511,parrots
-Common Merganser (Eurasian),46776931,funky_ducks
-Snow Bunting,107004271,lbb
+"Great Spotted Woodpecker",79904931,woodpecker
+"Little Egret",312077111,egrets
+"Parrot Crossbill",109632511,parrots
+"Common Merganser (Eurasian)",46776931,funky_ducks
+"Snow Bunting",107004271,lbb
 Sanderling,332606761,wader
-Gray Heron,107191301,herons
-Northern Wheatear,228186891,mbb
-Red Kite,529969271,raptors
-Black-headed Gull,179150811,seabirds
+"Gray Heron",107191301,herons
+"Northern Wheatear",228186891,mbb
+"Red Kite",529969271,raptors
+"Black-headed Gull",179150811,seabirds
 Dunnock,51882821,mbb
-Common Merganser (Eurasian),78554841,funky_ducks
-Eurasian Moorhen,308540331,water_birds
-Atlantic Puffin,174175721,puffin_and_co
-Rock Ptarmigan,113345131,quails
-Red-crested Pochard,46654081,ducks
-Black-throated Thrush,199418721,ground_mbb
-Great Skua,174175401,seabirds
-Long-eared Owl,114180661,owl
-Bearded Reedling,179351411,tit
-Mute Swan,148970661,geese
+"Common Merganser (Eurasian)",78554841,funky_ducks
+"Eurasian Moorhen",308540331,water_birds
+"Atlantic Puffin",174175721,puffin_and_co
+"Rock Ptarmigan",113345131,quails
+"Red-crested Pochard",46654081,ducks
+"Black-throated Thrush",199418721,ground_mbb
+"Great Skua",174175401,seabirds
+"Long-eared Owl",114180661,owl
+"Bearded Reedling",179351411,tit
+"Mute Swan",148970661,geese
 Sanderling,348526171,wader
-Eurasian Linnet,325707641,lbb
-Black-headed Gull,610844268,seabirds
+"Eurasian Linnet",325707641,lbb
+"Black-headed Gull",610844268,seabirds
 Rook,58569811,black_white
-Black Grouse,330354661,quails
-Willow Warbler,223464351,lbb
-Reed Bunting,145788711,lbb
-Mandarin Duck,25706801,ducks
-Eurasian Skylark,325707751,mbb
-Common Grasshopper Warbler,226725671,lbb
-Eurasian Kestrel,368668731,raptors
+"Black Grouse",330354661,quails
+"Willow Warbler",223464351,lbb
+"Reed Bunting",145788711,lbb
+"Mandarin Duck",25706801,ducks
+"Eurasian Skylark",325707751,mbb
+"Common Grasshopper Warbler",226725671,lbb
+"Eurasian Kestrel",368668731,raptors
 Dunlin,333854161,wader
-Tawny Owl,293406911,owl
-Eurasian Blackcap,429544801,lbb
-Eurasian Kestrel,368668701,raptors
-Dartford Warbler,327257221,lbb
-Eurasian Jay,241250451,robins
-Northern Wheatear,231239531,mbb
-Long-eared Owl,310255441,owl
-Atlantic Puffin,108896201,puffin_and_co
-Isabelline Wheatear,519997801,mbb
-Whimbrel (European),325919091,wader
-Little Bunting,404241951,lbb
-Common Cuckoo,326880311,cuckoos
-Brant (Dark-bellied),312539741,geese
-Dartford Warbler,314567861,lbb
-Common Cuckoo,326880261,cuckoos
-Northern Fulmar,113113951,seabirds
-Bank Swallow,114206901,swallows
-Common Merganser (Eurasian),46776911,funky_ducks
-Eurasian Blue Tit,612547288,tit
-Eurasian Kestrel,368668771,raptors
-Cirl Bunting,325710771,lbb
-Little Egret,312077071,egrets
-Common Ringed Plover,113113211,wader
+"Tawny Owl",293406911,owl
+"Eurasian Blackcap",429544801,lbb
+"Eurasian Kestrel",368668701,raptors
+"Dartford Warbler",327257221,lbb
+"Eurasian Jay",241250451,robins
+"Northern Wheatear",231239531,mbb
+"Long-eared Owl",310255441,owl
+"Atlantic Puffin",108896201,puffin_and_co
+"Isabelline Wheatear",519997801,mbb
+"Whimbrel (European)",325919091,wader
+"Little Bunting",404241951,lbb
+"Common Cuckoo",326880311,cuckoos
+"Brant (Dark-bellied)",312539741,geese
+"Dartford Warbler",314567861,lbb
+"Common Cuckoo",326880261,cuckoos
+"Northern Fulmar",113113951,seabirds
+"Bank Swallow",114206901,swallows
+"Common Merganser (Eurasian)",46776911,funky_ducks
+"Eurasian Blue Tit",612547288,tit
+"Eurasian Kestrel",368668771,raptors
+"Cirl Bunting",325710771,lbb
+"Little Egret",312077071,egrets
+"Common Ringed Plover",113113211,wader
 Mallard,388382301,ducks
-Ruddy Turnstone,312077351,wader
+"Ruddy Turnstone",312077351,wader
 Twite,40041141,lbb
-Rock Pipit,113113551,mbb
-Great Cormorant,387314711,cormorant
-Eared Grebe,347305991,water_birds
-Common Murre,588132181,puffin_and_co
-Great Skua,174175461,seabirds
-Arctic Loon,107288361,puffin_and_co
-Snow Bunting,490282741,lbb
-Common Redstart,326879681,robins
-Marsh Tit,87426351,tit
-Lesser Black-backed Gull,558574851,seabirds
-Eurasian Blue Tit,106996811,tit
+"Rock Pipit",113113551,mbb
+"Great Cormorant",387314711,cormorant
+"Eared Grebe",347305991,water_birds
+"Common Murre",588132181,puffin_and_co
+"Great Skua",174175461,seabirds
+"Arctic Loon",107288361,puffin_and_co
+"Snow Bunting",490282741,lbb
+"Common Redstart",326879681,robins
+"Marsh Tit",87426351,tit
+"Lesser Black-backed Gull",558574851,seabirds
+"Eurasian Blue Tit",106996811,tit
 Razorbill,44829701,puffin_and_co
-Western House-Martin,104155511,swallows
-Reed Bunting,513383921,lbb
-Eurasian Kestrel,368668941,raptors
-Northern Wheatear,228186871,mbb
-Red Kite (Red),104479601,raptors
-Common Buzzard (Western),87039801,raptors
-Eurasian Curlew,304576191,wader
-Common Grasshopper Warbler,226725271,lbb
-Great Cormorant,130785001,cormorant
-Reed Bunting,78556991,lbb
-Sabine's Gull,549741441,seabirds
-Ring-necked Pheasant,418078691,walking_birds
-White's Thrush,373604261,ground_mbb
-Lesser Redpoll,307655191,lbb
-Red-breasted Merganser,302505251,funky_ducks
-European Robin,113112771,robins
-Eurasian Magpie,106681781,black_white
-Eurasian Blue Tit,79903251,tit
-Common Cuckoo,326880091,cuckoos
-House Sparrow,325707491,lbb
-Barred Warbler,205391681,lbb
-Great Crested Grebe,216017771,water_birds
-Eurasian Bullfinch,610549073,finches
-Eurasian Kestrel,368668691,raptors
-Spotted Flycatcher,177036021,wagfantail
-Northern Gannet,54946311,seabirds
-Eurasian Kestrel,368668811,raptors
-Red-throated Loon,262730201,puffin_and_co
-Willow Ptarmigan (Red Grouse),148087311,quails
-Velvet Scoter,129448591,funky_ducks
-Mediterranean Gull,45935251,seabirds
-Rock Pigeon,345309041,pigeons_doves
-Common Redshank,312541031,wader
-Pied Avocet,106383821,wader
-Common Kingfisher,521740021,kingfishers
-Common Buzzard,62847431,raptors
-Common Murre,588128561,puffin_and_co
-European Robin,328750031,robins
-Brant (Dark-bellied),314552481,geese
-Common Cuckoo,326880231,cuckoos
-Mandarin Duck,538995471,ducks
+"Western House-Martin",104155511,swallows
+"Reed Bunting",513383921,lbb
+"Eurasian Kestrel",368668941,raptors
+"Northern Wheatear",228186871,mbb
+"Red Kite (Red)",104479601,raptors
+"Common Buzzard (Western)",87039801,raptors
+"Eurasian Curlew",304576191,wader
+"Common Grasshopper Warbler",226725271,lbb
+"Great Cormorant",130785001,cormorant
+"Reed Bunting",78556991,lbb
+"Sabine's Gull",549741441,seabirds
+"Ring-necked Pheasant",418078691,walking_birds
+"White's Thrush",373604261,ground_mbb
+"Lesser Redpoll",307655191,lbb
+"Red-breasted Merganser",302505251,funky_ducks
+"European Robin",113112771,robins
+"Eurasian Magpie",106681781,black_white
+"Eurasian Blue Tit",79903251,tit
+"Common Cuckoo",326880091,cuckoos
+"House Sparrow",325707491,lbb
+"Barred Warbler",205391681,lbb
+"Great Crested Grebe",216017771,water_birds
+"Eurasian Bullfinch",610549073,finches
+"Eurasian Kestrel",368668691,raptors
+"Spotted Flycatcher",177036021,wagfantail
+"Northern Gannet",54946311,seabirds
+"Eurasian Kestrel",368668811,raptors
+"Red-throated Loon",262730201,puffin_and_co
+"Willow Ptarmigan (Red Grouse)",148087311,quails
+"Velvet Scoter",129448591,funky_ducks
+"Mediterranean Gull",45935251,seabirds
+"Rock Pigeon",345309041,pigeons_doves
+"Common Redshank",312541031,wader
+"Pied Avocet",106383821,wader
+"Common Kingfisher",521740021,kingfishers
+"Common Buzzard",62847431,raptors
+"Common Murre",588128561,puffin_and_co
+"European Robin",328750031,robins
+"Brant (Dark-bellied)",314552481,geese
+"Common Cuckoo",326880231,cuckoos
+"Mandarin Duck",538995471,ducks
 Razorbill,220026571,puffin_and_co
-Willow Warbler,471438011,lbb
-Greater Whitethroat,333114231,mbb
-European Golden-Plover,168058001,wader
-Coal Tit,114035601,tit
-Barn Swallow,163210671,swallows
-Reed Bunting,513383871,lbb
-Lesser Redpoll,404203631,lbb
-Rock Pipit,58124791,mbb
-Siberian Stonechat (Siberian),192890701,little_colourful_birds
-Tufted Duck,104303001,ducks
-Parrot Crossbill,109633091,parrots
-Great Tit,313660031,tit
-Eurasian Moorhen,144916641,water_birds
-Common Reed Warbler (Common),67179281,lbb
-Black-browed Albatross (Black-browed),367662851,seabirds
-Brant (Dark-bellied),314552421,geese
-Red Knot,275068451,wader
-Rock Pigeon (Feral Pigeon),273920641,pigeons_doves
-Common Cuckoo,326880351,cuckoos
-Jack Snipe,613340185,wader
-Common Ringed Plover,610944798,wader
-Mandarin Duck,538995641,ducks
-Alpine Accentor,498428061,mbb
-Arctic Warbler,259490951,lbb
-Jack Snipe,193503311,wader
-Little Egret,312077101,egrets
-Little Egret,312077131,egrets
+"Willow Warbler",471438011,lbb
+"Greater Whitethroat",333114231,mbb
+"European Golden-Plover",168058001,wader
+"Coal Tit",114035601,tit
+"Barn Swallow",163210671,swallows
+"Reed Bunting",513383871,lbb
+"Lesser Redpoll",404203631,lbb
+"Rock Pipit",58124791,mbb
+"Siberian Stonechat (Siberian)",192890701,little_colourful_birds
+"Tufted Duck",104303001,ducks
+"Parrot Crossbill",109633091,parrots
+"Great Tit",313660031,tit
+"Eurasian Moorhen",144916641,water_birds
+"Common Reed Warbler (Common)",67179281,lbb
+"Black-browed Albatross (Black-browed)",367662851,seabirds
+"Brant (Dark-bellied)",314552421,geese
+"Red Knot",275068451,wader
+"Rock Pigeon (Feral Pigeon)",273920641,pigeons_doves
+"Common Cuckoo",326880351,cuckoos
+"Jack Snipe",613340185,wader
+"Common Ringed Plover",610944798,wader
+"Mandarin Duck",538995641,ducks
+"Alpine Accentor",498428061,mbb
+"Arctic Warbler",259490951,lbb
+"Jack Snipe",193503311,wader
+"Little Egret",312077101,egrets
+"Little Egret",312077131,egrets
 Twite,613654370,lbb
-European Robin,525798621,robins
-Mandarin Duck,508849261,ducks
-Lanceolated Warbler,267811541,lbb
-European Robin,267571031,robins
-Atlantic Puffin,174175571,puffin_and_co
-Greater White-fronted Goose,331955211,geese
-Brant (Dark-bellied),312539651,geese
+"European Robin",525798621,robins
+"Mandarin Duck",508849261,ducks
+"Lanceolated Warbler",267811541,lbb
+"European Robin",267571031,robins
+"Atlantic Puffin",174175571,puffin_and_co
+"Greater White-fronted Goose",331955211,geese
+"Brant (Dark-bellied)",312539651,geese
 Twite,39236571,lbb
-Great Tit,313660021,tit
-House Sparrow,49634991,lbb
-Tawny Owl,152870171,owl
-Great Cormorant,322201371,cormorant
-Peregrine Falcon,141636701,raptors
-Mandarin Duck,413179961,ducks
-Red-billed Chough,349997741,black_white
-Red Knot,613259084,wader
-Bearded Reedling,492631961,tit
-Tawny Owl,458892361,owl
-European Stonechat,337895331,little_colourful_birds
-Common Shelduck,335029891,ducks
-Short-eared Owl,326875621,owl
-Common Merganser,310827961,funky_ducks
-Tawny Owl,297156711,owl
-Eurasian Wryneck,284346251,mbb
-Northern Gannet,174323211,seabirds
-Northern Fulmar,353753071,seabirds
-Eurasian Treecreeper,72659741,lbb
-Great Tit,147492431,tit
+"Great Tit",313660021,tit
+"House Sparrow",49634991,lbb
+"Tawny Owl",152870171,owl
+"Great Cormorant",322201371,cormorant
+"Peregrine Falcon",141636701,raptors
+"Mandarin Duck",413179961,ducks
+"Red-billed Chough",349997741,black_white
+"Red Knot",613259084,wader
+"Bearded Reedling",492631961,tit
+"Tawny Owl",458892361,owl
+"European Stonechat",337895331,little_colourful_birds
+"Common Shelduck",335029891,ducks
+"Short-eared Owl",326875621,owl
+"Common Merganser",310827961,funky_ducks
+"Tawny Owl",297156711,owl
+"Eurasian Wryneck",284346251,mbb
+"Northern Gannet",174323211,seabirds
+"Northern Fulmar",353753071,seabirds
+"Eurasian Treecreeper",72659741,lbb
+"Great Tit",147492431,tit
 Sanderling,613575454,wader
-Jack Snipe,613340184,wader
-Jack Snipe,613340182,wader
-Red-backed Shrike,608424298,songbird
-Eurasian Linnet,325710441,lbb
-Brant (Dark-bellied),314552351,geese
-Long-eared Owl,186858221,owl
-Pied Wheatear,104669181,mbb
-Eurasian Blue Tit,104481631,tit
-Dartford Warbler,314555321,lbb
-Northern Gannet,443113841,seabirds
-Rock Ptarmigan,113345111,quails
-Great Tit,313659981,tit
-Common Grasshopper Warbler,226725231,lbb
-Graylag Goose,139224461,geese
-Long-tailed Duck,308943681,ducks
-Common Redshank,312540991,wader
-White Stork,329002161,egrets
-Barn Owl,45381081,owl
+"Jack Snipe",613340184,wader
+"Jack Snipe",613340182,wader
+"Red-backed Shrike",608424298,songbird
+"Eurasian Linnet",325710441,lbb
+"Brant (Dark-bellied)",314552351,geese
+"Long-eared Owl",186858221,owl
+"Pied Wheatear",104669181,mbb
+"Eurasian Blue Tit",104481631,tit
+"Dartford Warbler",314555321,lbb
+"Northern Gannet",443113841,seabirds
+"Rock Ptarmigan",113345111,quails
+"Great Tit",313659981,tit
+"Common Grasshopper Warbler",226725231,lbb
+"Graylag Goose",139224461,geese
+"Long-tailed Duck",308943681,ducks
+"Common Redshank",312540991,wader
+"White Stork",329002161,egrets
+"Barn Owl",45381081,owl
 Fieldfare,128176771,mbb
 Sanderling,78556651,wader
-Olive-backed Pipit,331999691,mbb
-Snow Bunting,185321451,lbb
-Atlantic Puffin,174175681,puffin_and_co
-Eurasian Nuthatch,612701905,lbb
-Eurasian Curlew,610844228,wader
-Mandarin Duck,538995581,ducks
-Wood Sandpiper,483476551,wader
-Dartford Warbler,327244851,lbb
-Mandarin Duck,326874341,ducks
-European Goldfinch,325710341,finches
-Dartford Warbler,314547441,lbb
-European Stonechat,308945951,little_colourful_birds
-Snow Bunting,204828391,lbb
-Horned Grebe,151177991,water_birds
-Purple Sandpiper,142171221,wader
-Jack Snipe,613340187,wader
-Yellow-rumped Warbler (Myrtle),506838361,lbb
-Golden Pheasant,382873371,walking_birds
-Red-breasted Merganser,302505121,funky_ducks
-Willow Tit (Willow),205253861,tit
-Common Murre,173578951,puffin_and_co
-Reed Bunting,59400211,lbb
-Northern Gannet,443113721,seabirds
+"Olive-backed Pipit",331999691,mbb
+"Snow Bunting",185321451,lbb
+"Atlantic Puffin",174175681,puffin_and_co
+"Eurasian Nuthatch",612701905,lbb
+"Eurasian Curlew",610844228,wader
+"Mandarin Duck",538995581,ducks
+"Wood Sandpiper",483476551,wader
+"Dartford Warbler",327244851,lbb
+"Mandarin Duck",326874341,ducks
+"European Goldfinch",325710341,finches
+"Dartford Warbler",314547441,lbb
+"European Stonechat",308945951,little_colourful_birds
+"Snow Bunting",204828391,lbb
+"Horned Grebe",151177991,water_birds
+"Purple Sandpiper",142171221,wader
+"Jack Snipe",613340187,wader
+"Yellow-rumped Warbler (Myrtle)",506838361,lbb
+"Golden Pheasant",382873371,walking_birds
+"Red-breasted Merganser",302505121,funky_ducks
+"Willow Tit (Willow)",205253861,tit
+"Common Murre",173578951,puffin_and_co
+"Reed Bunting",59400211,lbb
+"Northern Gannet",443113721,seabirds
 Whinchat,482551941,little_colourful_birds
-Brant (Dark-bellied),314552391,geese
-Brant (Dark-bellied),314552371,geese
-Common Nighthawk,181715581,raptors
-Eurasian Wren,529344691,lbb
+"Brant (Dark-bellied)",314552391,geese
+"Brant (Dark-bellied)",314552371,geese
+"Common Nighthawk",181715581,owl
+"Eurasian Wren",529344691,lbb
 Gadwall,419224941,ducks
 Dunlin,333854361,wader
 Sanderling,332604691,wader
-Great Skua,44827181,seabirds
-Eurasian Dotterel,269190421,wader
+"Great Skua",44827181,seabirds
+"Eurasian Dotterel",269190421,wader
 Mallard,167119151,ducks
-Black-headed Gull,167131061,seabirds
+"Black-headed Gull",167131061,seabirds
 Razorbill,220026611,puffin_and_co
-Eurasian Oystercatcher,220026311,wader
+"Eurasian Oystercatcher",220026311,wader
 Brambling,51882851,lbb
-House Sparrow,108633301,lbb
-Red-billed Chough,331999111,black_white
-European Shag,103592021,cormorant
-Northern Waterthrush,613237588,ground_mbb
-Glaucous Gull,528092171,seabirds
-Northern Wheatear,325708521,mbb
-Mistle Thrush,93505841,ground_mbb
-Northern Pintail,194513781,ducks
-Carrion Crow,73664371,black_white
-Eurasian Bullfinch,106997081,finches
-Corn Crake,31442381,rail_crake
-Northern Fulmar,113114211,seabirds
-Common Tern,62707221,seabirds
-Bohemian Waxwing,538904331,little_colourful_birds
-Alpine Accentor,498427591,mbb
-Marsh Tit,423811621,tit
-Sabine's Gull,365811951,seabirds
-Dartford Warbler,327244801,lbb
-European Stonechat,308945961,little_colourful_birds
-Long-tailed Duck,306727131,ducks
+"House Sparrow",108633301,lbb
+"Red-billed Chough",331999111,black_white
+"European Shag",103592021,cormorant
+"Northern Waterthrush",613237588,ground_mbb
+"Glaucous Gull",528092171,seabirds
+"Northern Wheatear",325708521,mbb
+"Mistle Thrush",93505841,ground_mbb
+"Northern Pintail",194513781,ducks
+"Carrion Crow",73664371,black_white
+"Eurasian Bullfinch",106997081,finches
+"Corn Crake",31442381,rail_crake
+"Northern Fulmar",113114211,seabirds
+"Common Tern",62707221,seabirds
+"Bohemian Waxwing",538904331,little_colourful_birds
+"Alpine Accentor",498427591,mbb
+"Marsh Tit",423811621,tit
+"Sabine's Gull",365811951,seabirds
+"Dartford Warbler",327244801,lbb
+"European Stonechat",308945961,little_colourful_birds
+"Long-tailed Duck",306727131,ducks
 Mallard,70865971,ducks
-Eurasian Blackbird,109348151,ground_mbb
-Bohemian Waxwing,613809914,little_colourful_birds
-Jack Snipe,613340607,wader
-Muscovy Duck,611172702,ducks
-Common Murre,588111201,puffin_and_co
-Ruddy Turnstone,537598901,wader
-Bohemian Waxwing,530109481,little_colourful_birds
-Common Kingfisher,523053031,kingfishers
-Brant (Dark-bellied),314552511,geese
-Long-eared Owl,233017201,owl
+"Eurasian Blackbird",109348151,ground_mbb
+"Bohemian Waxwing",613809914,little_colourful_birds
+"Jack Snipe",613340607,wader
+"Muscovy Duck",611172702,ducks
+"Common Murre",588111201,puffin_and_co
+"Ruddy Turnstone",537598901,wader
+"Bohemian Waxwing",530109481,little_colourful_birds
+"Common Kingfisher",523053031,kingfishers
+"Brant (Dark-bellied)",314552511,geese
+"Long-eared Owl",233017201,owl
 Razorbill,219892651,puffin_and_co
-Eurasian Bullfinch (Eurasian),204828431,finches
+"Eurasian Bullfinch (Eurasian)",204828431,finches
 Dovekie,185360221,pigeons_doves
-Reed Bunting,145788721,lbb
-Bohemian Waxwing,538904321,little_colourful_birds
-Common Firecrest,433442111,little_colourful_birds
-Black-tailed Godwit,354728981,wader
-Hoary Redpoll (hornemanni),266785391,lbb
-Eurasian Blue Tit,172651371,tit
+"Reed Bunting",145788721,lbb
+"Bohemian Waxwing",538904321,little_colourful_birds
+"Common Firecrest",433442111,little_colourful_birds
+"Black-tailed Godwit",354728981,wader
+"Hoary Redpoll (hornemanni)",266785391,lbb
+"Eurasian Blue Tit",172651371,tit
 Razorbill,117963131,puffin_and_co
 Fieldfare,106090261,mbb
-Eurasian Coot,610586424,water_birds
-Northern Fulmar,327066221,seabirds
-Common Kingfisher,399492301,kingfishers
-Mute Swan,311305351,geese
-Red-breasted Goose,405251791,geese
+"Eurasian Coot",610586424,water_birds
+"Northern Fulmar",327066221,seabirds
+"Common Kingfisher",399492301,kingfishers
+"Mute Swan",311305351,geese
+"Red-breasted Goose",405251791,geese
 Goldcrest,73030071,little_colourful_birds
-Northern Wheatear,243934261,mbb
-Long-tailed Tit,139781241,tit
-Rock Pigeon (Wild type),44830831,pigeons_doves
+"Northern Wheatear",243934261,mbb
+"Long-tailed Tit",139781241,tit
+"Rock Pigeon (Wild type)",44830831,pigeons_doves
 Mallard,167119181,ducks
-European Stonechat,505919601,little_colourful_birds
-Eurasian Wren,552763791,lbb
-Great Spotted Woodpecker,363633051,woodpecker
-European Starling,613156377,ground_mbb
-Great Cormorant,509560071,cormorant
-Common Cuckoo,326880011,cuckoos
-Snow Bunting,118827471,lbb
-Northern Wheatear,325707441,mbb
-Mute Swan,73664481,geese
-Coal Tit,165709631,tit
-Great Tit,146576841,tit
-Baird's Sandpiper,68581441,wader
-Common Sandpiper,329001491,wader
-Common Firecrest,143716861,little_colourful_birds
-Northern Wheatear,325707401,mbb
-Gray Heron,348642731,herons
-Ring-necked Pheasant,66218821,walking_birds
-Egyptian Goose,301253901,geese
+"European Stonechat",505919601,little_colourful_birds
+"Eurasian Wren",552763791,lbb
+"Great Spotted Woodpecker",363633051,woodpecker
+"European Starling",613156377,ground_mbb
+"Great Cormorant",509560071,cormorant
+"Common Cuckoo",326880011,cuckoos
+"Snow Bunting",118827471,lbb
+"Northern Wheatear",325707441,mbb
+"Mute Swan",73664481,geese
+"Coal Tit",165709631,tit
+"Great Tit",146576841,tit
+"Baird's Sandpiper",68581441,wader
+"Common Sandpiper",329001491,wader
+"Common Firecrest",143716861,little_colourful_birds
+"Northern Wheatear",325707401,mbb
+"Gray Heron",348642731,herons
+"Ring-necked Pheasant",66218821,walking_birds
+"Egyptian Goose",301253901,geese
 Dunnock,257681911,mbb
-European Shag (Atlantic),104155211,cormorant
-Great Spotted Woodpecker,224657801,woodpecker
-Black-headed Gull,104903121,seabirds
-Whooper Swan,87582981,geese
-Northern Wheatear,325707391,mbb
-White Wagtail (British),332193301,wagfantail
+"European Shag (Atlantic)",104155211,cormorant
+"Great Spotted Woodpecker",224657801,woodpecker
+"Black-headed Gull",104903121,seabirds
+"Whooper Swan",87582981,geese
+"Northern Wheatear",325707391,mbb
+"White Wagtail (British)",332193301,wagfantail
 Razorbill,220026591,puffin_and_co
-Eurasian Sparrowhawk,45950501,raptors
-Black-headed Gull,308540921,seabirds
-Stock Dove,146564381,pigeons_doves
-Jack Snipe,613340181,wader
-Snow Bunting,107004261,lbb
-Arctic Tern,103598841,seabirds
-Red Phalarope,78574531,wader
-Purple Sandpiper,610065484,wader
-Brown Booby (Atlantic),608470857,seabirds
-Sabine's Gull,522295911,seabirds
-Northern Fulmar,345311561,seabirds
-Great Spotted Woodpecker,332365211,woodpecker
-Tufted Duck,322199851,ducks
-Ivory Gull,140334491,seabirds
-Crested Tit,712616,tit
-Graylag Goose,112183601,geese
-Ring-necked Pheasant,612081308,walking_birds
-European Starling,609571756,ground_mbb
-Eurasian Wryneck,608820285,mbb
-Little Grebe (Little),544770241,water_birds
-Great Cormorant,522253081,cormorant
-Little Grebe,522235611,water_birds
-Great Bittern,497133911,herons
-Eurasian Dotterel,482420461,wader
-Mandarin Duck,417209111,ducks
-Black-browed Albatross (Black-browed),367663091,seabirds
-Black-browed Albatross,364828011,seabirds
-Little Owl,347467291,owl
+"Eurasian Sparrowhawk",45950501,raptors
+"Black-headed Gull",308540921,seabirds
+"Stock Dove",146564381,pigeons_doves
+"Jack Snipe",613340181,wader
+"Snow Bunting",107004261,lbb
+"Arctic Tern",103598841,seabirds
+"Red Phalarope",78574531,wader
+"Purple Sandpiper",610065484,wader
+"Brown Booby (Atlantic)",608470857,seabirds
+"Sabine's Gull",522295911,seabirds
+"Northern Fulmar",345311561,seabirds
+"Great Spotted Woodpecker",332365211,woodpecker
+"Tufted Duck",322199851,ducks
+"Ivory Gull",140334491,seabirds
+"Crested Tit",712616,tit
+"Graylag Goose",112183601,geese
+"Ring-necked Pheasant",612081308,walking_birds
+"European Starling",609571756,ground_mbb
+"Eurasian Wryneck",608820285,mbb
+"Little Grebe (Little)",544770241,water_birds
+"Great Cormorant",522253081,cormorant
+"Little Grebe",522235611,water_birds
+"Great Bittern",497133911,herons
+"Eurasian Dotterel",482420461,wader
+"Mandarin Duck",417209111,ducks
+"Black-browed Albatross (Black-browed)",367663091,seabirds
+"Black-browed Albatross",364828011,seabirds
+"Little Owl",347467291,owl
 Dunlin,333854371,wader
-Dartford Warbler,327244791,lbb
-Dartford Warbler,327244711,lbb
-Cirl Bunting,325710751,lbb
-European Robin,307256931,robins
+"Dartford Warbler",327244791,lbb
+"Dartford Warbler",327244711,lbb
+"Cirl Bunting",325710751,lbb
+"European Robin",307256931,robins
 Redwing,405308061,ground_mbb
-Short-eared Owl,399466881,owl
-Eurasian Hobby,584913641,raptors
-Jack Snipe,492304621,wader
-Common Redstart,326879601,robins
-River Warbler,345971721,lbb
-Eurasian Green Woodpecker,79469781,woodpecker
-Little Egret,314552771,egrets
-Common Cuckoo,326880081,cuckoos
-Northern Gannet,443113911,seabirds
-Eurasian Hobby,569412301,raptors
-Water Rail,513004591,rail_crake
-Eurasian Wren (British),463741541,lbb
-Eurasian Bullfinch,79795571,finches
-Little Bunting,327725331,lbb
-Common Murre,443098711,puffin_and_co
-Canada Goose,518247161,geese
-Leach's Storm-Petrel,117412691,seabirds
-Common Eider (Eurasian),103590651,funky_ducks
-Yellow-billed Loon,46889541,puffin_and_co
-Great Skua,220026421,seabirds
-Eurasian Curlew,204746821,wader
-Black-browed Albatross,443113161,seabirds
+"Short-eared Owl",399466881,owl
+"Eurasian Hobby",584913641,raptors
+"Jack Snipe",492304621,wader
+"Common Redstart",326879601,robins
+"River Warbler",345971721,lbb
+"Eurasian Green Woodpecker",79469781,woodpecker
+"Little Egret",314552771,egrets
+"Common Cuckoo",326880081,cuckoos
+"Northern Gannet",443113911,seabirds
+"Eurasian Hobby",569412301,raptors
+"Water Rail",513004591,rail_crake
+"Eurasian Wren (British)",463741541,lbb
+"Eurasian Bullfinch",79795571,finches
+"Little Bunting",327725331,lbb
+"Common Murre",443098711,puffin_and_co
+"Canada Goose",518247161,geese
+"Leach's Storm-Petrel",117412691,seabirds
+"Common Eider (Eurasian)",103590651,funky_ducks
+"Yellow-billed Loon",46889541,puffin_and_co
+"Great Skua",220026421,seabirds
+"Eurasian Curlew",204746821,wader
+"Black-browed Albatross",443113161,seabirds
 Fieldfare,128176761,mbb
-Little Egret,312077171,egrets
-Common Ringed Plover,104364471,wader
-Eurasian Nuthatch,323317821,lbb
-Glaucous Gull,86401181,seabirds
-Northern Waterthrush,184285971,ground_mbb
-Little Egret,312077241,egrets
-Arctic Loon,40929381,puffin_and_co
-Common Eider,51256681,funky_ducks
-Common Redstart,326879701,robins
-European Robin,508185691,robins
-Pallas's Leaf Warbler,279883961,lbb
+"Little Egret",312077171,egrets
+"Common Ringed Plover",104364471,wader
+"Eurasian Nuthatch",323317821,lbb
+"Glaucous Gull",86401181,seabirds
+"Northern Waterthrush",184285971,ground_mbb
+"Little Egret",312077241,egrets
+"Arctic Loon",40929381,puffin_and_co
+"Common Eider",51256681,funky_ducks
+"Common Redstart",326879701,robins
+"European Robin",508185691,robins
+"Pallas's Leaf Warbler",279883961,lbb
 Brant,218250431,geese
-Common Gull (European),108822991,seabirds
-Great Crested Grebe,105985721,water_birds
-Common Pochard,540451471,ducks
-Great Tit,251308701,tit
-River Warbler,345971711,lbb
-Eurasian Curlew,611433516,wader
-Long-eared Owl,600602031,owl
-European Robin,513322191,robins
+"Common Gull (European)",108822991,seabirds
+"Great Crested Grebe",105985721,water_birds
+"Common Pochard",540451471,ducks
+"Great Tit",251308701,tit
+"River Warbler",345971711,lbb
+"Eurasian Curlew",611433516,wader
+"Long-eared Owl",600602031,owl
+"European Robin",513322191,robins
 Merlin,364435991,raptors
 Dunlin,333854221,wader
-Common Ringed Plover,333026811,wader
-Little Bunting,331787491,lbb
-Common Cuckoo,326880101,cuckoos
-Lapland Longspur,263217001,lbb
-Great Crested Grebe,157487681,water_birds
-Reed Bunting,78556981,lbb
+"Common Ringed Plover",333026811,wader
+"Little Bunting",331787491,lbb
+"Common Cuckoo",326880101,cuckoos
+"Lapland Longspur",263217001,lbb
+"Great Crested Grebe",157487681,water_birds
+"Reed Bunting",78556981,lbb
 Razorbill,44829711,puffin_and_co
-Jack Snipe,613340605,wader
-Red-backed Shrike,608490010,songbird
-Little Grebe,524827821,water_birds
-Great Spotted Woodpecker,387243751,woodpecker
-Northern Fulmar,345311631,seabirds
-European Stonechat,308945921,little_colourful_birds
-Bohemian Waxwing,205486301,little_colourful_birds
-European Robin,164136831,robins
+"Jack Snipe",613340605,wader
+"Red-backed Shrike",608490010,songbird
+"Little Grebe",524827821,water_birds
+"Great Spotted Woodpecker",387243751,woodpecker
+"Northern Fulmar",345311631,seabirds
+"European Stonechat",308945921,little_colourful_birds
+"Bohemian Waxwing",205486301,little_colourful_birds
+"European Robin",164136831,robins
 Bluethroat,161042841,lbb
-Ivory Gull,140334511,seabirds
-White Wagtail (British),104405991,wagfantail
-Graylag Goose (European),204617071,geese
+"Ivory Gull",140334511,seabirds
+"White Wagtail (British)",104405991,wagfantail
+"Graylag Goose (European)",204617071,geese
 Twite,204614431,lbb
-Common Redshank,78556801,wader
-Eurasian Wren (British),613641600,lbb
-Common Chiffchaff,613419523,lbb
-Long-tailed Duck,610844145,ducks
+"Common Redshank",78556801,wader
+"Eurasian Wren (British)",613641600,lbb
+"Common Chiffchaff",613419523,lbb
+"Long-tailed Duck",610844145,ducks
 Bobolink,609121787,lbb
-Bohemian Waxwing,593963831,little_colourful_birds
-Common Scoter,551002291,funky_ducks
-Meadow Pipit,542764591,mbb
-Whooper Swan,521057491,geese
-Snow Bunting,505914891,lbb
-Jack Snipe,492304921,wader
-Eurasian Dotterel,482420391,wader
-Kelp Gull,473389361,seabirds
-Common Firecrest,389187921,little_colourful_birds
+"Bohemian Waxwing",593963831,little_colourful_birds
+"Common Scoter",551002291,funky_ducks
+"Meadow Pipit",542764591,mbb
+"Whooper Swan",521057491,geese
+"Snow Bunting",505914891,lbb
+"Jack Snipe",492304921,wader
+"Eurasian Dotterel",482420391,wader
+"Kelp Gull",473389361,seabirds
+"Common Firecrest",389187921,little_colourful_birds
 Mallard,388382241,ducks
 Mallard,388381971,ducks
-Golden Pheasant,382873521,walking_birds
-Black-browed Albatross (Black-browed),367663081,seabirds
+"Golden Pheasant",382873521,walking_birds
+"Black-browed Albatross (Black-browed)",367663081,seabirds
 Dunlin,333854471,wader
-Purple Sandpiper,333562551,wader
-Black Grouse,330353841,quails
-Red-breasted Merganser,302505441,funky_ducks
-Eurasian Jay,241250471,robins
-European Stonechat,204267321,little_colourful_birds
-Eurasian Moorhen,144916591,water_birds
-Red-breasted Merganser,138173811,funky_ducks
-Black Guillemot,36383371,puffin_and_co
-Purple Sandpiper,405107251,wader
-Common Swift,341853441,swallows
+"Purple Sandpiper",333562551,wader
+"Black Grouse",330353841,quails
+"Red-breasted Merganser",302505441,funky_ducks
+"Eurasian Jay",241250471,robins
+"European Stonechat",204267321,little_colourful_birds
+"Eurasian Moorhen",144916591,water_birds
+"Red-breasted Merganser",138173811,funky_ducks
+"Black Guillemot",36383371,puffin_and_co
+"Purple Sandpiper",405107251,wader
+"Common Swift",341853441,swallows
 Sanderling,239482141,wader
-Common Murre,206113511,puffin_and_co
+"Common Murre",206113511,puffin_and_co
 Dunlin,113113111,wader
-Little Owl,549153891,owl
-Barn Owl (Eurasian),542103431,owl
-Eurasian Nuthatch,243053931,lbb
-Northern Wheatear,228186901,mbb
-Common Buzzard,62847441,raptors
-Great Skua,712221,seabirds
-Red Kite,613024145,raptors
+"Little Owl",549153891,owl
+"Barn Owl (Eurasian)",542103431,owl
+"Eurasian Nuthatch",243053931,lbb
+"Northern Wheatear",228186901,mbb
+"Common Buzzard",62847441,raptors
+"Great Skua",712221,seabirds
+"Red Kite",613024145,raptors
 Fieldfare,412053381,mbb
-Common Wood-Pigeon (White-necked),204648911,pigeons_doves
-Long-tailed Duck,307262091,ducks
-Stock Dove,509595051,pigeons_doves
-Rock Pigeon,345309071,pigeons_doves
+"Common Wood-Pigeon (White-necked)",204648911,pigeons_doves
+"Long-tailed Duck",307262091,ducks
+"Stock Dove",509595051,pigeons_doves
+"Rock Pigeon",345309071,pigeons_doves
 Dunlin,112183771,wader
-Mandarin Duck,413179921,ducks
-Common Redshank,312540961,wader
-Coal Tit (British),107533941,tit
-Horned Lark,46249591,mbb
-Little Egret,312541301,egrets
-Arctic Tern,104155461,seabirds
-Barn Swallow,163210611,swallows
-Long-tailed Jaeger,80053781,seabirds
-Ruddy Turnstone,46349771,wader
-Surf Scoter,377514961,funky_ducks
-Gadwall (Common),103504461,ducks
-Common Redshank,78556791,wader
+"Mandarin Duck",413179921,ducks
+"Common Redshank",312540961,wader
+"Coal Tit (British)",107533941,tit
+"Horned Lark",46249591,mbb
+"Little Egret",312541301,egrets
+"Arctic Tern",104155461,seabirds
+"Barn Swallow",163210611,swallows
+"Long-tailed Jaeger",80053781,seabirds
+"Ruddy Turnstone",46349771,wader
+"Surf Scoter",377514961,funky_ducks
+"Gadwall (Common)",103504461,ducks
+"Common Redshank",78556791,wader
 Dunnock,189961301,mbb
-Yellow-billed Loon,46887661,puffin_and_co
-Eurasian Blackbird,67094851,ground_mbb
-Arctic Tern,538001241,seabirds
-Common Redshank,312541041,wader
-Lesser Black-backed Gull,73256281,seabirds
-Crested Tit,48033021,tit
-Oriental Turtle-Dove,352999581,pigeons_doves
-Eurasian Coot,610586426,water_birds
-Red Kite,529969291,raptors
-Great Crested Grebe,322200021,water_birds
-Black-headed Gull,308540891,seabirds
-Common Kingfisher,308540391,kingfishers
-Arctic Tern,50322381,seabirds
-Eurasian Skylark,549405201,mbb
-European Robin,512455891,robins
-Parasitic Jaeger,44826691,seabirds
-Whooper Swan,58807841,geese
-Eurasian Moorhen,311512421,water_birds
-Short-eared Owl,228186911,owl
-Atlantic Puffin,108896371,puffin_and_co
-Common Quail,343653861,quails
+"Yellow-billed Loon",46887661,puffin_and_co
+"Eurasian Blackbird",67094851,ground_mbb
+"Arctic Tern",538001241,seabirds
+"Common Redshank",312541041,wader
+"Lesser Black-backed Gull",73256281,seabirds
+"Crested Tit",48033021,tit
+"Oriental Turtle-Dove",352999581,pigeons_doves
+"Eurasian Coot",610586426,water_birds
+"Red Kite",529969291,raptors
+"Great Crested Grebe",322200021,water_birds
+"Black-headed Gull",308540891,seabirds
+"Common Kingfisher",308540391,kingfishers
+"Arctic Tern",50322381,seabirds
+"Eurasian Skylark",549405201,mbb
+"European Robin",512455891,robins
+"Parasitic Jaeger",44826691,seabirds
+"Whooper Swan",58807841,geese
+"Eurasian Moorhen",311512421,water_birds
+"Short-eared Owl",228186911,owl
+"Atlantic Puffin",108896371,puffin_and_co
+"Common Quail",343653861,quails
 Brambling,322143481,lbb
-Long-eared Owl,310255351,owl
-Coal Tit,173200331,tit
-Red Phalarope,78574421,wader
-Black Guillemot (grylle Group),46049191,puffin_and_co
-Tufted Duck,41548171,ducks
-Northern Gannet,113114131,seabirds
-Pink-footed Goose,112183571,geese
-Long-tailed Duck,527808471,ducks
-Little Bunting,404242251,lbb
-Oriental Turtle-Dove,352999481,pigeons_doves
-Eurasian Kestrel,169484881,raptors
-Peregrine Falcon,141636691,raptors
-Eurasian Spoonbill,293389151,egrets
-Northern Wheatear,220027261,mbb
-Common Kingfisher,308540441,kingfishers
-Western Yellow Wagtail,232858771,wagfantail
-Common Wood-Pigeon,613337054,pigeons_doves
+"Long-eared Owl",310255351,owl
+"Coal Tit",173200331,tit
+"Red Phalarope",78574421,wader
+"Black Guillemot (grylle Group)",46049191,puffin_and_co
+"Tufted Duck",41548171,ducks
+"Northern Gannet",113114131,seabirds
+"Pink-footed Goose",112183571,geese
+"Long-tailed Duck",527808471,ducks
+"Little Bunting",404242251,lbb
+"Oriental Turtle-Dove",352999481,pigeons_doves
+"Eurasian Kestrel",169484881,raptors
+"Peregrine Falcon",141636691,raptors
+"Eurasian Spoonbill",293389151,egrets
+"Northern Wheatear",220027261,mbb
+"Common Kingfisher",308540441,kingfishers
+"Western Yellow Wagtail",232858771,wagfantail
+"Common Wood-Pigeon",613337054,pigeons_doves
 Goldcrest,612781317,little_colourful_birds
-Mute Swan,546638531,geese
-White Wagtail,517954041,wagfantail
-Eurasian Dotterel,482420361,wader
-European Goldfinch,440299551,finches
-Common Gull,419224711,seabirds
-Great Spotted Woodpecker,417208371,woodpecker
-Great Egret,348679351,egrets
-Eared Grebe,347290031,water_birds
+"Mute Swan",546638531,geese
+"White Wagtail",517954041,wagfantail
+"Eurasian Dotterel",482420361,wader
+"European Goldfinch",440299551,finches
+"Common Gull",419224711,seabirds
+"Great Spotted Woodpecker",417208371,woodpecker
+"Great Egret",348679351,egrets
+"Eared Grebe",347290031,water_birds
 Dunlin,333854191,wader
-Bohemian Waxwing,315988181,little_colourful_birds
+"Bohemian Waxwing",315988181,little_colourful_birds
 Goldcrest,315176891,little_colourful_birds
-Eurasian Kestrel,275269311,raptors
-Short-eared Owl,228187011,owl
-Gray Partridge,218705281,quails
-Atlantic Puffin,205183171,puffin_and_co
-Crested Tit,204828411,tit
-Laughing Gull,114671101,seabirds
-Arctic Tern,103598881,seabirds
-Eurasian Blue Tit,78556891,tit
-Red Kite,82983121,raptors
-European Stonechat,77252731,little_colourful_birds
+"Eurasian Kestrel",275269311,raptors
+"Short-eared Owl",228187011,owl
+"Gray Partridge",218705281,quails
+"Atlantic Puffin",205183171,puffin_and_co
+"Crested Tit",204828411,tit
+"Laughing Gull",114671101,seabirds
+"Arctic Tern",103598881,seabirds
+"Eurasian Blue Tit",78556891,tit
+"Red Kite",82983121,raptors
+"European Stonechat",77252731,little_colourful_birds
 Dunnock,104407191,mbb
-Common Redstart,247270461,robins
-Eurasian Linnet,28604351,lbb
-Eurasian Linnet,331999291,lbb
-Crested Tit,205812711,tit
+"Common Redstart",247270461,robins
+"Eurasian Linnet",28604351,lbb
+"Eurasian Linnet",331999291,lbb
+"Crested Tit",205812711,tit
 Sanderling,332604571,wader
-Barnacle Goose,70335731,geese
-Sardinian Warbler,232830701,lbb
-Red-necked Grebe,69800421,water_birds
-Mute Swan,65369981,geese
-Sabine's Gull,522295811,seabirds
-Whooper Swan,149204321,geese
-Canada Goose,70879791,geese
-Northern Fulmar,66236491,seabirds
-Blyth's Pipit,232822241,mbb
-Common Buzzard,613362967,raptors
-Alpine Accentor,498427521,mbb
-Eurasian Wryneck,486114761,mbb
-Icterine Warbler,484976341,lbb
-Mistle Thrush,468257911,ground_mbb
-Greater Scaup,402947681,ducks
-European Stonechat,398553831,little_colourful_birds
-Black-browed Albatross (Black-browed),369218631,seabirds
-Northern Gannet,352611051,seabirds
-Northern Gannet,352610811,seabirds
-Northern Gannet,352610541,seabirds
-Peregrine Falcon,346795031,raptors
-Common Swift,336610811,swallows
+"Barnacle Goose",70335731,geese
+"Sardinian Warbler",232830701,lbb
+"Red-necked Grebe",69800421,water_birds
+"Mute Swan",65369981,geese
+"Sabine's Gull",522295811,seabirds
+"Whooper Swan",149204321,geese
+"Canada Goose",70879791,geese
+"Northern Fulmar",66236491,seabirds
+"Blyth's Pipit",232822241,mbb
+"Common Buzzard",613362967,raptors
+"Alpine Accentor",498427521,mbb
+"Eurasian Wryneck",486114761,mbb
+"Icterine Warbler",484976341,lbb
+"Mistle Thrush",468257911,ground_mbb
+"Greater Scaup",402947681,ducks
+"European Stonechat",398553831,little_colourful_birds
+"Black-browed Albatross (Black-browed)",369218631,seabirds
+"Northern Gannet",352611051,seabirds
+"Northern Gannet",352610811,seabirds
+"Northern Gannet",352610541,seabirds
+"Peregrine Falcon",346795031,raptors
+"Common Swift",336610811,swallows
 Dunlin,333854081,wader
-Olive-backed Pipit,331999681,mbb
-Olive-backed Pipit,331999591,mbb
-Eurasian Linnet,325710531,lbb
-Eurasian Bullfinch,307689941,finches
-Eurasian Kestrel,285479351,raptors
-Eurasian Jackdaw,270642441,black_white
-Hoary Redpoll (hornemanni),266785361,lbb
-Black-browed Albatross,247228381,seabirds
+"Olive-backed Pipit",331999681,mbb
+"Olive-backed Pipit",331999591,mbb
+"Eurasian Linnet",325710531,lbb
+"Eurasian Bullfinch",307689941,finches
+"Eurasian Kestrel",285479351,raptors
+"Eurasian Jackdaw",270642441,black_white
+"Hoary Redpoll (hornemanni)",266785361,lbb
+"Black-browed Albatross",247228381,seabirds
 Sanderling,239482271,wader
 Sanderling,239482251,wader
-Crested Tit,205812731,tit
-Willow Ptarmigan (Red Grouse),204922681,quails
-Black-headed Gull,204828301,seabirds
-Atlantic Puffin,204720671,puffin_and_co
-Atlantic Puffin,204720641,puffin_and_co
-Herring Gull (European),204268581,seabirds
-Black Guillemot,168611211,puffin_and_co
-Eurasian Blue Tit,144901391,tit
-Red Kite,78555171,raptors
-Black-legged Kittiwake (tridactyla),44831661,seabirds
-Northern Gannet,54946321,seabirds
-Coal Tit (British),104481851,tit
-Song Thrush,86950121,ground_mbb
-Common Redstart,163211361,robins
+"Crested Tit",205812731,tit
+"Willow Ptarmigan (Red Grouse)",204922681,quails
+"Black-headed Gull",204828301,seabirds
+"Atlantic Puffin",204720671,puffin_and_co
+"Atlantic Puffin",204720641,puffin_and_co
+"Herring Gull (European)",204268581,seabirds
+"Black Guillemot",168611211,puffin_and_co
+"Eurasian Blue Tit",144901391,tit
+"Red Kite",78555171,raptors
+"Black-legged Kittiwake (tridactyla)",44831661,seabirds
+"Northern Gannet",54946321,seabirds
+"Coal Tit (British)",104481851,tit
+"Song Thrush",86950121,ground_mbb
+"Common Redstart",163211361,robins
 Merlin,529074681,raptors
-Eurasian Jackdaw,495880841,black_white
-White-throated Dipper,51541601,mbb
-Northern Pintail,50790771,ducks
-Common Redstart,246422111,robins
-Great Tit,313660291,tit
-Black-tailed Godwit,70290041,wader
-White Wagtail (British),64527701,wagfantail
-Great Tit,80548891,tit
-Common Redstart,246422291,robins
-Peregrine Falcon (Eurasian),146238151,raptors
-Bar-headed Goose,51785471,geese
-Black-tailed Godwit,311305101,wader
-Parrot Crossbill,71092461,parrots
-Meadow Pipit,517927501,mbb
-Barred Warbler,78242371,lbb
+"Eurasian Jackdaw",495880841,black_white
+"White-throated Dipper",51541601,mbb
+"Northern Pintail",50790771,ducks
+"Common Redstart",246422111,robins
+"Great Tit",313660291,tit
+"Black-tailed Godwit",70290041,wader
+"White Wagtail (British)",64527701,wagfantail
+"Great Tit",80548891,tit
+"Common Redstart",246422291,robins
+"Peregrine Falcon (Eurasian)",146238151,raptors
+"Bar-headed Goose",51785471,geese
+"Black-tailed Godwit",311305101,wader
+"Parrot Crossbill",71092461,parrots
+"Meadow Pipit",517927501,mbb
+"Barred Warbler",78242371,lbb
 Razorbill,117963121,puffin_and_co
-Mute Swan,59966641,geese
-Common Redstart,163211371,robins
-Purple Sandpiper,103593201,wader
-European Starling,24242941,ground_mbb
-Meadow Pipit,104386481,mbb
-Eurasian Jackdaw,312833411,black_white
-Tawny Owl,222138291,owl
-European Starling,136820471,ground_mbb
-Tufted Duck,347290141,ducks
-Great Crested Grebe,73254141,water_birds
-Eurasian Nuthatch,612681450,lbb
-Northern Lapwing,421165511,wader
-Long-tailed Duck,308943811,ducks
-Meadow Pipit,324429451,mbb
+"Mute Swan",59966641,geese
+"Common Redstart",163211371,robins
+"Purple Sandpiper",103593201,wader
+"European Starling",24242941,ground_mbb
+"Meadow Pipit",104386481,mbb
+"Eurasian Jackdaw",312833411,black_white
+"Tawny Owl",222138291,owl
+"European Starling",136820471,ground_mbb
+"Tufted Duck",347290141,ducks
+"Great Crested Grebe",73254141,water_birds
+"Eurasian Nuthatch",612681450,lbb
+"Northern Lapwing",421165511,wader
+"Long-tailed Duck",308943811,ducks
+"Meadow Pipit",324429451,mbb
