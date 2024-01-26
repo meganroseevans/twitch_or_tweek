@@ -24,7 +24,7 @@ class BirdGame:
         """Return list of bird names for multichoice button labels, based on game difficulty."""
 
         full_bird_list = [re.sub('\s\(.+\)','',x) for x in self.bird_images_df.name]
-        full_bird_list = [re.sub('\s\(.+\)','',x) for x in self.bird_images_df.name[self.bird_images_df.category == target_bird_category]]
+        short_bird_list = [re.sub('\s\(.+\)','',x) for x in self.bird_images_df.name[self.bird_images_df.category == target_bird_category]]
 
         # Set multichoice options based on game difficulty
         if self.mode == '1 :hatching_chick: beginner':
@@ -32,10 +32,10 @@ class BirdGame:
             non_target_birds = [x for x in set(full_bird_list) if self.target_bird_name not in x]            
         elif self.mode == '3 :eagle: advanced':
             num_options = 4
-            non_target_birds = [x for x in set(full_bird_list) if x != self.target_bird_name]
+            non_target_birds = [x for x in set(short_bird_list) if x != self.target_bird_name]
         elif self.mode == '4 :owl: twitcher':
             num_options = 5
-            non_target_birds = [x for x in set(full_bird_list) if x != self.target_bird_name]
+            non_target_birds = [x for x in set(short_bird_list) if x != self.target_bird_name]
         else:
             num_options = 3
             non_target_birds = [x for x in set(full_bird_list) if self.target_bird_name not in x]
