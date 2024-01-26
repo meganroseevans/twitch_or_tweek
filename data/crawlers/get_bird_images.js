@@ -1,6 +1,6 @@
 /* A script for retrieving bird names and images from eBird
 
-- Go to  https://media.ebird.org/catalog?regionCode=AU&sort=rating_rank_desc&mediaType=photo&beginYear=2024&endYear=2024
+- Go to  https://media.ebird.org/catalog?regionCode=AU&sort=rating_rank_desc&mediaType=photo
 - Click 'More Results' a bunch of times
 - Inspect page, go to Console, run the below code
 - Save output by right clicking on object, copy and paste into new file called 'get_bird_images_output.json'

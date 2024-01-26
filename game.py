@@ -8,7 +8,8 @@ class BirdGame:
         """Initialise game state"""
         self.bird_images_df = bird_images_df
         self.score = 0
-        self.mode = ':duck: intermediate'
+        self.region = 'AU'
+        self.mode = ' intermediate'
         self.selection = None
         self.target_bird_name, self.target_bird_image, self.multichoice_options, self.correct_bird_index = self.start_new_round()
         self.buttons = [self.multichoice_options]
@@ -106,6 +107,15 @@ class BirdGame:
 def play_game(bird_game):
     """Play Twitch or Tweek"""
 
+    # Display region select
+    region_previous = bird_game.region
+    bird_game.region = st.sidebar.selectbox('Region:',options=['AU','GB','JP','LK'])
+    
+    # Re-import data when region changes
+    if region_previous != bird_game.region:
+        bird_game.bird_images_df = pd.read_csv(f'data/regional/{bird_game.region.lower()}_images.csv')
+        bird_game.start_new_round()
+
     # Display game difficulty selection
     mode_previous = bird_game.mode
     bird_game.mode = st.sidebar.radio('Difficulty', [':hatching_chick: beginner',':duck: intermediate',':eagle: advanced',':owl: twitcher'], 1)
@@ -131,7 +141,7 @@ def play_game(bird_game):
 
 # Import image data
 if "bird_images_df" not in st.session_state:
-    st.session_state.bird_images_df = pd.read_csv('data/ebird_data.csv')
+    st.session_state.bird_images_df = pd.read_csv('data/regional/au_images.csv')
 
 # Initialise game state
 if "bird_game" not in st.session_state:
