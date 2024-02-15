@@ -3,22 +3,53 @@ import pandas as pd
 import random
 import requests
 import re
+from PIL import Image, ImageFilter, ImageOps
+import urllib.request
 
 class BirdGame:
-    def __init__(self, bird_images_df):
+    def __init__(self, bird_image_df, bird_audio_df):
         """Initialise game state"""
-        self.bird_images_df = bird_images_df
+        self.set_config()
+        self.bird_image_df = bird_image_df
+        self.bird_audio_df = bird_audio_df
         self.score = 0
+        self.guesses = 0
         self.region = 'AU'
         self.mode = '2 :duck: intermediate'
+        self.image_on = True
+        self.sound_on = True
         self.selection = None
-        self.target_bird_name, self.target_bird_image, self.multichoice_options, self.correct_bird_index = self.start_new_round()
+        self.target_bird_name, self.target_bird_image, self.target_image_cc, self.multichoice_options, self.correct_bird_index = self.start_new_round()
         self.buttons = [self.multichoice_options]
+
+    def set_config(self):
+        st.set_page_config(
+            page_title="Twitch or Tweek",
+            page_icon="🦉",
+            initial_sidebar_state="expanded"
+        )
 
     def get_target_bird(self):
         """Select a bird at random"""
-        selected_bird = self.bird_images_df.sample().iloc[0]
-        return selected_bird['name'], selected_bird['image_id'], selected_bird['category']
+        selected_bird = self.bird_image_df.sample().iloc[0]
+        return selected_bird['name'], selected_bird['image_id'], selected_bird['cc'], selected_bird['category']
+
+    def get_audio_for_target_bird(self):
+        bird_audio_files = self.bird_audio_df[self.bird_audio_df.name == self.target_bird_name][["audio_id","cc"]]
+        if bird_audio_files.shape[0] > 0:
+            audio_file = bird_audio_files.sample(1)
+            return audio_file.audio_id.iloc[0], audio_file.cc.iloc[0]
+        else:
+            return None, None
+        
+    def show_copyright(self, media_type, media_cc):
+        st.markdown(f'''
+            <a href=https://macaulaylibrary.org/asset/{self.target_bird_audio}
+            style="color:#cf8865;font-family:courier;font-size:80%">
+            {media_type} © {media_cc}
+            </a>
+            ''',
+            unsafe_allow_html=True)
 
     def get_multichoice_options(self, target_bird_category):
         """Return list of bird names for multichoice button labels, based on game difficulty."""
@@ -27,13 +58,13 @@ class BirdGame:
         short_bird_list = [re.sub(r'\s\(.+\)','',x) for x in self.bird_images_df.name[self.bird_images_df.category == target_bird_category]]
 
         # Set multichoice options based on game difficulty
-        if self.mode == '1 :hatching_chick: beginner':
+        if self.mode[0] == '1':
             num_options = 2
             non_target_birds = [x for x in set(full_bird_list) if self.target_bird_name not in x]            
-        elif self.mode == '3 :eagle: advanced':
+        elif self.mode[0] == '3':
             num_options = 4
             non_target_birds = [x for x in set(short_bird_list) if x != self.target_bird_name]
-        elif self.mode == '4 :owl: twitcher':
+        elif self.mode[0] == '4':
             num_options = 5
             non_target_birds = [x for x in set(short_bird_list) if x != self.target_bird_name]
         else:
@@ -55,19 +86,20 @@ class BirdGame:
         returns:
             - target_bird_name (str): name of bird to display
             - target_bird_image (str): ID of image to display
+            - target_image_cc (str): copyright person
             - multichoice_options (list): multichoice button labels of bird names
             - correct_bird_index (int): index in multichoice list of target bird 
         """
-        self.target_bird_name, self.target_bird_image, self.target_bird_category = self.get_target_bird()
+        self.target_bird_name, self.target_bird_image, self.target_image_cc, self.target_bird_category = self.get_target_bird()
         self.multichoice_options, self.correct_bird_index = self.get_multichoice_options(self.target_bird_category)
 
         if len(self.multichoice_options) < int(float(self.mode.split(' ')[0])) + 1:
             self.start_new_round()
-
-        return self.target_bird_name, self.target_bird_image, self.multichoice_options, self.correct_bird_index
+        return self.target_bird_name, self.target_bird_image, self.target_image_cc, self.multichoice_options, self.correct_bird_index
 
     def post_score_results(self, selected_index):
         """Update score and play animations based on user's answer"""
+        self.guesses += 1
         if self.correct_bird_index == selected_index:
             st.balloons()
             self.score += 1
@@ -87,15 +119,37 @@ class BirdGame:
         self.selection = None
 
     def display_ui(self):
-        """Display the game interface: images, buttons, text."""
+        """Display the game interface: images, audio, buttons, text."""
         # Create two columns for side-by-side image and buttons
-        image_column, buttons_column = st.columns([2, 1])
+        media_column, buttons_column = st.columns([2, 1])
 
-        # Display image
-        with image_column:
-            bird_image = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_image}/900'
-            self.check_image_health(bird_image)
-            st.image(bird_image)
+        # Display media
+        with media_column:
+            if self.image_on:
+                bird_image = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_image}/900'
+                self.check_image_health(bird_image)
+                st.image(bird_image)
+
+            else:
+                urllib.request.urlretrieve( f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_image}/900','blurred_image.png')
+                bird_image = Image.open('blurred_image.png')
+                bird_image = ImageOps.grayscale(bird_image.filter(ImageFilter.GaussianBlur(20)))
+                st.image(bird_image)
+
+            if self.sound_on:
+                self.target_bird_audio, self.target_audio_cc = self.get_audio_for_target_bird()
+                bird_sound = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_audio}'
+                audio_health = self.check_audio_health(bird_sound)
+                if audio_health:
+                    st.audio(bird_sound)
+                elif not self.image_on:
+                    self.start_new_round()
+                else: st.write('🔇 Audio not available')
+
+            if str(self.target_image_cc) != 'nan' and self.image_on:
+                self.show_copyright('Image',self.target_image_cc)
+            if str(self.target_audio_cc) != 'nan' and self.sound_on and audio_health:
+                self.show_copyright('Audio',self.target_audio_cc)
 
         # Pre-selection show multichoice buttons. Post-selection show bird name and 'Next'.
         with buttons_column:
@@ -106,21 +160,31 @@ class BirdGame:
                 self.display_multichoice()
         
     def check_image_health(self, image_url):
-        """Skip unhealthy/missing images by triggering a new round"""
+        """Skip unhealthy/missing image by triggering a new round"""
         r = requests.head(image_url)
-        while r.status_code == 404:
+        while r.status_code != 200:
            self.start_new_round()
+
+    def check_audio_health(self, audio_url):
+        """Return health status of audio file, i.e. False for missing audio files"""
+        r = requests.head(audio_url)
+        return r.status_code == 200
 
 def play_game(bird_game):
     """Play Twitch or Tweek"""
 
     # Display region select
     region_previous = bird_game.region
-    bird_game.region = st.sidebar.selectbox('Region:',options=['AU','GB','JP','LK'])
+    bird_game.region = st.sidebar.selectbox('Region:',options=['AU','CA','GB','JP','LK'])
     
     # Re-import data when region changes
     if region_previous != bird_game.region:
-        bird_game.bird_images_df = pd.read_csv(f'data/regional/{bird_game.region.lower()}_images.csv')
+        bird_game.bird_image_df = pd.read_csv(f'data/regional/{bird_game.region.lower()}_images.csv')
+        try:
+            bird_game.bird_audio_df = pd.read_csv(f'data/regional/{bird_game.region.lower()}_audio.csv')
+        except OSError:
+            bird_game.bird_audio_df = pd.DataFrame(columns=['name','audio_id','cc'])
+
         bird_game.start_new_round()
 
     # Display game difficulty selection
@@ -134,6 +198,14 @@ def play_game(bird_game):
     # Display UI
     st.title('Twitch or Tweek')
     st.subheader('Name that bird!')
+    
+    # Display toggles for sound and audio
+    col_image, col_sound = st.columns([1,5])
+    with col_image:
+        bird_game.image_on = st.toggle('Image', value=True)
+    with col_sound:
+        bird_game.sound_on = st.toggle('Sound', value=True)        
+
     bird_game.display_ui()
 
     # Once a selection is made: update score, display animations, and start a new round
@@ -146,13 +218,14 @@ def play_game(bird_game):
     st.sidebar.subheader("Your Score")
     st.sidebar.metric("score", bird_game.score, label_visibility='collapsed')
 
-# Import image data
-if "bird_images_df" not in st.session_state:
-    st.session_state.bird_images_df = pd.read_csv('data/regional/au_images.csv')
+# Import bird data
+if "bird_image_df" not in st.session_state:
+    st.session_state.bird_image_df = pd.read_csv('data/regional/au_images.csv')
+    st.session_state.bird_audio_df = pd.read_csv('data/regional/au_audio.csv')
 
 # Initialise game state
 if "bird_game" not in st.session_state:
-    st.session_state.bird_game = BirdGame(st.session_state.bird_images_df)
+    st.session_state.bird_game = BirdGame(st.session_state.bird_image_df, st.session_state.bird_audio_df)
 
 # Play game
 play_game(st.session_state.bird_game)
