@@ -1,0 +1,907 @@
+name,image_id,cc,category
+Great Gray Owl,40662221,Luke Seitz,owl
+Evening Grosbeak,325771901,John Jansen,finches
+Black Tern,581235401,Jeff Dyck,seabirds
+Iceland Gull,405469641,Brian Stahls,seabirds
+Black-throated Green Warbler,162041181,Ronnie d'Entremont,lbb
+Eastern Screech-Owl,425510611,Jack Starret,owl
+Boreal Chickadee,314893531,Blair Dudeck,tit
+Barred Owl,274833311,Paul Jones,owl
+King Eider,613014934,Cesar Ponce,funky_ducks
+Wood Duck,421340531,Blair Dudeck,ducks
+Red Phalarope,164263281,Paul Jones,colourful_waders
+Great Gray Owl,298238121,Bob Bowhay,owl
+Cliff Swallow,432138011,Anne Spiers,swallows
+Northern Gannet,345123631,Blair Dudeck,seabirds
+Gyrfalcon,287057781,Bob Bowhay,small_raptors
+Golden-crowned Kinglet,432993771,Ezra J. Campanelli,lbb
+Piping Plover,458290011,Shey S,plovers
+Black Scoter,521747701,Charles Villeneuve,funky_ducks
+Long-billed Curlew,561412711,Jeff Dyck,hard_waders
+Spruce Grouse (Spruce),338127941,Blair Dudeck,quails
+American Avocet,432881051,Blair Dudeck,colourful_waders
+Evening Grosbeak,120277321,bellemare celine,finches
+Northern Pintail,389630751,Vasura Jayaweera,ducks
+Spruce Grouse (Spruce),339829031,Blair Dudeck,quails
+Northern Harrier,386756111,Blair Dudeck,big_raptors
+American Crow,269969201,Gord Gadsden,black_white
+Black Oystercatcher,407009991,Sunny Zhang,plovers
+Pileated Woodpecker,393630551,Paul Jones,woodpecker
+Yellow Rail,470129351,Blair Dudeck,rail_crake
+Eurasian Wigeon,308914881,Blair Dudeck,ducks
+Prothonotary Warbler,449347051,Old Bird,lbb
+American Goshawk,145879351,Daniel Jauvin,big_raptors
+Canada Warbler,102429891,Ian Davies,lbb
+Baird's Sandpiper,477901531,Marie-Josee D'Amour,plovers
+Wood Duck,310017821,Blair Dudeck,ducks
+Yellow-rumped Warbler (Audubon's),322695581,Liron Gertsman,lbb
+Swamp Sparrow,342203811,Blair Dudeck,lbb
+Boreal Owl,374205861,Frédérick Lelièvre,owl
+Red-throated Loon,313848351,David Turgeon,puffin_and_co
+American Pipit,339405171,Blair Dudeck,mbb
+Dovekie,512179111,Kiah R. Jasper,pigeons_doves
+Pine Grosbeak,292811171,Zane Shantz,finches
+Anna's Hummingbird,397919471,Blair Dudeck,hummingbird
+Black Tern,592481491,Josiah Vandenberg,seabirds
+Cassin's Auklet,431592851,Blair Dudeck,puffin_and_co
+Barred Owl,247504741,mark daly,owl
+Spruce Grouse,166827671,Blair Dudeck,quails
+Tufted Duck,316959041,Blair Dudeck,ducks
+Red Crossbill,286231041,Sean McElaney,little_colourful_birds
+Boreal Chickadee,412884221,Patrice St-Pierre,tit
+Calliope Hummingbird,164983801,Caroline Lambert,hummingbird
+Northern Saw-whet Owl,313853171,Zane Shantz,owl
+Least Bittern,365335231,Frédérick Lelièvre,herons
+Northern Cardinal,391691941,Brian Stahls,little_colourful_birds
+American Robin,427472321,Zane Shantz,robins
+Sanderling,262223411,Amanda Guercio,plovers
+Yellow-rumped Warbler,316946791,James MacKenzie,lbb
+Common Eider,182621121,Alix d'Entremont,funky_ducks
+Ruffed Grouse,331931941,Steeve R. Baker,quails
+Bald Eagle,420273491,Cesar Ponce,big_raptors
+Smith's Longspur,455619821,Joachim Bertrands,lbb
+Evening Grosbeak,276832781,Diane St-Jacques,finches
+Great Gray Owl,400528711,Frédérick Lelièvre,owl
+Pectoral Sandpiper,237548831,Geoff Newhouse,plovers
+Ruffed Grouse,311516851,Laurie Parent,quails
+White-breasted Nuthatch,296422131,Zane Shantz,lbb
+Eastern Screech-Owl,108740051,Suzanne Labbé,owl
+Common Murre,377736591,Blair Dudeck,puffin_and_co
+American Crow,286868001,Ian Routley,black_white
+Northern Cardinal,281003001,Stefano Ianiro,little_colourful_birds
+Canada Jay,399203001,Kyle  Swanson,robins
+Purple Sandpiper,275657851,Ezra J. Campanelli,plovers
+Virginia Rail,228108621,Cristina Araya,rail_crake
+Upland Sandpiper,458343501,Blair Dudeck,plovers
+King Eider,613014988,Cesar Ponce,funky_ducks
+Red-breasted Sapsucker,168058451,Bryan Calk,woodpecker
+Violet-green Swallow,432555151,Blair Dudeck,swallows
+Short-eared Owl,43274721,Suzanne Labbé,owl
+Black Tern,581235581,Jeff Dyck,seabirds
+Green-winged Teal,322559021,Rob Mikulec,ducks
+Rough-legged Hawk,414568271,Blair Dudeck,big_raptors
+American Wigeon,429459141,James Patten,ducks
+Varied Thrush,430744711,Blair Dudeck,ground_mbb
+Blue Jay,47351251,bellemare celine,robins
+Green-winged Teal (American),296005431,Rob Mikulec,ducks
+Anna's Hummingbird,167838031,Bryan Calk,hummingbird
+Sabine's Gull,375291951,Kalin Ocaña,seabirds
+Great Horned Owl,403189511,Asher  Warkentin,owl
+Blackburnian Warbler,450873711,Ethan Denton,lbb
+Great Shearwater,359838351,Blair Dudeck,seabirds
+Northern Harrier,384701741,Blair Dudeck,big_raptors
+Red-headed Woodpecker,450490411,Rain Saulnier,woodpecker
+Anna's Hummingbird,217677861,George Clulow,hummingbird
+Boreal Chickadee,321030981,Blair Dudeck,tit
+Northern Shoveler,326762921,Frédérick Lelièvre,ducks
+Northern Parula,492845051,Joachim Bertrands,lbb
+Bay-breasted Warbler,102429521,Ian Davies,lbb
+Red Crossbill,345704621,Ian Burgess,little_colourful_birds
+Great Shearwater,360791001,Blair Dudeck,seabirds
+Sooty Grouse,232963131,Blair Dudeck,quails
+Rock Ptarmigan,327325551,Blair Dudeck,quails
+Barred Owl,311948691,Blair Dudeck,owl
+Pomarine Jaeger,357449521,Blair Dudeck,seabirds
+Western Kingbird,28952841,Gerrit Vyn,wagfantail
+Merlin,359173731,Nick Saunders,small_raptors
+Curlew Sandpiper,482737721,Ilya Povalyaev,hard_waders
+Bonaparte's Gull,472662591,David Turgeon,seabirds
+Anna's Hummingbird,117114791,Ian Routley,hummingbird
+Steller's Sea-Eagle,476730421,Amanda Guercio,big_raptors
+Hermit Thrush,346844731,mark daly,ground_mbb
+Cape May Warbler,448672111,Annie McLeod,lbb
+Common Goldeneye,436626521,Simon Villeneuve,funky_ducks
+Gyrfalcon,210318171,Jon Groves,small_raptors
+Common Eider,438322771,David Turgeon,funky_ducks
+Wilson's Phalarope,301875121,David Turgeon,colourful_waders
+White-eyed Vireo,387876921,Frédérick Lelièvre,lbb
+Ruby-throated Hummingbird,301277181,David Turgeon,hummingbird
+Piping Plover,473868161, Ben Lucking,plovers
+Willet,432466511,Shey S,hard_waders
+Atlantic Puffin,486520581,Dorian Anderson,puffin_and_co
+Lewis's Woodpecker,341966341,Ian Routley,woodpecker
+Black-bellied Whistling-Duck,364453171,Rowan Keunen,ducks
+Tundra Swan,384291031,Makail Johannesson,geese
+Golden-winged Warbler,159839731,Sylvain Messier,lbb
+American Avocet,464667121,Blair Dudeck,colourful_waders
+Black Scoter,312732661,David Turgeon,funky_ducks
+Evening Grosbeak,403638701,Frédérick Lelièvre,finches
+American Goshawk,139626301,Daniel Jauvin,big_raptors
+White-winged Crossbill,416488191,Zane Shantz,little_colourful_birds
+Short-eared Owl (Northern),407977671,Guy Stevens,owl
+Horned Grebe,45349051,Kyle Blaney,water_birds
+Sooty Grouse,390986771,mark daly,quails
+Gadwall,386137411,Charles Fitzpatrick,ducks
+Boreal Owl,420278441,Simon Villeneuve,owl
+Peregrine Falcon,503628671,Owen Strickland,small_raptors
+Spruce Grouse (Franklin's),447005731,Blair Dudeck,quails
+Violet-green Swallow,433182101,Blair Dudeck,swallows
+Golden-crowned Kinglet,331031381,David Turgeon,lbb
+Bohemian Waxwing,413672761,Ethan Denton,little_colourful_birds
+Red Crossbill,285012151,Nolan Pelland,little_colourful_birds
+Boreal Owl,312839401,Ken Pride,owl
+House Finch,401965731,Blair Dudeck,finches
+Black Tern,581235721,Jeff Dyck,seabirds
+Hermit Thrush,274059171,Peter Hawrylyshyn,ground_mbb
+American Goshawk,145902431,Daniel Jauvin,big_raptors
+Bufflehead,316788461,Cesar Ponce,funky_ducks
+Surfbird,207415921,Paul Maury,hard_waders
+Great Blue Heron,537625101,Danielle Cooper,herons
+Flammulated Owl,93014861,James Kennerley,owl
+American Dipper,409416961,Blair Dudeck,mbb
+Purple Sandpiper,301851271,Christian Briand,plovers
+Ruffed Grouse,332468941,Christian Briand,quails
+Wilson's Phalarope,472597381,Blair Dudeck,colourful_waders
+Dark-eyed Junco,330239651,David Turgeon,lbb
+Atlantic Puffin,490687361,Dorian Anderson,puffin_and_co
+Common Goldeneye,316627441,Rob Mikulec,funky_ducks
+Northern Fulmar,371904131,Blair Dudeck,seabirds
+Ruffed Grouse,485244381,Frédérick Lelièvre,quails
+Eastern Screech-Owl,108740061,Suzanne Labbé,owl
+Cooper's Hawk,394568641,Anne-Marie Dufour,big_raptors
+Bohemian Waxwing,134340871,Daniel Jauvin,little_colourful_birds
+Spruce Grouse,337113151,Megan Buers,quails
+Northern Pintail,71206681,Liron Gertsman,ducks
+Bohemian Waxwing,288739991,Zane Shantz,little_colourful_birds
+Peregrine Falcon,391400401,Brian Stahls,small_raptors
+Townsend's Warbler,301586641,David Turgeon,lbb
+Black-throated Blue Warbler,50366231,Aaron Marshall,lbb
+Northern Hawk Owl,315895351,Bob Bowhay,big_raptors
+Trumpeter Swan,335636821,Raymond Ladurantaye,geese
+Ruffed Grouse,37799001,bellemare celine,quails
+Eastern Bluebird,337841431,Zane Shantz,little_colourful_birds
+Cedar Waxwing,240239681,Joshua Brown,little_colourful_birds
+Roseate Spoonbill,608517762,Frédérick Lelièvre,egrets
+Killdeer,503456881,Rain Saulnier,plovers
+American Dipper,408642101,Blair Dudeck,mbb
+Long-tailed Duck,438674351,David Turgeon,ducks
+Bald Eagle,302665641,Evan Larson,big_raptors
+Tree Swallow,440582981,Brian Stahls,swallows
+Yellow-bellied Sapsucker,325608001,Zane Shantz,woodpecker
+Chestnut-backed Chickadee,123130061,John Reynolds,tit
+Nelson's Sparrow,306724111,David Turgeon,lbb
+Baird's Sandpiper,397386741,Asher  Warkentin,plovers
+American Dipper,565803021,mark daly,mbb
+Violet-green Swallow,435957851,Blair Dudeck,swallows
+Northern Saw-whet Owl,423281211,Zane Shantz,owl
+Carolina Wren (Northern),90418581,Christoph Moning,lbb
+Red Crossbill,202628831,Daniel Jauvin,little_colourful_birds
+Canada Warbler,102429901,Ian Davies,lbb
+Wilson's Phalarope,453743571,Blair Dudeck,colourful_waders
+Northern Shrike,44213481,Ian Burgess,songbird
+Peregrine Falcon,326932681,Amanda Guercio,small_raptors
+Anna's Hummingbird,391853451,Blair Dudeck,hummingbird
+Cape May Warbler,102429471,Ian Davies,lbb
+Pileated Woodpecker,54346191,bellemare celine,woodpecker
+Blue-headed Vireo,339607841,Rebecca Maier,lbb
+Western Kingbird,308664121,Ethan Denton,wagfantail
+Common Ringed Plover,175591181,Annie Lavoie,plovers
+Bohemian Waxwing,53359161,Ian Davies,little_colourful_birds
+Sooty Grouse,325631951,Blair Dudeck,quails
+Steller's Sea-Eagle,476730651,Amanda Guercio,big_raptors
+Redhead,340268431,David Turgeon,ducks
+Harlequin Duck,507453541,Brian Stahls,ducks
+Purple Martin,492435031,Joachim Bertrands,swallows
+Belted Kingfisher,474434481,Annie Lavoie,kingfishers
+Buff-breasted Sandpiper,265634921,Jason Dain,plovers
+Brewer's Blackbird,309503231,Blair Dudeck,ground_mbb
+Barrow's Goldeneye,319455931,David Turgeon,funky_ducks
+Black-and-white Warbler,611359371,Dorian Anderson,lbb
+Cliff Swallow,562888881,Rain Saulnier,swallows
+Red-necked Grebe,587669181, Ben Lucking,water_birds
+Horned Lark,491524781,Christian Briand,mbb
+Wilson's Warbler,300842501,Zane Shantz,lbb
+Red-necked Grebe,581235221,Jeff Dyck,water_birds
+Canada Warbler,102719381,Ian Davies,lbb
+Black-billed Cuckoo,450566571,Zane Shantz,cuckoos
+Spruce Grouse,220659031,Jason Dain,quails
+White-winged Crossbill,207212191,Tony Dvorak,little_colourful_birds
+Double-crested Cormorant,226976721,Allan  Bigras,cormorant
+Snowy Owl,473852511,Zane Shantz,owl
+Red Knot,361783921,Old Bird,hard_waders
+Snow Bunting,403030271,Anne-Marie Dufour,lbb
+Cinnamon Teal,433956961,Blair Dudeck,ducks
+Varied Thrush,401726571,mark daly,ground_mbb
+Rusty Blackbird,493062561,Zane Shantz,ground_mbb
+Purple Finch,313986001,James MacKenzie,finches
+Common Loon,609456165,Rain Saulnier,puffin_and_co
+Cooper's Hawk,183984001,Suzanne Labbé,big_raptors
+Long-tailed Duck,318604331,Brian Stahls,ducks
+Common Tern,250208911,Lyall Bouchard,seabirds
+Sooty Grouse,570147161,Blair Dudeck,quails
+Black-capped Chickadee,430641551,Ezra J. Campanelli,tit
+American Kestrel,563171061,Albini Couture,small_raptors
+Red-winged Blackbird,428489531,Blair Dudeck,ground_mbb
+Golden-crowned Kinglet,523092801,Zane Shantz,lbb
+Horned Grebe,428342961,Brian Stahls,water_birds
+Ruffed Grouse,526180431,Annie Lavoie,quails
+Great Horned Owl,318547341,Nathalie Talbot,owl
+Swamp Sparrow,334218081,Anne-Marie Dufour,lbb
+Yellow Rail,474240961,Blair Dudeck,rail_crake
+Atlantic Puffin,358327161,Blair Dudeck,puffin_and_co
+Black Scoter,521519941,Simon Villeneuve,funky_ducks
+Snowy Owl,482208461,Zane Shantz,owl
+Cackling Goose (minima),190997891,Blair Dudeck,geese
+Golden-crowned Kinglet,611841137,Nick Saunders,lbb
+Cedar Waxwing,554489311,Chris Venetz | Ornis Birding Expeditions,little_colourful_birds
+King Eider,613014974,Cesar Ponce,funky_ducks
+Eurasian Wigeon,302749541,David Turgeon,ducks
+Trumpeter Swan,337666711,Annie Lavoie,geese
+Gray Partridge,614121823,Calvin S,quails
+Common Murre,163657971,Simon Boivin,puffin_and_co
+Anna's Hummingbird,207391241,David Badke,hummingbird
+Sabine's Gull,594917641,Joachim Bertrands,seabirds
+Smith's Longspur,60965271,Alvan Buckley,lbb
+Lapland Longspur,375839601,Blair Dudeck,lbb
+Mourning Dove,248714001,Kyle Blaney,pigeons_doves
+Great Gray Owl,401596851,Frédérick Lelièvre,owl
+Black Tern,581236041,Jeff Dyck,seabirds
+Northern Harrier,372440481,Blair Dudeck,big_raptors
+Spruce Grouse,249162641,Kalin Ocaña,quails
+Peregrine Falcon,496239251,Amanda Guercio,small_raptors
+Merlin (Black),475054901,Frank Lin,small_raptors
+Evening Grosbeak,120277311,bellemare celine,finches
+American Bittern,572562261,Zane Shantz,herons
+Ring-billed Gull,404100261,Allanah Vokes,seabirds
+Eastern Screech-Owl,184392911,Lyall Bouchard,owl
+Ruby-throated Hummingbird,173497551,bellemare celine,hummingbird
+Common Redpoll,417799051,Aaron Roberge,lbb
+Black Tern,581235461,Jeff Dyck,seabirds
+Lapland Longspur,382329181,Blair Dudeck,lbb
+Black-footed Albatross,120156551,Blair Dudeck,seabirds
+Magnolia Warbler,102429481,Ian Davies,lbb
+Townsend's x Hermit Warbler (hybrid),459976581,James MacKenzie,lbb
+Common Nighthawk,179814691,Blair Dudeck,big_raptors
+Black-crowned Night Heron,474482281,Calvin S,herons
+Boreal Owl,178794431,Blair Dudeck,owl
+Least Bittern,365334961,Frédérick Lelièvre,herons
+Orange-crowned Warbler,182902241,Alix d'Entremont,lbb
+House Finch,281002821,Stefano Ianiro,finches
+Mute Swan,84012701,Kyle Blaney,geese
+Northern Hawk Owl,191819731,Jason Dain,big_raptors
+Black Oystercatcher,388868141,Blair Dudeck,plovers
+Northern Shrike,47351001,bellemare celine,songbird
+Bay-breasted Warbler,102429531,Ian Davies,lbb
+American Crow,290453231,Gord Gadsden,black_white
+Horned Grebe,493759291,Frédérick Lelièvre,water_birds
+Rufous Hummingbird,163402321,Kyle Blaney,hummingbird
+Evening Grosbeak,419598991,David Turgeon,finches
+Great Horned Owl,310732181,Connor Bowhay,owl
+Spotted Sandpiper,374157311,Brian Stahls,plovers
+White-tailed Ptarmigan,98829731,Connor Charchuk,quails
+Upland Sandpiper,561976331,Mike Riley,plovers
+White-eyed Vireo,442287721,Cody Bassindale,lbb
+California Quail,391508011,Blair Dudeck,quails
+Brewer's Sparrow,452260681,Brad Vissia,lbb
+Song Sparrow,180217931,Suzanne Labbé,lbb
+Pine Grosbeak,420936331,David Turgeon,finches
+Spruce Grouse,166827801,Blair Dudeck,quails
+Western Sandpiper,490955031,Blair Dudeck,plovers
+Pileated Woodpecker,425285041,Cesar Ponce,woodpecker
+California Quail,225334231,Alex Bodden,quails
+Common Murre,309174301,David Turgeon,puffin_and_co
+Carolina Wren,118135061,Tom Devecseri,lbb
+Anna's Hummingbird,423304341,Patricia Rose,hummingbird
+Common Loon,567812291,Mike Riley,puffin_and_co
+Stilt Sandpiper,475503801,David Turgeon,colourful_waders
+American Dipper,567884091,mark daly,mbb
+Boreal Owl,420278481,Simon Villeneuve,owl
+King Eider,613014955,Cesar Ponce,funky_ducks
+White-winged Crossbill,473624991,Zane Shantz,little_colourful_birds
+Northern Fulmar,454564131,Annie Lavoie,seabirds
+Northern Saw-whet Owl,412132701,Gang Wu,owl
+White-breasted Nuthatch,478921651,Calvin S,lbb
+Pacific Wren,373798521,Blair Dudeck,lbb
+Spruce Grouse (Franklin's),500486081,Blair Dudeck,quails
+Atlantic Puffin,169087161,Simon Boivin,puffin_and_co
+Common Tern,448350591,Brian Stahls,seabirds
+Spruce Grouse,262283241,Jeff Dyck,quails
+Savannah Sparrow,180069731,Suzanne Labbé,lbb
+Rock Ptarmigan,331403841,Blair Dudeck,quails
+Great Gray Owl,322013921,Bob Bowhay,owl
+Heermann's Gull,379077221,Blair Dudeck,seabirds
+Snowy Owl,305779721,Zane Shantz,owl
+Ancient Murrelet,376716801,Blair Dudeck,puffin_and_co
+Black Swift,459370211,Frank Lin,swallows
+Ruffed Grouse,222665191,Simon Boivin,quails
+Blackburnian Warbler,446812571,Zane Shantz,lbb
+Red Crossbill (Western Hemlock or type 3),492833281,Blair Dudeck,little_colourful_birds
+Boreal Owl,294685601,Cameron Eckert,owl
+Sharp-shinned Hawk,446889041,Ian Routley,big_raptors
+Piping Plover,473589201, Ben Lucking,plovers
+Black-throated Gray Warbler,468411351,Samuelle Simard-Provencal 🐋,lbb
+Baird's Sandpiper,489432411,Owen Strickland,plovers
+House Finch,281002811,Stefano Ianiro,finches
+Northern Waterthrush,172518571,Kyle Blaney,ground_mbb
+Townsend's Solitaire,318123731,Liron Gertsman,ground_mbb
+LeConte's Sparrow,328147231,Zane Shantz,lbb
+Hudsonian Godwit,610829362,Jack Belleghem,hard_waders
+Purple Sandpiper,428191671,David Turgeon,plovers
+King Eider,613014939,Cesar Ponce,funky_ducks
+Eastern Whip-poor-will,331496311,Maxwell Giffen,owl
+Black-throated Blue Warbler,230158331,Suzanne Labbé,lbb
+Long-tailed Duck,322881011,Brian Stahls,ducks
+Eurasian Wigeon,278103361,Sunny Zhang,ducks
+Sanderling,258205191,Liam Singh,plovers
+Northern Shrike,90927861,Nick Saunders,songbird
+Yellow Rail,470129371,Blair Dudeck,rail_crake
+American Tree Sparrow,497154101,Simon Villeneuve,lbb
+Green-winged Teal,309740701,Cesar Ponce,ducks
+Pomarine Jaeger,171518781,Jason Dain,seabirds
+Cooper's Hawk,385786111,Brian Stahls,big_raptors
+Barred Owl,420282601,Ethan Denton,owl
+Boreal Chickadee,500834421,Calvin S,tit
+Atlantic Puffin,490081891,Dorian Anderson,puffin_and_co
+Osprey,167038701,Diane St-Jacques,big_raptors
+Flammulated Owl,580715921,Blair Dudeck,owl
+Common Murre,496686271,Christian Briand,puffin_and_co
+Boreal Chickadee,183013681,Jim Sims,tit
+Black-crowned Night Heron,358262431,Frédérick Lelièvre,herons
+Killdeer,548205771,Frank Lin,plovers
+Violet-green Swallow,149911861,Brad Vissia,swallows
+Northern Hawk Owl,195003601,Blair Dudeck,big_raptors
+Spruce Grouse (Spruce),342606121,Blair Dudeck,quails
+Eurasian Wigeon,308914781,Blair Dudeck,ducks
+Blackpoll Warbler,148035391,August Davidson-Onsgard,lbb
+Varied Thrush,391984351,Sunny Zhang,ground_mbb
+Great Gray Owl,327789231,Connor Bowhay,owl
+Great Horned Owl,393571161,Yannick Fleury,owl
+Mountain Bluebird,551988801,Jeff Dyck,little_colourful_birds
+Eastern Screech-Owl,230155011,Etienne Artigau🦩,owl
+Iceland Gull (Thayer's),122081141,Blair Dudeck,seabirds
+Golden-crowned Sparrow,402191881,Blair Dudeck,lbb
+Red-breasted Merganser,425453351,Rob Mikulec,funky_ducks
+Western Sandpiper,369879481,Blair Dudeck,plovers
+Common Redpoll,279882071,Yvon Trépanier,lbb
+Wood Duck,77474981,Dorian Anderson,ducks
+Tricolored Heron,582506341,Vasura Jayaweera,herons
+Purple Sandpiper,394958901,Jian Mei,plovers
+Spotted Towhee,47999501,John Reynolds,finches
+Ruffed Grouse,494898581,Paul Jones,quails
+American Robin,90403531,Christoph Moning,robins
+Tree Swallow,351737991,Daniel Campeau,swallows
+Lewis's Woodpecker,148994831,Ian Routley,woodpecker
+Trumpeter Swan,421582171,Rowan Keunen,geese
+Surf Scoter,374522381,Blair Dudeck,funky_ducks
+Gyrfalcon,146155101,Gerald Romanchuk,small_raptors
+Least Bittern,365128681,Frédérick Lelièvre,herons
+Parasitic Jaeger,373281981,James MacKenzie,seabirds
+White-breasted Nuthatch,281002291,Stefano Ianiro,lbb
+Bufflehead,39633601,Liron Gertsman,funky_ducks
+Varied Thrush,404738511,Blair Dudeck,ground_mbb
+Black Tern,581235681,Jeff Dyck,seabirds
+Eastern Kingbird,581234581,Jeff Dyck,wagfantail
+Bonaparte's Gull,428560501,Tim Arthur,seabirds
+Black Scoter,402541471,Sunny Zhang,funky_ducks
+Pied-billed Grebe,355334991,Etienne Artigau🦩,water_birds
+Downy Woodpecker,281001791,Stefano Ianiro,woodpecker
+Canvasback,157218321,Caroline Lambert,funky_ducks
+Northern Rough-winged Swallow,448831411,Blair Dudeck,swallows
+Great Gray Owl,348066331,JG Dunlop,owl
+Barrow's Goldeneye,437943581,David Turgeon,funky_ducks
+Surf Scoter,519807861,Frank Lin,funky_ducks
+Hudsonian Godwit,316319051,David Turgeon,hard_waders
+Blue Jay,43411981,Daniel Jauvin,robins
+Lark Sparrow,351375121,Annie McLeod,lbb
+Lesser Scaup,314923251,Vasura Jayaweera,ducks
+Sooty Grouse,238951561,Blair Dudeck,quails
+Chestnut-backed Chickadee,80742601,Dorian Anderson,tit
+Northern Wheatear,493525171,Simon Villeneuve,mbb
+Black Scoter,402214621,Sunny Zhang,funky_ducks
+Steller's Sea-Eagle,610568324,Dorian Anderson,big_raptors
+Spruce Grouse (Spruce),340139631,Blair Dudeck,quails
+Harris's Sparrow,269551241,Chris Rees,lbb
+Red-tailed Hawk (abieticola),80930791,Vincent Fyson,big_raptors
+Spruce Grouse,231168081,Jeff Dyck,quails
+Red-breasted Nuthatch,317797831,Laure Wilson Neish,lbb
+American Avocet,344992021,Ethan Denton,colourful_waders
+American Bittern,65826261,Sean Evans,herons
+Western Cattle Egret,610489125,Jack Belleghem,egrets
+Black Turnstone,563158921,Joachim Bertrands,colourful_waders
+Northern Gannet,345123601,Blair Dudeck,seabirds
+Horned Grebe,238206401,Peter Hawrylyshyn,water_birds
+Piping Plover,568585821, Ben Lucking,plovers
+Least Bittern,365335391,Frédérick Lelièvre,herons
+Evening Grosbeak,501524111,Zane Shantz,finches
+White-breasted Nuthatch,428622231,Rebecca Maier,lbb
+Atlantic Puffin,611623625,Dorian Anderson,puffin_and_co
+White-winged Crossbill,304838941,David Turgeon,little_colourful_birds
+Lesser Scaup,328134901,Frédérick Lelièvre,ducks
+Sora,457722021,Zane Shantz,rail_crake
+Prairie Falcon,276963071,Bob Bowhay,small_raptors
+King Eider,613014943,Cesar Ponce,funky_ducks
+Caspian Tern,335443781,Brian Stahls,seabirds
+White-throated Sparrow,459286711,Zane Shantz,lbb
+Barrow's Goldeneye,226916191,Blair Dudeck,funky_ducks
+Willet,431746201,Rob Mikulec,hard_waders
+Purple Sandpiper,399901491,Jian Mei,plovers
+Horned Grebe,51365831,Alix d'Entremont,water_birds
+Black-throated Gray Warbler,333251781,mark daly,lbb
+Marbled Godwit,308840621,David Turgeon,hard_waders
+Common Merganser,252031671,Annie Lavoie,funky_ducks
+Boreal Owl,312109611,Ethan Denton,owl
+Rock Ptarmigan,249636411,Joshua Brown,quails
+Snowy Owl,286708131,Zane Shantz,owl
+Ruddy Duck,570161671,Blair Dudeck,ducks
+Red-necked Phalarope,176645701,Darryl Ryan,colourful_waders
+Violet-green Swallow,438571861,Blair Dudeck,swallows
+Boreal Chickadee,295669421,Anne Auclair  Moe,tit
+Boreal Chickadee,427009811,Austin Liboiron,tit
+Short-billed Gull,369544191,Blair Dudeck,seabirds
+Willow Ptarmigan,495149181,Dorian Anderson,quails
+Snowy Owl,388668161,Christian Briand,owl
+Chestnut-collared Longspur,244481161,Joachim Bertrands,lbb
+American Tree Sparrow,402016881,Brian Stahls,lbb
+Say's Phoebe,295494171,David Turgeon,robins
+Common Grackle,159884261,Stefano Ianiro,ground_mbb
+Baird's Sandpiper,363125041,Peggy Scanlan,plovers
+Brant,304540961,David Turgeon,geese
+Common Goldeneye,241844691,Cam Nikkel,funky_ducks
+Northern Hawk Owl,182326251,Laval Roy,big_raptors
+Razorbill,169133571,Simon Boivin,puffin_and_co
+Philadelphia Vireo,363501301,David Turgeon,lbb
+Yellow Rail,470129481,Blair Dudeck,rail_crake
+Parasitic Jaeger,371439601,Blair Dudeck,seabirds
+Black-headed Gull,320717321,David Turgeon,seabirds
+Dusky Grouse,579934371,Blair Dudeck,quails
+Purple Sandpiper,521131491,Brian Stahls,plovers
+Merlin (Black),475054921,Frank Lin,small_raptors
+Chipping Sparrow,464550351,David Turgeon,lbb
+Long-eared Owl,454648911,Calvin S,owl
+Bohemian Waxwing,415481861,Nyjal Singh,little_colourful_birds
+Western Kingbird,392817181,David Turgeon,wagfantail
+Bohemian Waxwing,134338791,Daniel Jauvin,little_colourful_birds
+King Eider,613014980,Cesar Ponce,funky_ducks
+Purple Finch,387069271,Blair Dudeck,finches
+Common Redpoll,276373841,Dominique Genna,lbb
+Barred Owl,517294981,Rain Saulnier,owl
+Cape May Warbler,102429511,Ian Davies,lbb
+Black-footed Albatross,133068421,Blair Dudeck,seabirds
+Fox Sparrow,495740371,Zane Shantz,lbb
+Bohemian Waxwing,413987041,Zane Shantz,little_colourful_birds
+Palm Warbler,177637891,Ronnie d'Entremont,lbb
+LeConte's Sparrow,302408701,David Turgeon,lbb
+Blue-headed Vireo,121991851,Ronnie d'Entremont,lbb
+Pine Warbler,559488641,Catherine MacRae,lbb
+Long-tailed Duck,194428631,Blair Dudeck,ducks
+Tropical Kingbird,384539271,James MacKenzie,wagfantail
+Black-throated Blue Warbler,235806111,Ezra J. Campanelli,lbb
+Baird's Sandpiper,52066291,Alix d'Entremont,plovers
+White-breasted Nuthatch,416830771,Rowan Keunen,lbb
+Purple Sandpiper,224694391,Christian Briand,plovers
+Black-throated Blue Warbler,158039901,Sandra Minotti,lbb
+Great Gray Owl,291832011,Anne Auclair  Moe,owl
+Eastern Kingbird,352900351,David Turgeon,wagfantail
+Western Tanager,162391961,Simon Boivin,little_colourful_birds
+Bufflehead,406840251,Thompson Hyggen,funky_ducks
+Lewis's Woodpecker,543081331,Allanah Vokes,woodpecker
+MacGillivray's Warbler,156646421,John Gordon,lbb
+Eastern Screech-Owl,427589621,Jack Starret,owl
+Prothonotary Warbler,375597081,Nolan Pelland,lbb
+Ruff,334170291,Blair Dudeck,colourful_waders
+Boreal Owl,312139561,Neil Denton,owl
+Great Blue Heron (Great Blue),312869271,Liam Ragan,herons
+Horned Grebe,451316711,Brian Stahls,water_birds
+Great Blue Heron,363802431,jean-francois franche,herons
+White-winged Crossbill,161117361,Stefano Ianiro,little_colourful_birds
+Red Crossbill,90404571,Christoph Moning,little_colourful_birds
+Black-bellied Plover,458323191,Simon Villeneuve,plovers
+White-throated Sparrow,248879141,Peter Hawrylyshyn,lbb
+Swainson's Thrush,344512781,Lyall Bouchard,ground_mbb
+Hoary Redpoll (hornemanni),319773411,Blair Dudeck,lbb
+Yellow Rail,470129441,Blair Dudeck,rail_crake
+Varied Thrush,140128811,Paul Maury,ground_mbb
+Sooty Shearwater,357206171,Blair Dudeck,seabirds
+Heermann's Gull,388012881,Blair Dudeck,seabirds
+Least Bittern,254726151,Anthony Glenesk,herons
+Cape May Warbler,102517131,Ian Davies,lbb
+Merlin,604971121,Amanda Guercio,small_raptors
+Black-throated Gray Warbler,584587231,Joachim Bertrands,lbb
+Willow Ptarmigan (Willow),316393281,Blair Dudeck,quails
+Palm Warbler (Yellow),337684391,Megan Buers,lbb
+Spruce Grouse (Franklin's),498341761,Blair Dudeck,quails
+White-winged Crossbill,416488311,Zane Shantz,little_colourful_birds
+Fox Sparrow,380050131,Frédérick Lelièvre,lbb
+Tennessee Warbler,102429371,Ian Davies,lbb
+Cave Swallow,232868971,Joshua Vandermeulen,swallows
+Ancient Murrelet,367445501,James MacKenzie,puffin_and_co
+Boreal Chickadee,513545191,Ezra J. Campanelli,tit
+Piping Plover,474268701, Ben Lucking,plovers
+Palm Warbler,439036401,Ronnie d'Entremont,lbb
+Great Gray Owl,301429141,Bob Bowhay,owl
+Black-headed Gull,393176571,Charles Fitzpatrick,seabirds
+Ruddy Turnstone,266643131,Yannick Fleury,colourful_waders
+Common Loon,230300591,Patrice St-Pierre,puffin_and_co
+Atlantic Puffin,491260741,Dorian Anderson,puffin_and_co
+Tree Swallow,431341431,Jeff Dyck,swallows
+Brown Shrike,179945281,David M. Bell,songbird
+American Pipit,512304821,James MacKenzie,mbb
+Black-and-white Warbler,458609541,Nick Saunders,lbb
+Canada Jay,307675321,Thierry Grandmont,robins
+Black-throated Gray Warbler,281073061,Brian Stahls,lbb
+Glaucous Gull,436583251,David Turgeon,seabirds
+Northern Hawk Owl,420681141,Kiah R. Jasper,big_raptors
+Gray Catbird,461144771,Suzanne Labbé,bower
+Common Nighthawk,217969881,Bob Bowhay,big_raptors
+Sharp-shinned Hawk,496149601,Nick Saunders,big_raptors
+Anna's Hummingbird,393057401,Blair Dudeck,hummingbird
+Magnolia Warbler,342552451,Frank King,lbb
+Spruce Grouse (Spruce),343173231,Blair Dudeck,quails
+Northern Hawk Owl,323677971,David Turgeon,big_raptors
+White-rumped Sandpiper,460297461,Christian Briand,plovers
+Dunlin,396762951,Blair Dudeck,plovers
+White-eyed Vireo,388787481,Jian Mei,lbb
+Spruce Grouse,249162621,Kalin Ocaña,quails
+Sharp-tailed Grouse,222456691,Raymond Ladurantaye,quails
+Northern Pygmy-Owl,501244241,Calvin S,owl
+Eastern Phoebe,362413861,Gang Wu,robins
+Hooded Merganser,269638401,Allan  Bigras,funky_ducks
+Ruby-throated Hummingbird,343633951,Amanda Guercio,hummingbird
+LeConte's Sparrow,464070901,Amanda Guercio,lbb
+Dovekie,511817551,Brian Stahls,pigeons_doves
+Chukar,149350671,Ian Routley,quails
+American Bittern,572562171,Zane Shantz,herons
+Red-bellied Woodpecker,268265531,Allan  Bigras,woodpecker
+Sabine's Gull,594917711,Joachim Bertrands,seabirds
+Dusky Grouse,579934381,Blair Dudeck,quails
+Wood Duck,519078281,Simon Villeneuve,ducks
+Bohemian Waxwing,511600871,David Turgeon,little_colourful_birds
+Bald Eagle,424032801,Yousif Attia,big_raptors
+Snowy Owl,395946091,Charles Fitzpatrick,owl
+Red-necked Grebe,100283261,Kathrine Burgsma,water_birds
+Barrow's Goldeneye,433806501,Frank Lin,funky_ducks
+American Wigeon,420114131,Frank Lin,ducks
+Red Crossbill (Western Hemlock or type 3),495555381,Blair Dudeck,little_colourful_birds
+Brant,383390201,Maxwell Giffen,geese
+Common Redpoll,409314661,Zane Shantz,lbb
+Osprey,475414901,Steven McGrath,big_raptors
+White-rumped Sandpiper,242039041,Christian Briand,plovers
+Yellow-rumped Warbler,233492921,Suzanne Labbé,lbb
+Cape May Warbler,382979321,Paul Jones,lbb
+Rusty Blackbird,408964101,Brian Stahls,ground_mbb
+Lesser Scaup,405469251,Brian Stahls,ducks
+American Bittern,131194321,Jason Dain,herons
+American Tree Sparrow,282288971,Shey S,lbb
+Blackpoll Warbler,59765961,Simon Boivin,lbb
+Black Scoter,521519961,Simon Villeneuve,funky_ducks
+Surfbird,492427341,Blair Dudeck,hard_waders
+Surf Scoter,314328431,Liam Singh,funky_ducks
+Northern Saw-whet Owl,304582821,Zane Shantz,owl
+Dusky Grouse,178793571,Blair Dudeck,quails
+Least Sandpiper,472318581,David Turgeon,plovers
+Eastern Wood-Pewee,257440641,Vasura Jayaweera,wagfantail
+Harlequin Duck,450097501,David Turgeon,ducks
+Cliff Swallow,335444001,Brian Stahls,swallows
+Black-bellied Plover,374365051,Brian Stahls,plovers
+Anna's Hummingbird,412689541,Sunny Zhang,hummingbird
+Wilson's Phalarope,101733601,Liron Gertsman,colourful_waders
+Horned Lark,199517661,Laure Wilson Neish,mbb
+Glaucous Gull,310451431,Amanda Guercio,seabirds
+Lesser Scaup,405469241,Brian Stahls,ducks
+Pacific Wren,442601671,Marky Mutchler,lbb
+Red-breasted Nuthatch,416804111,Zane Shantz,lbb
+Long-billed Dowitcher,99820781,Liron Gertsman,hard_waders
+Veery,333075411,Blair Dudeck,ground_mbb
+Trumpeter Swan,183286191,Raymond Ladurantaye,geese
+Trumpeter Swan,610124265,Zane Shantz,geese
+Golden-winged Warbler,523945521,Zane Shantz,lbb
+Parasitic Jaeger,454677041,Guy  Tremblay,seabirds
+American Goshawk,43177081,Alvan Buckley,big_raptors
+Yellow Rail,470129411,Blair Dudeck,rail_crake
+Mourning Warbler,487210221, Ben Lucking,lbb
+Canada Warbler,102719351,Ian Davies,lbb
+Bald Eagle,190103721,Blair Dudeck,big_raptors
+Spruce Grouse,166827631,Blair Dudeck,quails
+Western Flycatcher (Pacific-slope),236799211,Liam Singh,wagfantail
+Great Gray Owl,406568941,Andrew Ross,owl
+Magnolia Warbler,363209961,David Turgeon,lbb
+American Pipit,342208491,David Turgeon,mbb
+Short-eared Owl,503555261,Gerald Romanchuk,owl
+Varied Thrush,398483201,Blair Dudeck,ground_mbb
+Cape May Warbler,102429431,Ian Davies,lbb
+Snowy Owl,310553281,Zane Shantz,owl
+Dark-eyed Junco,300951251,Paul Jones,lbb
+Black Scoter,149393521,Steven McGrath,funky_ducks
+Red-winged Blackbird,158001791,Connor Charchuk,ground_mbb
+Lewis's Woodpecker,341966331,Ian Routley,woodpecker
+Lesser Yellowlegs,608610337,Blair Dudeck,hard_waders
+Dusky Grouse,579934301,Blair Dudeck,quails
+Sooty Grouse,570147281,Blair Dudeck,quails
+Sooty Grouse,570147241,Blair Dudeck,quails
+Smith's Longspur,455619781,Joachim Bertrands,lbb
+Greater White-fronted Goose,327780671,Connor Bowhay,geese
+Clay-colored Sparrow,604245911,Rain Saulnier,lbb
+Ruby-crowned Kinglet,231347821,Suzanne Labbé,lbb
+Short-billed Dowitcher,340320291,Evan Larson,hard_waders
+Red Crossbill,286231021,Sean McElaney,little_colourful_birds
+Pied-billed Grebe,167275011,Daniel Jauvin,water_birds
+Black Turnstone,117308271,Blair Dudeck,colourful_waders
+Long-tailed Duck,424107301,Charles Fitzpatrick,ducks
+Dunlin,271800691,Brian Stahls,plovers
+Ruffed Grouse,457593031,Rain Saulnier,quails
+Harris's Sparrow,382356351,Ian Routley,lbb
+Fieldfare,134889731,Roger Beardmore,mbb
+Blackburnian Warbler,446907631,Michael McAllister,lbb
+Snowy Owl,404955331,Bob Bowhay,owl
+Spruce Grouse,166827581,Blair Dudeck,quails
+Cape May Warbler,102517121,Ian Davies,lbb
+Barn Swallow,482243961,Nick Saunders,swallows
+Lesser Black-backed Gull,329617751,Blair Dudeck,seabirds
+Tennessee Warbler,102517601,Ian Davies,lbb
+American Golden-Plover,178365011,Jason Dain,plovers
+Rock Wren,383259741,John Gordon,lbb
+Red-eyed Vireo,243623671,Denise  McIsaac,lbb
+Anna's Hummingbird,139812651,Bridget Spencer,hummingbird
+Black Tern,581236371,Jeff Dyck,seabirds
+Bohemian Waxwing,512561341,Zane Shantz,little_colourful_birds
+Stilt Sandpiper,43567081,Amanda Guercio,colourful_waders
+Black-necked Stilt,448185511,Blair Dudeck,colourful_waders
+Ruffed Grouse,311516981,Laurie Parent,quails
+Nelson's Sparrow,610309205,Jack Belleghem,lbb
+Black Guillemot,510671941,David Turgeon,puffin_and_co
+Forster's Tern,459604581,Calvin S,seabirds
+American Crow,387481431,Annie Lavoie,black_white
+Pine Grosbeak,324963731,Blair Dudeck,finches
+Lazuli Bunting,462372301,Gord Gadsden,lbb
+Bald Eagle,274955371,Cesar Ponce,big_raptors
+Indigo Bunting,347217351,Vasura Jayaweera,lbb
+Gray-cheeked Thrush,608794732,Cathy Brown,ground_mbb
+Sooty Grouse,342435141,James MacKenzie,quails
+Gray Partridge,188206251,Chris Rees,quails
+Northern Pygmy-Owl,508155931,Blair Dudeck,owl
+California Scrub-Jay,285578111,Ilya Povalyaev,robins
+Tree Swallow,433759191,Blair Dudeck,swallows
+Dovekie,385789081,Steeve R. Baker,pigeons_doves
+Yellow Rail,470129381,Blair Dudeck,rail_crake
+American Pipit,163558201,André Lanouette,mbb
+Brown Pelican,364053091,Ilya Povalyaev,water_birds
+Atlantic Puffin,491648621,Dorian Anderson,puffin_and_co
+Dovekie,511844151,Su Li,pigeons_doves
+Wilson's Phalarope,463432821,Blair Dudeck,colourful_waders
+American Goldfinch,130130241,André Lanouette,finches
+Short-eared Owl,211334471,Gerald Romanchuk,owl
+Ruby-crowned Kinglet,331403291,David Turgeon,lbb
+Nashville Warbler,455646991,Calvin S,lbb
+Bufflehead,373535131,Blair Dudeck,funky_ducks
+Blackburnian Warbler,344936511,David Turgeon,lbb
+Townsend's Warbler,453494751,Markus Weilmeier,lbb
+Sharp-shinned Hawk,610781921,Nick Saunders,big_raptors
+Ruby-crowned Kinglet,435246261,Ezra J. Campanelli,lbb
+White-rumped Sandpiper,324594181,Blair Dudeck,plovers
+Bald Eagle,187861961,Randy Walker,big_raptors
+Boreal Owl,614434686,Frédérick Lelièvre,owl
+Black Tern,581244031,Jeff Dyck,seabirds
+American Dipper,567884111,mark daly,mbb
+Smith's Longspur,455619751,Joachim Bertrands,lbb
+Harlequin Duck,513872871,Brian Stahls,ducks
+Swamp Sparrow,342203791,Blair Dudeck,lbb
+Rose-breasted Grosbeak,306128581,David Turgeon,finches
+Prairie Falcon,271654331,Gerald Romanchuk,small_raptors
+Palm Warbler (Yellow),198728291,Amanda Guercio,lbb
+Lapland Longspur,408648701,Daniel Jauvin,lbb
+Cape May Warbler,102718821,Ian Davies,lbb
+Sprague's Pipit,242589561,Joachim Bertrands,mbb
+Hooded Merganser,195918791,Allan  Bigras,funky_ducks
+California Quail,465378081,Ethan Denton,quails
+Golden-winged Warbler,452886011,Zane Shantz,lbb
+Gyrfalcon,52350061,Robb Bell,small_raptors
+Common Murre,458890021,Christian Briand,puffin_and_co
+Upland Sandpiper,470536021,Zane Shantz,plovers
+Sandhill Crane,87350511,Cole Gaerber,egrets
+Smith's Longspur,62401991,Tom Johnson,lbb
+Yellow-rumped Warbler,493499001,Paul Jones,lbb
+Swainson's Thrush,486335811, Ben Lucking,ground_mbb
+Chestnut-collared Longspur,460464521,Blair Dudeck,lbb
+Belted Kingfisher,609974139,Karim Bouzidi,kingfishers
+Atlantic Puffin,610333446,Dorian Anderson,puffin_and_co
+LeConte's Sparrow,519771041,Mourad Jabra,lbb
+Bohemian Waxwing,300585491,Dominique Genna,little_colourful_birds
+Canada Warbler,102719371,Ian Davies,lbb
+Green Heron,493281121,Frédérick Lelièvre,herons
+Evening Grosbeak,146200971,Daniel Jauvin,finches
+Northern Parula,236247251,Dennis  Dirigal,lbb
+King Eider,408559751,Jason Dain,funky_ducks
+Townsend's x Hermit Warbler (hybrid),459976571,James MacKenzie,lbb
+Brant,383643901,Jeff Dyck,geese
+Stilt Sandpiper,369774211,Paul Jones,colourful_waders
+Cape May Warbler,102429441,Ian Davies,lbb
+Common Yellowthroat,330359801,mark daly,little_colourful_birds
+Rock Ptarmigan,90888001,Cameron Eckert,quails
+Barred Owl,317498061,David Turgeon,owl
+Eared Grebe,157218471,Caroline Lambert,water_birds
+Purple Sandpiper,426600881,Christian Briand,plovers
+Tree Swallow,125394671,Stefano Ianiro,swallows
+Common Redpoll,278372851,Daniel Campeau,lbb
+Wilson's Phalarope,584800491,Evan Larson,colourful_waders
+Sooty Grouse,570147201,Blair Dudeck,quails
+Willow Ptarmigan,93964071,Nick Saunders,quails
+Red-bellied Woodpecker,520172381,Rain Saulnier,woodpecker
+Iceland Gull (Thayer's),404666221,Liam Singh,seabirds
+Hermit Thrush,338921811,Blair Dudeck,ground_mbb
+Eurasian x American Wigeon (hybrid),132253851,Blair Dudeck,ducks
+Canada Warbler,102719361,Ian Davies,lbb
+Mallard,109124861,Annie Lavoie,ducks
+Yellow-headed Blackbird,154452821,Bridget Spencer,ground_mbb
+Northern Shrike,71482091,Cameron Eckert,songbird
+Bushtit (Pacific),414086021,Frank Lin,tit
+Eurasian Wigeon,308914841,Blair Dudeck,ducks
+Evening Grosbeak,122372281,Ian Davies,finches
+Rufous Hummingbird,330076151,Ian Routley,hummingbird
+Black Turnstone,382050711,Blair Dudeck,colourful_waders
+Common Redpoll,422082551,Daniel Jauvin,lbb
+Snowy Owl,399870601,Zane Shantz,owl
+Evening Grosbeak,133336391,Patrice St-Pierre,finches
+Dunlin,357662251,Blair Dudeck,plovers
+Chestnut-sided Warbler,295678191,Lucas Eckert,lbb
+Pacific Wren,481604751,Markus Weilmeier,lbb
+Northern Harrier,411291931,Mhairi McFarlane,big_raptors
+White-eyed Vireo,388602211,Brian Stahls,lbb
+Yellow-crowned Night Heron,360350291,Blair Dudeck,herons
+King Rail,525318221,Rowan Keunen,rail_crake
+Barn Swallow,253389271,Megan Buers,swallows
+White-winged Scoter,387763231,Brian Stahls,funky_ducks
+Pine Grosbeak,132965221,Tony Dvorak,finches
+Red-necked Grebe,557980411,Shey S,water_birds
+Fox Sparrow,437227261,Zane Shantz,lbb
+Pine Warbler,414300271,Suzanne Labbé,lbb
+Dark-eyed Junco,418359911,Rowan Keunen,lbb
+Hoary Redpoll,305226941,Alexandre Terrigeol,lbb
+Mallard,187796281,Francois Dubois,ducks
+Palm Warbler (Yellow),337684401,Megan Buers,lbb
+American White Pelican,340944801,Andrew Boycott,water_birds
+Ruby-crowned Kinglet,435557831,Ethan Denton,lbb
+Least Bittern,365334891,Frédérick Lelièvre,herons
+Ruff,159908711,Jason Dain,colourful_waders
+Northern Shoveler,172532121,Allan  Bigras,ducks
+Razorbill,166233931,Daniel Jauvin,puffin_and_co
+Bald Eagle,213414371,Steve McInnis,big_raptors
+Killdeer,154491601,Brian Stahls,plovers
+Grasshopper Sparrow,242285111,Blair Dudeck,lbb
+Palm Warbler (Yellow),338581411,Blair Dudeck,lbb
+Chestnut-sided Warbler,165632461,Simon Boivin,lbb
+Northern Pintail,77474941,Dorian Anderson,ducks
+Black Scoter,76322431,Liron Gertsman,funky_ducks
+Blackburnian Warbler,576937641,Ian Davies,lbb
+Steller's Sea-Eagle,476730331,Amanda Guercio,big_raptors
+Gray-cheeked Thrush,57179141,Alix d'Entremont,ground_mbb
+Scarlet Tanager,33572291,Andrew Spencer,little_colourful_birds
+White-faced Ibis,98722591,Kalin Ocaña,black_white
+White-rumped Sandpiper,490604661,Christian Briand,plovers
+Varied Thrush,288587681,Gord Gadsden,ground_mbb
+American Dipper,567884101,mark daly,mbb
+Bewick's Wren,419442411,Markus Weilmeier,lbb
+Common Grackle,495073351,Laure Wilson Neish,ground_mbb
+Red-breasted Nuthatch,375475901,Frédérick Lelièvre,lbb
+Gray Catbird,158927281,Jean-Sébastien Mayer,bower
+Canada Jay,398421651,Frédérick Lelièvre,robins
+Common Redpoll,425715581,Zane Shantz,lbb
+Short-eared Owl,34169421,Brian Hoffe,owl
+Carolina Wren,186026891,Suzanne Labbé,lbb
+American Crow,383244531,Melissa Hafting,black_white
+Fox Sparrow,514556001,mark daly,lbb
+Common Tern,168619831,Alix d'Entremont,seabirds
+Gadwall,184716421,Frank King,ducks
+Rough-legged Hawk,172784011,David M. Bell,big_raptors
+Purple Finch (Western),134000431,Blair Dudeck,finches
+American Avocet,447365151,Raymond Ladurantaye,colourful_waders
+Blackburnian Warbler,178013151,Ian Davies,lbb
+Black Tern,581236001,Jeff Dyck,seabirds
+Smith's Longspur,455694071,Joachim Bertrands,lbb
+Ovenbird,159156981,Stefano Ianiro,ground_mbb
+Purple Sandpiper,297428561,Christian Briand,plovers
+White-throated Sparrow,232418791,Jacob Garvelink,lbb
+Horned Grebe,373463661,Blair Dudeck,water_birds
+Snowy Owl,166573431,pierre martin,owl
+Say's Phoebe,478870501,Calvin S,robins
+Common Loon,581234991,Jeff Dyck,puffin_and_co
+Belted Kingfisher,411419191,Blair Dudeck,kingfishers
+Purple Finch,224972571,Ian Routley,finches
+Golden-winged Warbler,447369961,Cameron Chevalier,lbb
+Great Shearwater,171168821,Ken McKenna,seabirds
+Lesser Yellowlegs,172459431,Jerry McFetridge,hard_waders
+Purple Martin,102808461,John Reynolds,swallows
+Willow Ptarmigan,537127201,David Turgeon,quails
+Gadwall,383664611,Cesar Ponce,ducks
+Bald Eagle,87306251,Bridget Spencer,big_raptors
+Northern Shoveler,326761071,Frédérick Lelièvre,ducks
+Blue Jay,315831841,Frédérick Lelièvre,robins
+Red Phalarope,263225821,Daniel Jauvin,colourful_waders
+Calliope Hummingbird,329221821,John Jansen,hummingbird
+Herring Gull,214548441,Gord Gadsden,seabirds
+Cape May Warbler,59765461,Simon Boivin,lbb
+Northern Shoveler,448025311,Aaron Roberge,ducks
+Wood Sandpiper,352895881,Liam Singh,plovers
+Tufted Puffin,173397471,Ken Wright,puffin_and_co
+Song Sparrow,223402851,Stefano Ianiro,lbb
+Blue-winged Teal,322936701,Rob Mikulec,ducks
+Bewick's Wren,497884291,Evan Larson,lbb
+Trumpeter Swan,611675045,Jacob McLaren,geese
+Canada Jay,349932191,mark daly,robins
+Glaucous Gull,124029461,Blair Dudeck,seabirds
+Dovekie,511844181,Su Li,pigeons_doves
+Eastern Kingbird,584793421,Asher  Warkentin,wagfantail
+Stilt Sandpiper,450206801,Gerald Romanchuk,colourful_waders
+Red-winged Blackbird,438918741,Blair Dudeck,ground_mbb
+Ferruginous Hawk,347665831,Ethan Denton,big_raptors
+Sora,530094461,Sabine Jessen,rail_crake
+Snow Bunting,501487241,Blair Dudeck,lbb
+Mountain Bluebird,570161211,Blair Dudeck,little_colourful_birds
+Savannah Sparrow,485992701,Dorian Anderson,lbb
+Common Loon,476288001,Annie Lavoie,puffin_and_co
+Killdeer,429318661,Leon Dsilva,plovers
+Baird's Sandpiper,263284471,Allan  Bigras,plovers
+Boreal Owl,420278041,Simon Villeneuve,owl
+Gray Catbird,245593771,Peter Hawrylyshyn,bower
+Black Scoter,521519951,Simon Villeneuve,funky_ducks
+Scarlet Tanager,501357221,Simon Villeneuve,little_colourful_birds
+Pine Grosbeak,287978741,Anne Auclair  Moe,finches
+White-tailed Ptarmigan,250888711,Amanda Guercio,quails
+Warbling Vireo,337965841,mark daly,lbb
+Mountain Chickadee,416168391,Blair Dudeck,tit
+Steller's Sea-Eagle,594013211,Liz Soria,big_raptors
+Pine Grosbeak,402489931,Sheri Minardi,finches
+Pectoral Sandpiper,177624391,Simon Boivin,plovers
+Black-bellied Plover,176191021,Allan  Bigras,plovers
+Wandering Tattler,342249811,Liam Singh,hard_waders
+Brewer's Blackbird,383119961,Liam Ragan,ground_mbb
+Black-billed Magpie,375489631,Aaron Roberge,black_white
+Northern Harrier,405635861,Blair Dudeck,big_raptors
+Red-breasted Nuthatch,395465761,Susan and Andy Gower/Karassowitsch,lbb
+Least Bittern,365335001,Frédérick Lelièvre,herons
+Sedge Wren,464630211,Thompson Hyggen,lbb
+Fork-tailed Flycatcher,86621921,Ian Davies,wagfantail
+Great Horned Owl,482120321,Asher  Warkentin,owl
+Northern Flicker,433605501,Brian Stahls,woodpecker
+Eastern Screech-Owl,425510571,Jack Starret,owl
+Snowy Egret,340482591,Blair Dudeck,egrets
+Double-crested Cormorant,337847981,David Turgeon,cormorant
+Northern Saw-whet Owl,308115411,David Turgeon,owl
+Chestnut-collared Longspur,173394901,David M. Bell,lbb
+LeConte's Sparrow,329078791,Zane Shantz,lbb
+Eastern Whip-poor-will,234962611,Jacques Brisson,owl
+Northern Saw-whet Owl,275598621,Blair Dudeck,owl
+Wilson's Phalarope,456426771,Calvin S,colourful_waders
+Rough-legged Hawk,415588181,Blair Dudeck,big_raptors
+Harlequin Duck,145878981,Ian Routley,ducks
+King Eider,613299043,Cesar Ponce,funky_ducks
+Kentucky Warbler,339632111,Brian Stahls,lbb
+Kirtland's Warbler,104360031,Brandon Holden,lbb
+Wilson's Snipe,463832201,David Turgeon,colourful_waders
+Long-tailed Duck,397335021,Frédérick Lelièvre,ducks
+Pine Grosbeak,521806361,Charles Villeneuve,finches
+Northern Hawk Owl,195003621,Blair Dudeck,big_raptors
+Barrow's Goldeneye,603015651,Asher  Warkentin,funky_ducks
+Magnolia Warbler,462845621,Steven McGrath,lbb
+Gyrfalcon,406568081,Kiah R. Jasper,small_raptors
+Eurasian Wigeon,323205731,Charles Fitzpatrick,ducks
+Field Sparrow,31056361,David M. Bell,lbb
+Townsend's Solitaire,318572901,Ilya Povalyaev,ground_mbb
+Killdeer,591920211,Marie-Josee D'Amour,plovers
+Common Loon,329947101,Ilya Povalyaev,puffin_and_co
+Red-breasted Nuthatch,219648251,Simon Boivin,lbb
+Bald Eagle,132878551,Blair Dudeck,big_raptors
+Dusky Grouse,579934401,Blair Dudeck,quails
+Greater Scaup,192288241,Gord Gadsden,ducks
+Ruby-throated Hummingbird,338719321,Zane Shantz,hummingbird
+Dusky Grouse,579934361,Blair Dudeck,quails
+Marbled Godwit,570146081,Blair Dudeck,hard_waders
