@@ -131,18 +131,19 @@ class BirdGame:
             # bird_image = Image.open('blurred_image.png')
             # bird_image = ImageOps.grayscale(bird_image.filter(ImageFilter.GaussianBlur(20)))
             # st.image(bird_image)
-    
-            if str(self.target_image_cc) != 'nan':
-                self.show_copyright(self.target_bird_image,'Image',self.target_image_cc)
 
             self.target_bird_audio, self.target_audio_cc = self.get_audio_for_target_bird()
             bird_sound = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_audio}'
             audio_health = self.check_audio_health(bird_sound)
             if audio_health:
                 st.audio(bird_sound)
-                self.show_copyright(self.target_bird_audio,'Audio',self.target_audio_cc)
             else:
                 st.write('🔇 Audio not available')                
+            
+            if str(self.target_image_cc) != 'nan':
+                self.show_copyright(self.target_bird_image,'Image',self.target_image_cc)
+            if str(self.target_audio_cc) != 'nan' and audio_health:
+                self.show_copyright(self.target_bird_audio,'Audio',self.target_audio_cc)
 
 
         # Pre-selection show multichoice buttons. Post-selection show bird name and 'Next'.
@@ -209,6 +210,7 @@ def play_game(bird_game):
 
     st.sidebar.metric(label='Your Score:',value=f'{bird_game.score}/{bird_game.guesses}')
     st.sidebar.text(f'({percentage}%) {"🔥" if percentage>=90 else ""}')
+
 
 # Import bird data
 if 'bird_image_df' not in st.session_state:
