@@ -16,17 +16,15 @@ class BirdGame:
         self.guesses = 0
         self.region = 'AU'
         self.mode = '2 :duck: intermediate'
-        self.image_on = True
-        self.sound_on = True
         self.selection = None
         self.target_bird_name, self.target_bird_image, self.target_image_cc, self.multichoice_options, self.correct_bird_index = self.start_new_round()
         self.buttons = [self.multichoice_options]
 
     def set_config(self):
         st.set_page_config(
-            page_title="Twitch or Tweek",
-            page_icon="🦉",
-            initial_sidebar_state="expanded"
+            page_title='Twitch or Tweek',
+            page_icon='🦉',
+            initial_sidebar_state='expanded'
         )
 
     def get_target_bird(self):
@@ -35,16 +33,16 @@ class BirdGame:
         return selected_bird['name'], selected_bird['image_id'], selected_bird['cc'], selected_bird['category']
 
     def get_audio_for_target_bird(self):
-        bird_audio_files = self.bird_audio_df[self.bird_audio_df.name == self.target_bird_name][["audio_id","cc"]]
+        bird_audio_files = self.bird_audio_df[self.bird_audio_df.name == self.target_bird_name][['audio_id','cc']]
         if bird_audio_files.shape[0] > 0:
             audio_file = bird_audio_files.sample(1)
             return audio_file.audio_id.iloc[0], audio_file.cc.iloc[0]
         else:
             return None, None
         
-    def show_copyright(self, media_type, media_cc):
+    def show_copyright(self, hyperlink, media_type, media_cc):
         st.markdown(f'''
-            <a href=https://macaulaylibrary.org/asset/{self.target_bird_audio}
+            <a href=https://macaulaylibrary.org/asset/{hyperlink}
             style="color:#cf8865;font-family:courier;font-size:80%">
             {media_type} © {media_cc}
             </a>
@@ -105,7 +103,6 @@ class BirdGame:
             self.score += 1
         elif self.correct_bird_index != selected_index:
             st.snow()
-            self.score -= 1
 
     def display_multichoice(self):
         """Create multichoice buttons to display in right column"""
@@ -125,31 +122,28 @@ class BirdGame:
 
         # Display media
         with media_column:
-            if self.image_on:
-                bird_image = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_image}/900'
-                self.check_image_health(bird_image)
-                st.image(bird_image)
+            bird_image = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_image}/900'
+            self.check_image_health(bird_image)
+            st.image(bird_image)
+            
+            # Blur image
+            # urllib.request.urlretrieve( f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_image}/900','blurred_image.png')
+            # bird_image = Image.open('blurred_image.png')
+            # bird_image = ImageOps.grayscale(bird_image.filter(ImageFilter.GaussianBlur(20)))
+            # st.image(bird_image)
+    
+            if str(self.target_image_cc) != 'nan':
+                self.show_copyright(self.target_bird_image,'Image',self.target_image_cc)
 
+            self.target_bird_audio, self.target_audio_cc = self.get_audio_for_target_bird()
+            bird_sound = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_audio}'
+            audio_health = self.check_audio_health(bird_sound)
+            if audio_health:
+                st.audio(bird_sound)
+                self.show_copyright(self.target_bird_audio,'Audio',self.target_audio_cc)
             else:
-                urllib.request.urlretrieve( f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_image}/900','blurred_image.png')
-                bird_image = Image.open('blurred_image.png')
-                bird_image = ImageOps.grayscale(bird_image.filter(ImageFilter.GaussianBlur(20)))
-                st.image(bird_image)
+                st.write('🔇 Audio not available')                
 
-            if self.sound_on:
-                self.target_bird_audio, self.target_audio_cc = self.get_audio_for_target_bird()
-                bird_sound = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_audio}'
-                audio_health = self.check_audio_health(bird_sound)
-                if audio_health:
-                    st.audio(bird_sound)
-                elif not self.image_on:
-                    self.start_new_round()
-                else: st.write('🔇 Audio not available')
-
-            if str(self.target_image_cc) != 'nan' and self.image_on:
-                self.show_copyright('Image',self.target_image_cc)
-            if str(self.target_audio_cc) != 'nan' and self.sound_on and audio_health:
-                self.show_copyright('Audio',self.target_audio_cc)
 
         # Pre-selection show multichoice buttons. Post-selection show bird name and 'Next'.
         with buttons_column:
@@ -197,14 +191,7 @@ def play_game(bird_game):
     
     # Display UI
     st.title('Twitch or Tweek')
-    st.subheader('Name that bird!')
-    
-    # Display toggles for sound and audio
-    col_image, col_sound = st.columns([1,5])
-    with col_image:
-        bird_game.image_on = st.toggle('Image', value=True)
-    with col_sound:
-        bird_game.sound_on = st.toggle('Sound', value=True)        
+    st.subheader('Name that bird!')  
 
     bird_game.display_ui()
 
@@ -215,16 +202,21 @@ def play_game(bird_game):
         bird_game.selection = None
 
     # Display Score
-    st.sidebar.subheader("Your Score")
-    st.sidebar.metric("score", bird_game.score, label_visibility='collapsed')
+    if bird_game.guesses > 0:
+        percentage = int(round(bird_game.score/bird_game.guesses,2)*100)
+    else:
+        percentage = 0
+
+    st.sidebar.metric(label='Your Score:',value=f'{bird_game.score}/{bird_game.guesses}')
+    st.sidebar.text(f'({percentage}%) {"🔥" if percentage>=90 else ""}')
 
 # Import bird data
-if "bird_image_df" not in st.session_state:
+if 'bird_image_df' not in st.session_state:
     st.session_state.bird_image_df = pd.read_csv('data/regional/au_images.csv')
     st.session_state.bird_audio_df = pd.read_csv('data/regional/au_audio.csv')
 
 # Initialise game state
-if "bird_game" not in st.session_state:
+if 'bird_game' not in st.session_state:
     st.session_state.bird_game = BirdGame(st.session_state.bird_image_df, st.session_state.bird_audio_df)
 
 # Play game
