@@ -3,8 +3,34 @@ import pandas as pd
 import random
 import requests
 import re
-from PIL import Image, ImageFilter, ImageOps
-import urllib.request
+import hashlib
+
+@st.cache_data
+def check_url_health(url):
+    try:
+        r = requests.head(url, timeout=5)
+        return r.status_code == 200
+    except requests.RequestException:
+        return False
+
+@st.cache_data
+def load_image_data(region):
+    return pd.read_csv(f'data/images/{region.lower()}_images.csv')
+
+@st.cache_data
+def load_audio_data(region):
+    try:
+        return pd.read_csv(f'data/audio/{region.lower()}_audio.csv')
+    except OSError:
+        return pd.DataFrame(columns=['name','audio_id','cc'])
+    
+@st.cache_data
+def get_image_url(image_id):
+    return f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{image_id}/900'
+
+@st.cache_data
+def get_audio_url(audio_id):
+    return f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{audio_id}'
 
 class BirdGame:
     def __init__(self, bird_image_df, bird_audio_df):
@@ -18,6 +44,8 @@ class BirdGame:
         self.mode = '2 :duck: intermediate'
         self.selection = None
         self.target_bird_name, self.target_bird_image, self.target_image_cc, self.multichoice_options, self.correct_bird_index = self.start_new_round()
+        self.target_bird_audio = None
+        self.target_audio_cc = None
         self.buttons = [self.multichoice_options]
 
     def set_config(self):
@@ -52,8 +80,8 @@ class BirdGame:
     def get_multichoice_options(self, target_bird_category):
         """Return list of bird names for multichoice button labels, based on game difficulty."""
 
-        full_bird_list = [re.sub(r'\s\(.+\)','',x) for x in self.bird_images_df.name]
-        short_bird_list = [re.sub(r'\s\(.+\)','',x) for x in self.bird_images_df.name[self.bird_images_df.category == target_bird_category]]
+        full_bird_list = [re.sub(r'\s\(.+\)','',x) for x in self.bird_image_df.name]
+        short_bird_list = [re.sub(r'\s\(.+\)','',x) for x in self.bird_image_df.name[self.bird_image_df.category == target_bird_category]]
 
         # Set multichoice options based on game difficulty
         if self.mode[0] == '1':
@@ -91,8 +119,11 @@ class BirdGame:
         self.target_bird_name, self.target_bird_image, self.target_image_cc, self.target_bird_category = self.get_target_bird()
         self.multichoice_options, self.correct_bird_index = self.get_multichoice_options(self.target_bird_category)
 
+        self.target_bird_audio, self.target_audio_cc = self.get_audio_for_target_bird()
+        # Restart if options are too few
         if len(self.multichoice_options) < int(float(self.mode.split(' ')[0])) + 1:
             self.start_new_round()
+
         return self.target_bird_name, self.target_bird_image, self.target_image_cc, self.multichoice_options, self.correct_bird_index
 
     def post_score_results(self, selected_index):
@@ -122,21 +153,14 @@ class BirdGame:
 
         # Display media
         with media_column:
-            bird_image = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_image}/900'
+            bird_image = get_image_url(self.target_bird_image)
             self.check_image_health(bird_image)
             st.image(bird_image)
             
-            # Blur image
-            # urllib.request.urlretrieve( f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_image}/900','blurred_image.png')
-            # bird_image = Image.open('blurred_image.png')
-            # bird_image = ImageOps.grayscale(bird_image.filter(ImageFilter.GaussianBlur(20)))
-            # st.image(bird_image)
-    
             if str(self.target_image_cc) != 'nan':
                 self.show_copyright(self.target_bird_image,'Image',self.target_image_cc)
 
-            self.target_bird_audio, self.target_audio_cc = self.get_audio_for_target_bird()
-            bird_sound = f'https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{self.target_bird_audio}'
+            bird_sound = get_audio_url(self.target_bird_audio)
             audio_health = self.check_audio_health(bird_sound)
             if audio_health:
                 st.audio(bird_sound)
@@ -152,30 +176,28 @@ class BirdGame:
                 st.button('Next', on_click=self.deregister_selection)
             else:
                 self.display_multichoice()
-        
+
     def check_image_health(self, image_url):
         """Skip unhealthy/missing image by triggering a new round"""
-        r = requests.head(image_url)
-        while r.status_code != 200:
-           self.start_new_round()
+        if not check_url_health(image_url):
+            self.start_new_round()
 
     def check_audio_health(self, audio_url):
-        """Return health status of audio file, i.e. False for missing audio files"""
-        r = requests.head(audio_url)
-        return r.status_code == 200
+        """Return health status of audio file"""
+        return check_url_health(audio_url)
 
 def play_game(bird_game):
     """Play Twitch or Tweek"""
 
     # Display region select
     region_previous = bird_game.region
-    bird_game.region = st.sidebar.selectbox('Region:',options=['AU','CA','GB','JP','LK'])
+    bird_game.region = st.sidebar.selectbox('Region:',options=['AU','CA','GB','JP'])
     
     # Re-import data when region changes
     if region_previous != bird_game.region:
-        bird_game.bird_image_df = pd.read_csv(f'data/regional/{bird_game.region.lower()}_images.csv')
+        bird_game.bird_image_df = load_image_data(bird_game.region)
         try:
-            bird_game.bird_audio_df = pd.read_csv(f'data/regional/{bird_game.region.lower()}_audio.csv')
+            bird_game.bird_audio_df = load_audio_data(bird_game.region)
         except OSError:
             bird_game.bird_audio_df = pd.DataFrame(columns=['name','audio_id','cc'])
 
@@ -212,8 +234,8 @@ def play_game(bird_game):
 
 # Import bird data
 if 'bird_image_df' not in st.session_state:
-    st.session_state.bird_image_df = pd.read_csv('data/regional/au_images.csv')
-    st.session_state.bird_audio_df = pd.read_csv('data/regional/au_audio.csv')
+    st.session_state.bird_image_df = pd.read_csv('data/images/au_images.csv')
+    st.session_state.bird_audio_df = pd.read_csv('data/audio/au_audio.csv')
 
 # Initialise game state
 if 'bird_game' not in st.session_state:
