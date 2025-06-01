@@ -1,0 +1,864 @@
+name,image_id,cc,category
+Great Blue Heron,295900451,Carl Bergstrom,herons
+White-tailed Ptarmigan,595867971,Mason Maron,quails
+Red-tailed Hawk,390920461,Ken Pitts,big_raptors
+Ruby-crowned Kinglet,389954851,Mason Maron,lbb
+Black-throated Gray Warbler,446898781,Mason Maron,lbb
+American Avocet,342141181,Mason Maron,colourful_waders
+Pigeon Guillemot,172342221,Drew Beamer,pigeons_doves
+Great Gray Owl,628324239,Xin Cen,owl
+Great Blue Heron,295900421,Carl Bergstrom,herons
+Surfbird,390744171,Mason Maron,hard_waders
+Yellow-rumped Warbler,630734529,Mason Maron,lbb
+Bald Eagle,285750461,Mason Maron,big_raptors
+Bald Eagle,285750511,Mason Maron,big_raptors
+Semipalmated Plover,330659611,Mason Maron,plovers
+Black-footed Albatross,328888881,Mason Maron,seabirds
+White-headed Woodpecker,454723031,Mason Maron,woodpecker
+Golden-crowned Kinglet,50087221,Jacob McGinnis,lbb
+Common Yellowthroat,459367491,Mason Maron,little_colourful_birds
+Black-throated Gray Warbler,443359851,Mason Maron,lbb
+Caspian Tern,268569871,Mason Maron,seabirds
+American Dipper,610300665,Mason Maron,mbb
+White-tailed Ptarmigan,594776821,Garrett Hughes,quails
+Black-throated Gray Warbler,483864061,Mason Maron,lbb
+Brambling,515072241,Liam Hutcheson,lbb
+Fox Sparrow,293788021,Ryan Schain,lbb
+Snow Bunting,303108291,Mason Maron,lbb
+Rock Sandpiper,283985291,Mason Maron,plovers
+Black-footed Albatross,349422041,Mason Maron,seabirds
+Hutton's Vireo,121822671,Ryan Schain,lbb
+Steller's Jay,172070171,Drew Beamer,robins
+Sharp-tailed Sandpiper,260743121,Ian Davies,plovers
+Warbling Vireo,460582571,Mason Maron,lbb
+Caspian Tern,263223581,Mason Maron,seabirds
+Western Sandpiper,269944751,Ian Davies,plovers
+Red-breasted Sapsucker,283304991,Mason Maron,woodpecker
+Clark's Nutcracker,275750681,Jen Sanford,mbb
+American Robin,290023681,Mason Maron,robins
+Belted Kingfisher,387808861,Mason Maron,kingfishers
+Canada Jay,291968311,Mason Maron,robins
+Surfbird,284695381,Mason Maron,hard_waders
+Short-eared Owl,615196127,Mason Maron,owl
+Black-headed Grosbeak,335838001,Mason Maron,finches
+Spotted Towhee,217848351,Mason Maron,finches
+Surfbird,285353591,Mason Maron,hard_waders
+Sagebrush Sparrow,615640667,Mason Maron,lbb
+Long-eared Owl,139251191,Christopher Lindsey,owl
+Killdeer,399493781,Katie Warner,plovers
+White-tailed Ptarmigan,600309691,Mason Maron,quails
+Cedar Waxwing,279486711,Mason Maron,little_colourful_birds
+Fox Sparrow,390980491,Mason Maron,lbb
+Yellow-rumped Warbler,630734542,Mason Maron,lbb
+Short-tailed Albatross,354310811,Jefferson Ashby,seabirds
+Common Yellowthroat,464698851,Mason Maron,little_colourful_birds
+Clay-colored Sparrow,458618081,Mason Maron,lbb
+Rough-legged Hawk,615649512,RJ Baltierra,big_raptors
+White-tailed Ptarmigan,594776831,Garrett Hughes,quails
+Great Horned Owl,551776551,Mason Maron,owl
+Northern Saw-whet Owl,314932301,Nathan Wall,owl
+Horned Grebe,611176285,Mason Maron,water_birds
+Common Merganser,164611771,Mason Maron,funky_ducks
+Western Sandpiper,284311051,Mason Maron,plovers
+Purple Martin,447302241,John Davis,swallows
+Townsend's Warbler,528838371,Liam Hutcheson,lbb
+Black Tern,60476061,Ryan Shaw,seabirds
+Canada Jay,624955050,Mason Maron,robins
+Burrowing Owl,634180775,Mason Maron,owl
+Clay-colored Sparrow,239442641,RJ Baltierra,lbb
+Ross's Gull,191330931,Ryan Merrill,seabirds
+Tufted Puffin,172245401,Drew Beamer,puffin_and_co
+Great Gray Owl,327775471,Nathan Clark,owl
+Harlequin Duck,429476341,Christian Hagenlocher,ducks
+Black-footed Albatross,254837951,Mason Maron,seabirds
+Mountain Bluebird,455012391,Nathan Wall,little_colourful_birds
+Chestnut-backed Chickadee,475306841,Mason Maron,tit
+Bald Eagle,88371811,Eric Heisey,big_raptors
+Double-crested Cormorant,543338451,Mason Maron,cormorant
+Hutton's Vireo,442965321,Mason Maron,lbb
+Canada Jay,199194731,Mason Maron,robins
+Red-breasted Sapsucker,122448861,Ryan Schain,woodpecker
+Virginia Rail,348859461,Matt Dalessio,rail_crake
+Short-billed Gull,320808971,Mason Maron,seabirds
+Song Sparrow,47325951,Steven Mlodinow,lbb
+Savannah Sparrow,489712521,Jason Vassallo,lbb
+Steller's Jay,228862051,Mason Maron,robins
+Bushtit,504944231,Mason Maron,tit
+Pileated Woodpecker,220754371,Mason Maron,woodpecker
+Black-billed Magpie,272907441,Mason Maron,black_white
+Great Gray Owl,325390921,Mason Maron,owl
+Pileated Woodpecker,220798381,Mason Maron,woodpecker
+Tree Swallow,457788571,Mason Maron,swallows
+American Wigeon,77841221,Joshua  Glant,ducks
+Short-eared Owl,615330376,Mason Maron,owl
+Chestnut-backed Chickadee,633870156,Mason Maron,tit
+Rock Wren,619917266,Mason Maron,lbb
+Gray-crowned Rosy-Finch,471840651,Mason Maron,finches
+Marbled Godwit,262913381,Jason Vassallo,hard_waders
+Glaucous Gull,328272351,Danny Tipton,seabirds
+Yellow-rumped Warbler,390930951,Mason Maron,lbb
+Bufflehead,630730316,Mason Maron,funky_ducks
+Brambling,515079421,Liam Hutcheson,lbb
+Pacific Wren,502814941,Mason Maron,lbb
+Great Horned Owl,316138711,Mason Maron,owl
+Mountain Bluebird,454881821,Mason Maron,little_colourful_birds
+Semipalmated Plover,331127091,Mason Maron,plovers
+Killdeer,287345321,Mason Maron,plovers
+Short-billed Gull,390981231,Mason Maron,seabirds
+Surfbird,261388341,Tyler Ficker,hard_waders
+Chestnut-backed Chickadee,216270821,Mason Maron,tit
+Gray-crowned Rosy-Finch,611178889,Nathan Wall,finches
+American White Pelican,229543691,Mason Maron,water_birds
+Veery,476610461,Mason Maron,ground_mbb
+Pine Siskin,278541611,Mason Maron,little_colourful_birds
+Red-winged Blackbird,533086861,Katie Warner,ground_mbb
+Ruby-crowned Kinglet,389954841,Mason Maron,lbb
+Black-throated Green Warbler,508260211,Mason Maron,lbb
+Snow Bunting,304157111,Mason Maron,lbb
+Ring-necked Pheasant,484408801,Mason Maron,walking_birds
+Pacific Wren,507999611,Mason Maron,lbb
+Surfbird,284493641,Mason Maron,hard_waders
+Pacific Loon,635590274,Janine Schutt,puffin_and_co
+Northern Pygmy-Owl,609618462,Nathan Wall,owl
+Snow Bunting,302620991,Mason Maron,lbb
+Sharp-shinned Hawk,373195831,Mason Maron,big_raptors
+Pine Grosbeak,626405506,Mason Maron,finches
+American Avocet,342141211,Mason Maron,colourful_waders
+Savannah Sparrow,259299901,Mason Maron,lbb
+Golden-crowned Kinglet,50087211,Jacob McGinnis,lbb
+Swainson's Hawk,326993361,Mason Maron,big_raptors
+Rock Sandpiper,287645601,Mason Maron,plovers
+Black-bellied Plover,312138611,Garrett Hughes,plovers
+Hutton's Vireo,625551719,Mason Maron,lbb
+Bald Eagle,285750531,Mason Maron,big_raptors
+Great Horned Owl,543321491,Brent Angelo,owl
+Mourning Dove,278637151,Mason Maron,pigeons_doves
+Warbling Vireo,460582561,Mason Maron,lbb
+South Polar Skua,254614491,Mason Maron,seabirds
+Nazca Booby,609593428,Liam Hutcheson,seabirds
+Rock Sandpiper,184222441,Kevin Vande Vusse,plovers
+Great Gray Owl,628333477,Xin Cen,owl
+Violet-green Swallow,230600001,Garrett Hughes,swallows
+Black-footed Albatross,174356001,Jonathan Eckerson,seabirds
+Rock Pigeon,415443351,Christian Hagenlocher,pigeons_doves
+Swainson's Hawk,327302041,Mason Maron,big_raptors
+Marbled Murrelet,217129231,Eric Ellingson,puffin_and_co
+Bewick's Wren,282064841,Mason Maron,lbb
+Ring-necked Duck,521419071,Mason Maron,ducks
+Violet-green Swallow,330991381,Katie Warner,swallows
+Killdeer,399493761,Katie Warner,plovers
+Common Yellowthroat,241557611,Mason Maron,little_colourful_birds
+Chestnut-backed Chickadee,302089001,Mason Maron,tit
+Chestnut-collared Longspur,624709383,Mason Maron,lbb
+Northern Pygmy-Owl,615196639,Nathan Wall,owl
+Bald Eagle,51807291,Tony V,big_raptors
+Siberian Accentor,217651061,Matthew Grube,mbb
+Pigeon Guillemot,633261620,Xin Cen,pigeons_doves
+White-crowned Sparrow,330784011,Mason Maron,lbb
+Marbled Godwit,634620743,Mason Maron,hard_waders
+Brandt's Cormorant,301656361,Garrett Hughes,cormorant
+Black-headed Grosbeak,235646161,Mason Maron,finches
+Anna's Hummingbird,47325151,Steven Mlodinow,hummingbird
+Semipalmated Plover,330270041,Mason Maron,plovers
+Lapland Longspur,610738808,Mason Maron,lbb
+Hutton's Vireo,446898881,Mason Maron,lbb
+Ruby-crowned Kinglet,389954811,Mason Maron,lbb
+Anna's Hummingbird,208508961,Mason Maron,hummingbird
+Red Crossbill,455708481,Mason Maron,little_colourful_birds
+Black Oystercatcher,626576443,Rhianna Truex,plovers
+Rufous Hummingbird,305553301,Mason Maron,hummingbird
+Pine Grosbeak,626427538,Trillium Magus,finches
+Swallow-tailed Gull,67928421,Amar Ayyash,swallows
+American Coot,312179081,Mason Maron,water_birds
+Mallard,230167401,Mason Maron,ducks
+Purple Finch,228862071,Mason Maron,finches
+Northern Harrier,315587181,Ken Pitts,big_raptors
+Northern Harrier,533086261,Katie Warner,big_raptors
+Chestnut-backed Chickadee,269945521,Ian Davies,tit
+Red-tailed Hawk,393110761,Ken Pitts,big_raptors
+Bewick's Wren,121818761,Ryan Schain,lbb
+Red-breasted Sapsucker,283305001,Mason Maron,woodpecker
+Ring-necked Duck,633146229,Mason Maron,ducks
+Yellow-rumped Warbler,630734530,Mason Maron,lbb
+Black-chinned Hummingbird,257637921,Mason Maron,hummingbird
+Harris's Sparrow,384860941,Seymore Gulls,lbb
+Say's Phoebe,572706711,Mason Maron,robins
+Snowy Owl,73880741,Eric Ellingson,owl
+Pacific Wren,224692871,Mason Maron,lbb
+Black-backed Woodpecker,558816261,Nathan Wall,woodpecker
+Tufted Puffin,347905291,David McQuade,puffin_and_co
+Northern Hawk Owl,626427001,Mason Maron,big_raptors
+Harlequin Duck,537275761,Mason Maron,ducks
+Bald Eagle,285750501,Mason Maron,big_raptors
+Pacific Wren,281217291,Mason Maron,lbb
+White-headed Woodpecker,182017111,Paul Maury,woodpecker
+California Gull,310589881,Danny Tipton,seabirds
+Mallard,317843691,Mason Maron,ducks
+Varied Thrush,28703721,Graham Gerdeman,ground_mbb
+Marbled Godwit,508382721,Joey McCracken,hard_waders
+Pacific Wren,633369380,Mason Maron,lbb
+American Dipper,630207261,Mason Maron,mbb
+Red-breasted Sapsucker,475308101,Mason Maron,woodpecker
+Rock Sandpiper,532118171,Liam Hutcheson,plovers
+American Crow,174367541,Jonathan Eckerson,black_white
+Anna's Hummingbird,189497751,Mason Maron,hummingbird
+Marbled Godwit,623600342,Dylan Osterhaus,hard_waders
+Green-winged Teal,323400201,Mason Maron,ducks
+Barn Swallow,227073431,Mason Maron,swallows
+Tree Swallow,226950991,Mason Maron,swallows
+Canyon Wren,326621771,Mason Maron,lbb
+Western Grebe,75800841,Joshua  Glant,water_birds
+Steller's Jay,263002621,Mason Maron,robins
+Redpoll,611133610,Mason Maron,lbb
+Brandt's Cormorant,621794096,Mason Maron,cormorant
+Trumpeter Swan,614128875,Andrew Thomas 🦅🪶,geese
+Killdeer,399493851,Katie Warner,plovers
+Killdeer,399493801,Katie Warner,plovers
+Virginia Rail,285950491,Mason Maron,rail_crake
+Calliope Hummingbird,477711431,Mason Maron,hummingbird
+Killdeer,333245841,Mason Maron,plovers
+Prairie Falcon,393786881,Mason Maron,small_raptors
+Least Sandpiper,334119751,Mason Maron,plovers
+Hudsonian Godwit,333256571,Mason Maron,hard_waders
+Mountain Chickadee,69548921,Tanner Martin,tit
+Lesser Goldfinch,282340351,Mason Maron,finches
+Northern Harrier,313939941,Ken Pitts,big_raptors
+Black-headed Grosbeak,164570411,Eric Ellingson,finches
+Marsh Wren,619536821,Christopher Carlson,lbb
+American Golden-Plover,369325441,Timothy Garland,plovers
+Wood Duck,281436621,Mason Maron,ducks
+Tropical Kingbird,626559129,Liam Hutcheson,wagfantail
+Pileated Woodpecker,150625441,Mason Maron,woodpecker
+Northern Pygmy-Owl,615196458,Nathan Wall,owl
+Pacific Wren,202580051,Garrett Hughes,lbb
+Black-footed Albatross,328270421,Danny Tipton,seabirds
+MacGillivray's Warbler,479250091,Mason Maron,lbb
+Pygmy Nuthatch,608306999,Micah Anderson,lbb
+Snowy Plover,610449893,Mason Maron,plovers
+Hammond's Flycatcher,479725521,Mason Maron,wagfantail
+Ruddy Turnstone,305925031,Garrett Hughes,colourful_waders
+Rock Pigeon,310588771,Danny Tipton,pigeons_doves
+Short-eared Owl,613298634,Katie Warner,owl
+Prairie Falcon,302179881,Mason Maron,small_raptors
+Western Tanager,479582331,Mason Maron,little_colourful_birds
+Great Horned Owl,316138371,Mason Maron,owl
+Heermann's Gull,610803049,Nathan Wall,seabirds
+Boreal Owl,180048841,Christian Hagenlocher,owl
+Hairy Woodpecker,181116921,Mason Maron,woodpecker
+Barred Owl,384518201,Katie Warner,owl
+Red-footed Booby,622192275,Mason Maron,seabirds
+Tree Swallow,322331481,Mason Maron,swallows
+Semipalmated Plover,635280013,Mason Maron,plovers
+American Kestrel,630123085,Nathan Wall,small_raptors
+Great Gray Owl,628333480,Xin Cen,owl
+Steller's Jay,617895579,Mason Maron,robins
+Trumpeter Swan,614128872,Andrew Thomas 🦅🪶,geese
+Bank Swallow,568718441,Liam Hutcheson,swallows
+American Redstart,479988491,Mason Maron,robins
+Sooty Grouse,251503911,Mason Maron,quails
+Black Turnstone,284349941,Mason Maron,colourful_waders
+American Crow,188179371,Mason Maron,black_white
+Anna's Hummingbird,56829481,Grace Oliver,hummingbird
+Surfbird,391175481,Mason Maron,hard_waders
+Rough-legged Hawk,311455221,RJ Baltierra,big_raptors
+Least Sandpiper,608702731,Mason Maron,plovers
+Hammond's Flycatcher,485787951,Mason Maron,wagfantail
+Northern Flicker,230999961,Mason Maron,woodpecker
+Red Crossbill,316838271,Mason Maron,little_colourful_birds
+Red-naped Sapsucker,61511411,Marlene Cashen,woodpecker
+Pigeon Guillemot,227794221,Mason Maron,pigeons_doves
+Greater Scaup,99198871,Eric Heisey,ducks
+Snow Bunting,303381331,Mason Maron,lbb
+Red-winged Blackbird,341809521,Mason Maron,ground_mbb
+Short-eared Owl,613289658,Katie Warner,owl
+White-headed Woodpecker,476667741,Mason Maron,woodpecker
+Wood Duck,525288931,Oscar Wainwright,ducks
+Hutton's Vireo,121818681,Ryan Schain,lbb
+Least Sandpiper,634704456,Trillium Magus,plovers
+Black-capped Chickadee,633524407,Mason Maron,tit
+Grasshopper Sparrow,621368825,Mason Maron,lbb
+Black Turnstone,390981021,Mason Maron,colourful_waders
+Killdeer,200766851,Wayne Sladek,plovers
+Northern Hawk Owl,626427536,Garrett Hughes,big_raptors
+Black-footed Albatross,174355971,Jonathan Eckerson,seabirds
+Snow Bunting,303709951,Mason Maron,lbb
+Semipalmated Plover,331772921,Mason Maron,plovers
+Black Turnstone,197331841,Mason Maron,colourful_waders
+Red Phalarope,526384481,Joey McCracken,colourful_waders
+Rhinoceros Auklet,474780941,Eric Ellingson,puffin_and_co
+Steller's Jay,172070541,Drew Beamer,robins
+Cassin's Finch,340746321,Mason Maron,finches
+Band-tailed Pigeon,443781681,Mason Maron,pigeons_doves
+Loggerhead Shrike,52864161,Christopher Clark,songbird
+Dark-eyed Junco,217848501,Mason Maron,lbb
+Eastern Bluebird,509408321,Lisa Hill,little_colourful_birds
+Varied Thrush,515928471,Liam Hutcheson,ground_mbb
+Black Turnstone,531036701,Oscar Wainwright,colourful_waders
+Northern Pintail,429491951,Christian Hagenlocher,ducks
+Ruby-crowned Kinglet,389954911,Mason Maron,lbb
+Pelagic Cormorant,511602521,Mason Maron,cormorant
+Little Bunting,610450504,Liam Hutcheson,lbb
+Osprey,458108741,Mason Maron,big_raptors
+Rough-legged Hawk,319350221,Mason Maron,big_raptors
+Gray-crowned Rosy-Finch,394635041,Lisa Hill,finches
+Rufous Hummingbird,549985061,Nathan Wall,hummingbird
+Sora,295616381,Matt Dalessio,rail_crake
+Surfbird,287645591,Mason Maron,hard_waders
+Red-breasted Sapsucker,475307721,Mason Maron,woodpecker
+Surfbird,391174981,Mason Maron,hard_waders
+Bufflehead,295616351,Matt Dalessio,funky_ducks
+Sooty Grouse,352361561,Herbert Fechter,quails
+Rufous Hummingbird,209510681,Ken Pitts,hummingbird
+Gray-crowned Rosy-Finch,611178876,Nathan Wall,finches
+Bald Eagle,285750571,Mason Maron,big_raptors
+American Crow,174367521,Jonathan Eckerson,black_white
+Rhinoceros Auklet,217129351,Eric Ellingson,puffin_and_co
+Red-tailed Hawk,319472391,Mason Maron,big_raptors
+White-crowned Sparrow,231393401,Mason Maron,lbb
+Rufous Hummingbird,350892691,Ann Stinely,hummingbird
+American Dipper,308906641,Garrett Hughes,mbb
+Golden-crowned Kinglet,627189349,Mason Maron,lbb
+Least Sandpiper,400163201,Neil Pankey,plovers
+Ruby-crowned Kinglet,389954771,Mason Maron,lbb
+South Polar Skua,254614501,Mason Maron,seabirds
+Ruby-crowned Kinglet,389954781,Mason Maron,lbb
+Long-tailed Jaeger,475869191,Mason Maron,seabirds
+Varied Thrush,525627151,Oscar Wainwright,ground_mbb
+Siberian Accentor,213771151,mark lundgren,mbb
+Black-capped Chickadee,317647531,Mason Maron,tit
+Mountain Chickadee,155067991,Michael Woodruff,tit
+Short-billed Gull,623580314,Mason Maron,seabirds
+Purple Martin,622253620,Liam Hutcheson,swallows
+Mountain Plover,192229351,Janine Schutt,plovers
+Pacific Wren,630883461,Nathan Wall,lbb
+Pine Grosbeak,630770270,Nathan Heath,finches
+Chestnut-collared Longspur,624729177,Mason Maron,lbb
+Wilson's Warbler,623606635,Liam Hutcheson,lbb
+Northern Harrier,514076121,Ken Pitts,big_raptors
+Orange-crowned Warbler,476666361,Mason Maron,lbb
+Black-necked Stilt,374200191,Marcus Vorwaller 🦆,colourful_waders
+Anna's Hummingbird,121818611,Ryan Schain,hummingbird
+Trumpeter Swan,399298991,Carl Bergstrom,geese
+Common Murre,175916631,Phil Green,puffin_and_co
+Clark's Nutcracker,257195801,Mason Maron,mbb
+White-breasted Nuthatch,626845024,Mason Maron,lbb
+White-tailed Ptarmigan,117115981,Will Brooks,quails
+Least Sandpiper,174356111,Jonathan Eckerson,plovers
+Common Yellowthroat,164596101,Mason Maron,little_colourful_birds
+Violet-green Swallow,331336371,Mason Maron,swallows
+Hooded Oriole,506675371,Mason Maron,honeyeaters
+Canada Jay,290826271,Mason Maron,robins
+Long-eared Owl,525398601,Liam Hutcheson,owl
+Short-eared Owl,540035391,Liam Hutcheson,owl
+Great Blue Heron,463504541,Mason Maron,herons
+Great Gray Owl,426374681,RJ Baltierra,owl
+Surfbird,391174871,Mason Maron,hard_waders
+Gadwall,544675931,Mason Maron,ducks
+Snowy Plover,626923368,Mason Maron,plovers
+Western Gull,351624571,Mason Maron,seabirds
+White-tailed Ptarmigan,473681391,Jason Ransom,quails
+Ring-necked Pheasant,212385761,Mason Maron,walking_birds
+Hutton's Vireo,633415320,Mason Maron,lbb
+Gray-crowned Rosy-Finch,611052760,Neil Pankey,finches
+Yellow-billed Loon,527248371,Liam Hutcheson,puffin_and_co
+American Barn Owl,473868231,Nathan Wall,owl
+Gray-crowned Rosy-Finch,611178823,Nathan Wall,finches
+Dusky Grouse,578165021,Liam Hutcheson,quails
+Savannah Sparrow,570663701,Mason Maron,lbb
+Dark-eyed Junco,511970421,Liam Hutcheson,lbb
+Yellow-headed Blackbird,461141181,Mason Maron,ground_mbb
+Killdeer,399493841,Katie Warner,plovers
+Barred Owl,219439001,Garrett Hughes,owl
+Surfbird,391175471,Mason Maron,hard_waders
+Bullock's Oriole,622047427,John Davis,honeyeaters
+Chestnut-backed Chickadee,617081560,Zak Pohlen,tit
+American Bittern,243056491,Susan Myers,herons
+Semipalmated Plover,227556541,Mason Maron,plovers
+Snow Bunting,304157081,Mason Maron,lbb
+Fork-tailed Storm-Petrel,349417551,Mason Maron,seabirds
+Snow Bunting,299754021,Garrett Hughes,lbb
+Snow Bunting,303961271,Mason Maron,lbb
+Mountain Bluebird,454881841,Mason Maron,little_colourful_birds
+Burrowing Owl,107180481,Amanda Sills,owl
+American Dipper,60553151,Ryan Shaw,mbb
+Say's Phoebe,315755501,Mason Maron,robins
+Eurasian Wigeon,60553321,Ryan Shaw,ducks
+Cedar Waxwing,279486871,Mason Maron,little_colourful_birds
+Heermann's Gull,174358201,Jonathan Eckerson,seabirds
+Short-billed Gull,630874730,Mason Maron,seabirds
+Varied Thrush,122453231,Ryan Schain,ground_mbb
+Barred Owl,221738711,Mason Maron,owl
+Red Knot,617081626,Zak Pohlen,hard_waders
+Killdeer,399493811,Katie Warner,plovers
+Northern Pygmy-Owl,627062333,Nathan Wall,owl
+Chestnut-backed Chickadee,495492931,Mason Maron,tit
+Western Screech-Owl,631555887,Liam Hutcheson,owl
+White-winged Scoter,433360951,Andrew Thomas 🦅🪶,funky_ducks
+Pink-footed Shearwater,482495961,Liam Hutcheson,seabirds
+American Three-toed Woodpecker,591092671,Nathan Wall,woodpecker
+Glaucous-winged Gull,216226781,Mason Maron,seabirds
+Gyrfalcon,32859931,Michael Woodruff,small_raptors
+Warbling Vireo,177166991,Rachel Hudson,lbb
+Belted Kingfisher,195946851,Mason Maron,kingfishers
+Whooper Swan,416182481,Thomas Ford-Hutchinson,geese
+Common Raven,482241081,Mason Maron,black_white
+Violet-green Swallow,330991241,Katie Warner,swallows
+Snow Bunting,304157101,Mason Maron,lbb
+Black-capped Chickadee,199969591,Mason Maron,tit
+Dunlin,206940501,Mason Maron,plovers
+Song Sparrow,216536791,Mason Maron,lbb
+Chestnut-collared Longspur,624767559,Mason Maron,lbb
+Black Turnstone,390980961,Mason Maron,colourful_waders
+Northern Saw-whet Owl,314932871,Nathan Wall,owl
+MacGillivray's Warbler,161377991,Mason Maron,lbb
+Spotted Towhee,217848371,Mason Maron,finches
+Snowy Owl,416356131,Ali Kasperzak,owl
+Trumpeter Swan,615709494,Leah Turner,geese
+Pigeon Guillemot,172342341,Drew Beamer,pigeons_doves
+Glaucous-winged Gull,321959241,Mason Maron,seabirds
+Say's Phoebe,304573901,Mason Maron,robins
+Brewer's Blackbird,229774111,Mason Maron,ground_mbb
+Boreal Owl,490507471,Christopher Lindsey,owl
+Red-naped Sapsucker,480514911,Mason Maron,woodpecker
+Black-footed Albatross,174356301,Jonathan Eckerson,seabirds
+Pigeon Guillemot,172140331,Max  Chalfin-Jacobs,pigeons_doves
+Hooded Merganser,520428931,Nathan Wall,funky_ducks
+Brown Pelican,256852211,Mason Maron,water_birds
+Canada Jay,166324471,Mason Maron,robins
+Trumpeter Swan,614128879,Andrew Thomas 🦅🪶,geese
+Red-breasted Sapsucker,283304911,Mason Maron,woodpecker
+Pacific Loon,635591504,Janine Schutt,puffin_and_co
+Yellow-rumped Warbler,630734551,Mason Maron,lbb
+Black Turnstone,614840070,Ilya Povalyaev,colourful_waders
+White-tailed Ptarmigan,610031581,Nathan Wall,quails
+Northern House Wren,569959741,Mason Maron,lbb
+Red Crossbill,442708481,Andrew Thomas 🦅🪶,little_colourful_birds
+Rock Pigeon,415443321,Christian Hagenlocher,pigeons_doves
+Semipalmated Plover,331772911,Mason Maron,plovers
+Anna's Hummingbird,197746041,Mason Maron,hummingbird
+Calliope Hummingbird,101180331,Tanner Martin,hummingbird
+House Finch,267586101,Mason Maron,finches
+Ross's Gull,191331021,Ryan Merrill,seabirds
+Wandering Tattler,66854601,Eric Ellingson,hard_waders
+Long-eared Owl,305344121,Kenneth Trease,owl
+Sooty Grouse,251503991,Mason Maron,quails
+Northern Pygmy-Owl,613105544,Nathan Wall,owl
+Red-shouldered Hawk,613402271,Ken Pitts,big_raptors
+Western Bluebird,631885514,Mason Maron,little_colourful_birds
+Buller's Shearwater,372102441,Alex Lamoreaux,seabirds
+American Crow,174367511,Jonathan Eckerson,black_white
+Boreal Owl,84003441,Nicholas Brasier,owl
+Gray-crowned Rosy-Finch,483093111,Mason Maron,finches
+Townsend's Solitaire,308527971,Jordan Gunn,ground_mbb
+Trumpeter Swan,615709480,Leah Turner,geese
+Steller's Jay,75762831,Joshua Covill,robins
+Marsh Wren,215875761,Mason Maron,lbb
+Chestnut-backed Chickadee,190386171,Mason Maron,tit
+Lapland Longspur,610699431,Mason Maron,lbb
+Little Stint,175188151,Jason Vassallo,hard_waders
+Short-eared Owl,61610321,maxine reid,owl
+Golden-crowned Kinglet,299721611,Garrett Hughes,lbb
+Long-tailed Duck,216946861,Ilya Povalyaev,ducks
+Black-chinned Hummingbird,101180401,Tanner Martin,hummingbird
+Lesser Goldfinch,630241391,Mason Maron,finches
+American Crow,610042358,Mason Maron,black_white
+Northern Harrier,284250071,Mike Melton,big_raptors
+Red-winged Blackbird,222061211,Mason Maron,ground_mbb
+Anna's Hummingbird,211121071,Mason Maron,hummingbird
+White-crowned Sparrow,609514262,Mason Maron,lbb
+Great Gray Owl,628323581,Xin Cen,owl
+Trumpeter Swan,614128880,Andrew Thomas 🦅🪶,geese
+Barn Swallow,565837791,Ken Pitts,swallows
+Barred Owl,511226871,Rhianna Truex,owl
+American Crow,174367531,Jonathan Eckerson,black_white
+Bald Eagle,168630921,Rio Dante,big_raptors
+Harris's Sparrow,508025041,Liam Hutcheson,lbb
+Tree Swallow,584597401,Mason Maron,swallows
+Mallard,164611761,Mason Maron,ducks
+Marbled Murrelet,218879811,Eric Ellingson,puffin_and_co
+California Scrub-Jay,396498451,Oscar Wainwright,robins
+Lesser Goldfinch,278541821,Mason Maron,finches
+Canada Goose,184785831,Mason Maron,geese
+Rhinoceros Auklet,167642981,Eric Ellingson,puffin_and_co
+Rock Pigeon,310589761,Danny Tipton,pigeons_doves
+Dark-eyed Junco,165843201,Mason Maron,lbb
+Glaucous-winged Gull,174367571,Jonathan Eckerson,seabirds
+Gray-crowned Rosy-Finch,186910641,Mason Maron,finches
+Song Sparrow,274529011,Mason Maron,lbb
+Yellow-rumped Warbler,226599371,Garrett Hughes,lbb
+Indigo Bunting,129469791,Jason Vassallo,lbb
+Song Sparrow,207297161,Mason Maron,lbb
+American Pipit,472870091,Mason Maron,mbb
+American Dipper,619365868,Mason Maron,mbb
+Chestnut-sided Warbler,584597001,Mason Maron,lbb
+Song Sparrow,390980511,Mason Maron,lbb
+Long-tailed Duck,218880131,Eric Ellingson,ducks
+Fox Sparrow,122396691,Ryan Schain,lbb
+Western Screech-Owl,632780667,Xin Cen,owl
+Gray-crowned Rosy-Finch,383925381,Mason Maron,finches
+Common Loon,619433263,Mason Maron,puffin_and_co
+Gray Partridge,510198451,Liam Hutcheson,quails
+Black-chinned Hummingbird,257637991,Mason Maron,hummingbird
+Long-eared Owl,514401941,Nathan Wall,owl
+Red-necked Grebe,540403001,Mason Maron,water_birds
+Ross's Gull,190939031,John P,seabirds
+Dark-eyed Junco,217848491,Mason Maron,lbb
+Northern Pygmy-Owl,631986518,Nathan Wall,owl
+Scissor-tailed Flycatcher,610750060,Nathan Wall,wagfantail
+Black Turnstone,390981011,Mason Maron,colourful_waders
+Fox Sparrow,390980351,Mason Maron,lbb
+Black-footed Albatross,174356031,Jonathan Eckerson,seabirds
+Calliope Hummingbird,257980991,Mason Maron,hummingbird
+Pelagic Cormorant,113842721,Sean Fitzgerald,cormorant
+Pigeon Guillemot,172342361,Drew Beamer,pigeons_doves
+Greater White-fronted Goose,197974561,Mason Maron,geese
+Northern Harrier,615709346,Leah Turner,big_raptors
+Fox Sparrow,513178351,Garrett Hughes,lbb
+Short-eared Owl,307867051,RJ Baltierra,owl
+Ruby-crowned Kinglet,271364631,Mason Maron,lbb
+Mallard,196121501,Mason Maron,ducks
+Song Sparrow,101464381,Joshua  Glant,lbb
+Gray-crowned Rosy-Finch,383925401,Mason Maron,finches
+Black-chinned Hummingbird,257638001,Mason Maron,hummingbird
+Rock Sandpiper,284945231,Mason Maron,plovers
+American Goldfinch,278246261,Mason Maron,finches
+Lesser Goldfinch,282340311,Mason Maron,finches
+American Robin,213785381,Mason Maron,robins
+Barred Owl,633707385,Xin Cen,owl
+Black-throated Gray Warbler,617081556,Zak Pohlen,lbb
+Pacific Wren,613734756,Charlotte Byers,lbb
+White-crowned Sparrow,511325891,John Troth,lbb
+Wood Duck,281436361,Mason Maron,ducks
+Marbled Godwit,262923801,Jason Vassallo,hard_waders
+Least Sandpiper,174356131,Jonathan Eckerson,plovers
+Sooty Grouse,167648871,Eric Ellingson,quails
+Varied Thrush,69548671,Tanner Martin,ground_mbb
+Long-billed Dowitcher,73523541,Amit Kulkarni,hard_waders
+Dunlin,212187391,Mason Maron,plovers
+Ring-necked Duck,631495618,Mason Maron,ducks
+Green-winged Teal,393092731,Ken Pitts,ducks
+Golden-crowned Kinglet,43912351,Jason Vassallo,lbb
+Golden-crowned Kinglet,182126501,Anthony Gliozzo,lbb
+Whooper Swan,414984381,Christian Hagenlocher,geese
+Great Gray Owl,628323786,Xin Cen,owl
+Mallard,317843711,Mason Maron,ducks
+Redhead,98997111,Russ Morgan,ducks
+American Dipper,180935091,Mason Maron,mbb
+Mallard,631051887,Xin Cen,ducks
+Cackling Goose,389962581,Mason Maron,geese
+Ruby-crowned Kinglet,211606951,Ken Pitts,lbb
+Osprey,636006917,Spurthi P,big_raptors
+Varied Thrush,623587767,Mason Maron,ground_mbb
+Heermann's Gull,610803114,Nathan Wall,seabirds
+Northern Fulmar,269813711,Ian Davies,seabirds
+Black Oystercatcher,219266701,Anthony Gliozzo,plovers
+Canada Jay,172070991,Drew Beamer,robins
+Canyon Wren,611253174,Liam Hutcheson,lbb
+Varied Thrush,551961841,Liam Hutcheson,ground_mbb
+Ring-billed Gull,500991661,Mason Maron,seabirds
+Snowy Owl,302498201,Garrett Hughes,owl
+Dark-eyed Junco,225361221,Mason Maron,lbb
+Marbled Murrelet,218879761,Eric Ellingson,puffin_and_co
+Canyon Wren,369814371,Mason Maron,lbb
+Red-tailed Hawk,269956501,Mason Maron,big_raptors
+Hermit Thrush,251507921,Mason Maron,ground_mbb
+Cassin's Finch,307739671,Mason Maron,finches
+Sharp-tailed Grouse,613912524,Mason Maron,quails
+Northern Harrier,185737891,Janine Schutt,big_raptors
+Cooper's Hawk,175320811,Mason Maron,big_raptors
+MacGillivray's Warbler,345270041,John Riegsecker,lbb
+Violet-green Swallow,104558081,Joshua  Glant,swallows
+Short-billed Gull,371513481,Neil Pankey,seabirds
+Red-winged Blackbird,258219691,Mason Maron,ground_mbb
+Yellow-headed Blackbird,234150231,Mason Maron,ground_mbb
+American Dipper,632620913,Dorian Anderson,mbb
+American Robin,190543721,Mason Maron,robins
+American Tree Sparrow,385091051,Anthony Gliozzo,lbb
+South Polar Skua,254614461,Mason Maron,seabirds
+Chestnut-backed Chickadee,302088991,Mason Maron,tit
+Golden-crowned Sparrow,226646271,Mason Maron,lbb
+Greater White-fronted Goose,377438201,Neil Pankey,geese
+Great Gray Owl,628333478,Xin Cen,owl
+Western Bluebird,400608281,Katie Warner,little_colourful_birds
+Black-throated Gray Warbler,617580328,Nathan Wall,lbb
+American Goldfinch,635590979,Janine Schutt,finches
+Barred Owl,633707384,Xin Cen,owl
+Burrowing Owl,631133152,Liam Wallace,owl
+Black-backed Woodpecker,617427427,Nathan Wall,woodpecker
+Sharp-shinned Hawk,302332061,Jim Parrish,big_raptors
+Wood Duck,281436411,Mason Maron,ducks
+Sharp-tailed Sandpiper,260743091,Ian Davies,plovers
+Black-footed Albatross,174355991,Jonathan Eckerson,seabirds
+Black-backed Woodpecker,617427354,Nathan Wall,woodpecker
+Northern Pygmy-Owl,609050544,Jordan Gunn,owl
+Common Loon,75762651,Joshua Covill,puffin_and_co
+Field Sparrow,38680861,Eric Heisey,lbb
+Dark-eyed Junco,189497761,Mason Maron,lbb
+American Robin,290486881,Garrett Hughes,robins
+American Dipper,626888937,Mason Maron,mbb
+Brant,138633611,Mason Maron,geese
+Common Crane,331214821,Darcy Barry,egrets
+Black-footed Albatross,173291751,Janine Schutt,seabirds
+Brown Pelican,168265341,Mason Maron,water_birds
+Snow Goose,191153641,Mason Maron,geese
+Northern Pygmy-Owl,609618504,Nathan Wall,owl
+American Wigeon,77794761,Joshua  Glant,ducks
+Common Crane,332753441,Bill Potter,egrets
+Lesser Black-backed Gull,105334771,Joshua  Glant,seabirds
+King Eider,610129035,Mason Maron,funky_ducks
+American Barn Owl,623607196,Liam Hutcheson,owl
+Black-backed Woodpecker,558815711,Nathan Wall,woodpecker
+Yellow-billed Loon,420336221,Raphael Fennimore,puffin_and_co
+Tufted Puffin,167642941,Eric Ellingson,puffin_and_co
+Yellow-headed Blackbird,634704483,Trillium Magus,ground_mbb
+Horned Grebe,621996975,Mason Maron,water_birds
+Rock Wren,621093612,Mason Maron,lbb
+Barred Owl,620160000,Jason Vassallo,owl
+Spruce Grouse,481709641,Mason Maron,quails
+Calliope Hummingbird,477711451,Mason Maron,hummingbird
+Long-tailed Jaeger,475869591,Mason Maron,seabirds
+Rock Pigeon,310589001,Danny Tipton,pigeons_doves
+Sharp-tailed Sandpiper,260742921,Ian Davies,plovers
+Sharp-tailed Sandpiper,260742911,Ian Davies,plovers
+Grasshopper Sparrow,560962771,Mason Maron,lbb
+Cedar Waxwing,186910591,Mason Maron,little_colourful_birds
+Bald Eagle,216228531,Mason Maron,big_raptors
+Rough-legged Hawk,510198551,Liam Hutcheson,big_raptors
+Black-headed Grosbeak,37791821,Eric Ellingson,finches
+Burrowing Owl,383000601,Nathan Wall,owl
+Red-winged Blackbird,224911851,Mason Maron,ground_mbb
+Fox Sparrow,217848571,Mason Maron,lbb
+Yellow-headed Blackbird,166325271,Mason Maron,ground_mbb
+Canada Jay,622558335,Will Sweet,robins
+Ross's Gull,191330961,Ryan Merrill,seabirds
+Marbled Murrelet,69373101,Ryan Shaw,puffin_and_co
+Townsend's Warbler,628788052,Nathan Wall,lbb
+Hooded Merganser,290891591,Marcus Vorwaller 🦆,funky_ducks
+Ruffed Grouse,248375191,RJ Baltierra,quails
+Golden-crowned Sparrow,384886151,Joey McCracken,lbb
+Belted Kingfisher,46180531,Kathryn Keith,kingfishers
+Northern Pygmy-Owl,631599430,Mike Melton,owl
+Ring-necked Duck,631328366,Mason Maron,ducks
+Tufted Puffin,622053492,Eric Ellingson,puffin_and_co
+Snowy Plover,330299631,Mason Maron,plovers
+Sooty Grouse,169457591,Patrick Van Thull,quails
+Belted Kingfisher,122366971,Ryan Schain,kingfishers
+White-crowned Sparrow,230168621,Mason Maron,lbb
+Sooty Shearwater,168248311,Mason Maron,seabirds
+Song Sparrow,149638351,Mason Maron,lbb
+Killdeer,163341091,Mason Maron,plovers
+House Sparrow,213785331,Mason Maron,lbb
+Black-headed Grosbeak,236497871,Mason Maron,finches
+Red-winged Blackbird,219265741,Mason Maron,ground_mbb
+Northern Saw-whet Owl,314932721,Nathan Wall,owl
+Mallard,163342771,Mason Maron,ducks
+Bald Eagle,51807221,Tony V,big_raptors
+Golden-crowned Sparrow,226646251,Mason Maron,lbb
+Northern Flicker,94712211,Will Brooks,woodpecker
+Little Bunting,610450505,Liam Hutcheson,lbb
+Least Sandpiper,334119691,Mason Maron,plovers
+Lesser Yellowlegs,171357871,Ryan Merrill,hard_waders
+Hawaiian Petrel,478201231,Westport Seabirds,seabirds
+Pacific Wren,544884531,Nathan Wall,lbb
+Great Gray Owl,49941061,Dasha Gudalewicz,owl
+Barred Owl,611221176,Marlene Cashen,owl
+Scissor-tailed Flycatcher,610385951,Christopher Lindsey,wagfantail
+American Dipper,504999171,Garrett Hughes,mbb
+Cinnamon Teal,100528331,Nadine D,ducks
+Sabine's Gull,636447029,Eric Ellingson,seabirds
+Ruff,636077954,Ken Pitts,colourful_waders
+Pacific Loon,635590269,Janine Schutt,puffin_and_co
+Pacific Loon,635590263,Janine Schutt,puffin_and_co
+Northern Pygmy-Owl,628115865,Ryan Merrill,owl
+Pine Grosbeak,626462981,Garrett Hughes,finches
+Pacific Golden-Plover,609233069,Nathan Wall,plovers
+Varied Thrush,515928461,Liam Hutcheson,ground_mbb
+Common Goldeneye,302861811,Andrew Thomas 🦅🪶,funky_ducks
+Ruby-crowned Kinglet,122397131,Ryan Schain,lbb
+Red Crossbill,613145113,Liam Hutcheson,little_colourful_birds
+Pileated Woodpecker,556656571,Nathan Wall,woodpecker
+Harlequin Duck,429476371,Christian Hagenlocher,ducks
+Fox Sparrow,199204621,Garrett Hughes,lbb
+Burrowing Owl,319877611,Mason Maron,owl
+Dunlin,285353021,Mason Maron,plovers
+Canada Jay,181273571,Mason Maron,robins
+Sooty Grouse,251346921,Mason Maron,quails
+Northern Pygmy-Owl,613105491,Nathan Wall,owl
+Ring-billed Gull,609267898,Mason Maron,seabirds
+White-crowned Sparrow,166325261,Mason Maron,lbb
+Pinyon Jay,609738687,Michelle Napoleon,robins
+Semipalmated Plover,330270061,Mason Maron,plovers
+Pine Grosbeak,626474896,Mason Maron,finches
+Sooty Grouse,251504001,Mason Maron,quails
+Swainson's Thrush,239365651,Mike Melton,ground_mbb
+Black-headed Grosbeak,335838491,Mason Maron,finches
+Sooty Grouse,169458401,Patrick Van Thull,quails
+Long-eared Owl,360338431,Andrew Thomas 🦅🪶,owl
+Rhinoceros Auklet,635585676,Janine Schutt,puffin_and_co
+Golden-crowned Sparrow,618475986,RJ Baltierra,lbb
+Black-necked Stilt,608382091,Micah Anderson,colourful_waders
+American Kestrel,545931501,Ken Pitts,small_raptors
+Short-eared Owl,525710201,Ken Pitts,owl
+Hooded Oriole,506675381,Mason Maron,honeyeaters
+Fox Sparrow,391087511,Fernando Ortega,lbb
+Fox Sparrow,390632381,Fernando Ortega,lbb
+Short-tailed Albatross,354315881,Jefferson Ashby,seabirds
+Barred Owl,339903431,Liam Hutcheson,owl
+Rock Pigeon,310588961,Danny Tipton,pigeons_doves
+Sharp-tailed Sandpiper,260742991,Ian Davies,plovers
+Glaucous-winged Gull,174367601,Jonathan Eckerson,seabirds
+Golden-crowned Sparrow,124852661,Yann Kolbeinsson,lbb
+California Gull,268575921,Mason Maron,seabirds
+Red-breasted Nuthatch,164229051,Mason Maron,lbb
+Northern House Wren,362991651,Mason Maron,lbb
+Canada Jay,166482731,Mason Maron,robins
+Northern Pygmy-Owl,613105523,Nathan Wall,owl
+Swainson's Hawk,176230601,Mason Maron,big_raptors
+Dark-eyed Junco,138999111,Mason Maron,lbb
+Eastern Bluebird,510784731,Vic Hubbard,little_colourful_birds
+American Three-toed Woodpecker,181116901,Mason Maron,woodpecker
+Gadwall,627243156,Mason Maron,ducks
+Northern Pygmy-Owl,615196494,Nathan Wall,owl
+Red-throated Loon,93658391,Ron Wheeler,puffin_and_co
+American Bittern,324486681,Katie Warner,herons
+Purple Finch,152900621,Mason Maron,finches
+American Wigeon,77792281,Joshua  Glant,ducks
+Hooded Merganser,212879481,Garrett Hughes,funky_ducks
+Pileated Woodpecker,220798311,Mason Maron,woodpecker
+Ruby-crowned Kinglet,176049531,Mason Maron,lbb
+Gray-crowned Rosy-Finch,611178839,Nathan Wall,finches
+Pacific Wren,543983641,Mason Maron,lbb
+Western Sandpiper,623882981,Jefferson Ashby,plovers
+Hooded Merganser,620083643,Josiah Chase,funky_ducks
+Bohemian Waxwing,614957721,Neil Paprocki,little_colourful_birds
+White-tailed Ptarmigan,585173671,Liam Hutcheson,quails
+Northern Harrier,520340251,Ken Pitts,big_raptors
+Wood Duck,324466281,Christian Hagenlocher,ducks
+Brandt's Cormorant,301656351,Garrett Hughes,cormorant
+Red-breasted Sapsucker,61618541,George Pagos,woodpecker
+White-crowned Sparrow,221271151,Mason Maron,lbb
+American Tree Sparrow,208552681,Mason Maron,lbb
+Calliope Hummingbird,242086701,Ken Pitts,hummingbird
+Dark-eyed Junco,119326661,Ryan Schain,lbb
+Yellow-headed Blackbird,232781811,Mason Maron,ground_mbb
+Rock Pigeon,321962971,Mason Maron,pigeons_doves
+Canada Jay,166320171,Garrett Hughes,robins
+Violet-green Swallow,164543601,Rachel Hudson,swallows
+Sooty Grouse,163510981,Janine Schutt,quails
+Sagebrush Sparrow,632968016,Trillium Magus,lbb
+Yellow-rumped Warbler,630734553,Mason Maron,lbb
+Steller's Jay,630514844,JD Hascup,robins
+Canyon Wren,626066196,Christopher Lindsey,lbb
+Red-necked Phalarope,619407490,Liam Hutcheson,colourful_waders
+Northern Fulmar,604893261,Blair Dudeck,seabirds
+Chestnut-sided Warbler,584596991,Mason Maron,lbb
+Wandering Tattler,474544621,Garrett Hughes,hard_waders
+Ruddy Turnstone,474544291,Garrett Hughes,colourful_waders
+Bewick's Wren,342124751,Carl Bergstrom,lbb
+Harlequin Duck,269309411,Ian Davies,ducks
+Mountain Bluebird,176339821,Evan Lipton,little_colourful_birds
+Brandt's Cormorant,621822340,Mason Maron,cormorant
+Short-eared Owl,523148151,Darchelle Worley,owl
+Common Merganser,76582191,Eric Ellingson,funky_ducks
+White-crowned Sparrow,158444731,Mason Maron,lbb
+Townsend's Solitaire,310609421,Nathan Wall,ground_mbb
+Snow Bunting,297817481,Jason Vassallo,lbb
+Black Turnstone,284227641,Mason Maron,colourful_waders
+Dunlin,617081641,Zak Pohlen,plovers
+Spotted Towhee,217848391,Mason Maron,finches
+Ruffed Grouse,92270471,Joshua  Glant,quails
+House Sparrow,45608361,John F. Gatchet,lbb
+Bohemian Waxwing,525532771,John P,little_colourful_birds
+Sooty Grouse,251505331,Mason Maron,quails
+White-crowned Sparrow,237592031,Mason Maron,lbb
+Anna's Hummingbird,219525911,Mason Maron,hummingbird
+House Sparrow,257316981,Mason Maron,lbb
+Savannah Sparrow,564251721,Leah Turner,lbb
+Mountain Bluebird,550530621,John Riegsecker,little_colourful_birds
+Black Tern,60476071,Ryan Shaw,seabirds
+Rhinoceros Auklet,635585681,Janine Schutt,puffin_and_co
+Red-footed Booby,622190405,Buster Morales,seabirds
+Canyon Wren,609442972,Christopher Lindsey,lbb
+Lincoln's Sparrow,513894041,Jacob Miller,lbb
+Dark-eyed Junco,512006901,Carl Bergstrom,lbb
+Chestnut-backed Chickadee,390632351,Fernando Ortega,tit
+Fox Sparrow,314588461,Ian Davies,lbb
+American Barn Owl,284797291,Carl Bergstrom,owl
+Snow Goose,217237021,Eric Ellingson,geese
+Rhinoceros Auklet,156053541,Eric Ellingson,puffin_and_co
+Song Sparrow,390632391,Fernando Ortega,lbb
+Magnolia Warbler,626588689,Liam Hutcheson,lbb
+Great Blue Heron,253346761,Mason Maron,herons
+Boreal Owl,624930175,Mason Maron,owl
+Red-breasted Nuthatch,171856461,Mason Maron,lbb
+Song Sparrow,217848441,Mason Maron,lbb
+Great Horned Owl,287522191,Mason Maron,owl
+Marbled Murrelet,156271061,Janine Schutt,puffin_and_co
+Calliope Hummingbird,104647011,Joshua  Glant,hummingbird
+Rufous Hummingbird,301595191,Mason Maron,hummingbird
+Brown Pelican,261389741,Tyler Ficker,water_birds
+White-tailed Ptarmigan,64736671,Christopher Lindsey,quails
+American Dipper,626879356,Mason Maron,mbb
+Rock Sandpiper,530919611,Nathan Wall,plovers
+Scripps's Murrelet,623295999,Liam Hutcheson,puffin_and_co
+Black-and-white Warbler,611477684,John P,lbb
+Calliope Hummingbird,568003871,Josiah Chase,hummingbird
+Black Oystercatcher,429486981,Christian Hagenlocher,plovers
+Tufted Puffin,347904951,David McQuade,puffin_and_co
+Cedar Waxwing,279486861,Mason Maron,little_colourful_birds
+Great Blue Heron,280428611,Garrett Hughes,herons
+Bar-tailed Godwit,624087300,Liam Hutcheson,hard_waders
+Emperor Goose,42358771,John F. Gatchet,geese
+Anna's Hummingbird,121818711,Ryan Schain,hummingbird
+Downy Woodpecker,190892961,Mason Maron,woodpecker
+Song Sparrow,309310371,Joey McCracken,lbb
+Cedar Waxwing,279489511,Mason Maron,little_colourful_birds
+Dark-eyed Junco,151357401,Grace Oliver,lbb
+Short-tailed Albatross,358102941,Teri Zambon True,seabirds
+Rough-legged Hawk,614151140,Mason Maron,big_raptors
+Long-eared Owl,205267581,Mark Houston,owl
+Anna's Hummingbird,169400701,Mason Maron,hummingbird
+Bushtit,337640861,Mason Maron,tit
+Varied Thrush,515928441,Liam Hutcheson,ground_mbb
+Long-eared Owl,299712761,Bartholomew Birdee,owl
+Golden-crowned Kinglet,338769001,Mason Maron,lbb
+Say's Phoebe,304573851,Mason Maron,robins
+Ancient Murrelet,280384531,Eric Ellingson,puffin_and_co
+Northern Flicker,236262771,Christian Hagenlocher,woodpecker
+Common Raven,168539461,Janine Schutt,black_white
+Brewer's Sparrow,634763889,Cameron Boyer,lbb
+Yellow-billed Loon,628445566,Eric Ellingson,puffin_and_co
+Pine Grosbeak,626462979,Garrett Hughes,finches
+Common Loon,624931410,Christopher Lindsey,puffin_and_co
+Long-eared Owl,615852393,Lisa Hansen,owl
+Western Flycatcher,585469591,Mason Maron,wagfantail
+Cocos Booby,474777191,Eric Ellingson,seabirds
+Short-eared Owl,392114471,Ken Pitts,owl
+Northern Fulmar,269813701,Ian Davies,seabirds
+Black-bellied Plover,269309101,Ian Davies,plovers
+Marbled Godwit,262923091,Jason Vassallo,hard_waders
+Sharp-tailed Sandpiper,260742821,Ian Davies,plovers
+Semipalmated Plover,200474621,Sharif Uddin,plovers
+Swallow-tailed Gull,67988961,Joe Sweeney,swallows
+Long-tailed Jaeger,604892701,Blair Dudeck,seabirds
+Gray-crowned Rosy-Finch,394629151,Lisa Hill,finches
+Barred Owl,152353991,Wayne Sladek,owl
+Black-capped Chickadee,206479671,Mason Maron,tit
+Williamson's Sapsucker,613588424,Jef Blake,woodpecker
+Variegated Flycatcher,42108121,Steven Mlodinow,wagfantail
+California Scrub-Jay,533092921,Katie Warner,robins
+California Scrub-Jay,529692681,Katie Warner,robins
+Black Oystercatcher,218113941,Anthony Gliozzo,plovers
+Mountain Quail,591124911,Liam Hutcheson,quails
+Ring-billed Gull,430361111,Andrew Thomas 🦅🪶,seabirds
+Orange-crowned Warbler,65659071,Gaetan Dupont,lbb
+Brown Pelican,489864531,Mason Maron,water_birds
+Wood Duck,281436441,Mason Maron,ducks
+American Robin,635536117,Mason Maron,robins
+Great Blue Heron,387818321,Mason Maron,herons
+Rock Wren,174537351,Mason Maron,lbb
+Northern Saw-whet Owl,630042840,Christopher Lindsey,owl
+Ash-throated Flycatcher,623027062,Nick  Park,wagfantail
+Spotted Towhee,620664429,Liam Hutcheson,finches
+Redpoll,611045082,Jason Vassallo,lbb
+White-tailed Ptarmigan,610031650,Nathan Wall,quails
