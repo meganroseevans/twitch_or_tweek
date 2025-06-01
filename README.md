@@ -1,6 +1,6 @@
 # My Bird Game
 
-Head to https://www.twitch-or-tweek.streamlit.app to play 🎉
+Head to https://twitch-or-tweek.streamlit.app/ to play 🎉
 
 <video width="400" height="240" controls>
   <source src="assets/twitch_or_tweek_clip.mov" type="video/mp4">
