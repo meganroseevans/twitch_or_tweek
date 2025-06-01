@@ -23,8 +23,8 @@ class BirdGame:
     def get_multichoice_options(self, target_bird_category):
         """Return list of bird names for multichoice button labels, based on game difficulty."""
 
-        full_bird_list = [re.sub('\s\(.+\)','',x) for x in self.bird_images_df.name]
-        short_bird_list = [re.sub('\s\(.+\)','',x) for x in self.bird_images_df.name[self.bird_images_df.category == target_bird_category]]
+        full_bird_list = [re.sub(r'\s\(.+\)','',x) for x in self.bird_images_df.name]
+        short_bird_list = [re.sub(r'\s\(.+\)','',x) for x in self.bird_images_df.name[self.bird_images_df.category == target_bird_category]]
 
         # Set multichoice options based on game difficulty
         if self.mode == '1 :hatching_chick: beginner':
