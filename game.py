@@ -39,12 +39,12 @@ class BirdGame:
             return audio_file.audio_id.iloc[0], audio_file.cc.iloc[0]
         else:
             return None, None
-        
+
     def show_copyright(self, hyperlink, media_type, media_cc):
         st.markdown(f'''
-            <a href=https://macaulaylibrary.org/asset/{hyperlink}
-            style="color:#cf8865;font-family:courier;font-size:80%">
-            {media_type} © {media_cc}
+            <a href="https://macaulaylibrary.org/asset/{hyperlink}" 
+               style="color:#cf8865;font-family:courier;font-size:80%">
+               {media_type} © {media_cc}
             </a>
             ''',
             unsafe_allow_html=True)
