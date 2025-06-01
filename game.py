@@ -191,7 +191,7 @@ def play_game(bird_game):
 
     # Display region select
     region_previous = bird_game.region
-    bird_game.region = st.sidebar.selectbox('Region:',options=['AU','CA','GB','JP','AUSTIN'])
+    bird_game.region = st.sidebar.selectbox('Region:',options=['AU','CA','GB','JP','TX','WA','AUSTIN'])
     
     # Re-import data when region changes
     if region_previous != bird_game.region:
